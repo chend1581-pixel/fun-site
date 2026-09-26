@@ -161,7 +161,7 @@ function initHome() {
       html += `
       <div class="news-item">
         <div class="n-title"><span class="star">${star}</span> ${esc(n.title)}</div>
-        <div class="n-meta"><span class="tag">${tag}</span>${esc(n.sentiment || '')} · ${fmtTime(n.time)}</div>
+        <div class="n-meta"><span class="tag">${tag}</span>${sentimentPill(n.sentiment)} · ${fmtTime(n.time)}</div>
       </div>`;
     });
   }
@@ -241,6 +241,12 @@ function initSupport() {
 function biasPill(b) {
   if (b === '偏多') return '<span class="pill pill-bull">偏多</span>';
   if (b === '偏空') return '<span class="pill pill-bear">偏空</span>';
+  return '<span class="pill pill-neutral">中性</span>';
+}
+
+function sentimentPill(s) {
+  if (s === 'bullish') return '<span class="pill pill-bull">偏多</span>';
+  if (s === 'bearish') return '<span class="pill pill-bear">偏空</span>';
   return '<span class="pill pill-neutral">中性</span>';
 }
 
