@@ -1,31 +1,3107 @@
 {
-  "updated": "2026-09-26T14:24:27+08:00",
+  "updated": "2026-09-26T14:54:31.007068+08:00",
   "btc": {
-    "updated": "2026-09-26T14:24:27.629477+08:00",
+    "updated": "2026-09-26T14:54:31.007068+08:00",
     "symbol": "BTCUSDT",
-    "price": 83875.1,
-    "change_pct": -0.354,
-    "volume": 118749.524,
-    "quote_volume": 9983273314.83,
-    "vol_ratio": 0.617,
+    "price": 83871.7,
+    "change_pct": -0.159,
+    "volume": 117460.123,
+    "quote_volume": 9874932031.47,
+    "vol_ratio": 0.6103173077824176,
     "open_interest": 95211.408,
-    "oi_change_pct": -0.69,
+    "oi_change_pct": -0.6899780136015561,
     "support": 74909.4,
     "resistance": 87385.1,
-    "ma20": 80123.995,
+    "ma20": 80123.825,
     "signal": "横盘整理",
     "strength": 0,
     "desc": "价格窄幅震荡",
     "trend": "中性",
     "top_trader_ratio": 1.9546,
-    "funding_rate": 5.419e-05,
+    "funding_rate": 5.023e-05,
     "inst_view": "偏多",
     "sentiment": "正常",
     "range_advice": "压力附近机构仍偏多，突破需量能配合"
   },
-  "volume_ranking": [],
-  "support_resistance": [],
-  "fundamental": [],
-  "product_news": [],
-  "global_news": []
+  "volume_ranking": [
+    {
+      "name": "燃油",
+      "symbol": "FU0",
+      "price": 4363.0,
+      "change_pct": 6.00097,
+      "volume": 733387.0,
+      "position": 174780.0,
+      "main_contract": "FU2611",
+      "vol_ratio": 0.9939791857918362,
+      "oi_change_pct": 0.0,
+      "signal": "温和上涨",
+      "strength": 1,
+      "desc": "价格上行，量仓配合一般"
+    },
+    {
+      "name": "沥青",
+      "symbol": "BU0",
+      "price": 5256.0,
+      "change_pct": 5.35177,
+      "volume": 1282795.0,
+      "position": 257077.0,
+      "main_contract": "BU2611",
+      "vol_ratio": 1.2929372306160292,
+      "oi_change_pct": 0.0,
+      "signal": "温和上涨",
+      "strength": 1,
+      "desc": "价格上行，量仓配合一般"
+    },
+    {
+      "name": "碳酸锂",
+      "symbol": "LC0",
+      "price": 124420.0,
+      "change_pct": -4.79033,
+      "volume": 288475.0,
+      "position": 429402.0,
+      "main_contract": "LC2701",
+      "vol_ratio": 1.108922829324485,
+      "oi_change_pct": 0.0,
+      "signal": "温和下跌",
+      "strength": 1,
+      "desc": "价格下行，量仓配合一般"
+    },
+    {
+      "name": "乙二醇",
+      "symbol": "EG0",
+      "price": 5412.0,
+      "change_pct": 4.5393099999999995,
+      "volume": 1329988.0,
+      "position": 282185.0,
+      "main_contract": "EG2611",
+      "vol_ratio": 1.0451721452037495,
+      "oi_change_pct": 0.0,
+      "signal": "温和上涨",
+      "strength": 1,
+      "desc": "价格上行，量仓配合一般"
+    },
+    {
+      "name": "LPG",
+      "symbol": "PG0",
+      "price": 6686.0,
+      "change_pct": 4.48508,
+      "volume": 135079.0,
+      "position": 109353.0,
+      "main_contract": "PG2611",
+      "vol_ratio": 1.0420162665178698,
+      "oi_change_pct": 0.0,
+      "signal": "温和上涨",
+      "strength": 1,
+      "desc": "价格上行，量仓配合一般"
+    },
+    {
+      "name": "苯乙烯",
+      "symbol": "EB0",
+      "price": 9730.0,
+      "change_pct": 4.29842,
+      "volume": 1145637.0,
+      "position": 366183.0,
+      "main_contract": "EB2611",
+      "vol_ratio": 1.156394163978045,
+      "oi_change_pct": 0.0,
+      "signal": "温和上涨",
+      "strength": 1,
+      "desc": "价格上行，量仓配合一般"
+    },
+    {
+      "name": "甲醇",
+      "symbol": "MA0",
+      "price": 2960.0,
+      "change_pct": 3.24381,
+      "volume": 994519.0,
+      "position": 706693.0,
+      "main_contract": "MA2701",
+      "vol_ratio": 1.124956591870831,
+      "oi_change_pct": 0.0,
+      "signal": "温和上涨",
+      "strength": 1,
+      "desc": "价格上行，量仓配合一般"
+    },
+    {
+      "name": "沪银",
+      "symbol": "AG0",
+      "price": 15661.0,
+      "change_pct": -3.23757,
+      "volume": 208171.0,
+      "position": 246698.0,
+      "main_contract": "AG2612",
+      "vol_ratio": 1.1233965624241116,
+      "oi_change_pct": 0.0,
+      "signal": "温和下跌",
+      "strength": 1,
+      "desc": "价格下行，量仓配合一般"
+    },
+    {
+      "name": "PTA",
+      "symbol": "TA0",
+      "price": 6340.0,
+      "change_pct": 3.2237099999999996,
+      "volume": 1237793.0,
+      "position": 1098111.0,
+      "main_contract": "TA2701",
+      "vol_ratio": 1.0550834888473175,
+      "oi_change_pct": 0.0,
+      "signal": "温和上涨",
+      "strength": 1,
+      "desc": "价格上行，量仓配合一般"
+    },
+    {
+      "name": "短纤",
+      "symbol": "PF0",
+      "price": 8316.0,
+      "change_pct": 2.94627,
+      "volume": 256628.0,
+      "position": 197727.0,
+      "main_contract": "PF2611",
+      "vol_ratio": 1.0215838793659386,
+      "oi_change_pct": 0.0,
+      "signal": "温和上涨",
+      "strength": 1,
+      "desc": "价格上行，量仓配合一般"
+    },
+    {
+      "name": "红枣",
+      "symbol": "CJ0",
+      "price": 7165.0,
+      "change_pct": -2.84746,
+      "volume": 308275.0,
+      "position": 249007.0,
+      "main_contract": "CJ2701",
+      "vol_ratio": 1.36892977541603,
+      "oi_change_pct": 0.0,
+      "signal": "温和下跌",
+      "strength": 1,
+      "desc": "价格下行，量仓配合一般"
+    },
+    {
+      "name": "聚丙烯",
+      "symbol": "PP0",
+      "price": 8631.0,
+      "change_pct": 2.71332,
+      "volume": 766593.0,
+      "position": 635077.0,
+      "main_contract": "PP2701",
+      "vol_ratio": 1.0085989127136024,
+      "oi_change_pct": 0.0,
+      "signal": "温和上涨",
+      "strength": 1,
+      "desc": "价格上行，量仓配合一般"
+    },
+    {
+      "name": "橡胶",
+      "symbol": "RU0",
+      "price": 19600.0,
+      "change_pct": 2.51046,
+      "volume": 408499.0,
+      "position": 151400.0,
+      "main_contract": "RU2701",
+      "vol_ratio": 1.0905409247507123,
+      "oi_change_pct": 0.0,
+      "signal": "温和上涨",
+      "strength": 1,
+      "desc": "价格上行，量仓配合一般"
+    },
+    {
+      "name": "生猪",
+      "symbol": "LH0",
+      "price": 10655.0,
+      "change_pct": -2.113,
+      "volume": 142750.0,
+      "position": 203765.0,
+      "main_contract": "LH2611",
+      "vol_ratio": 1.0334704456411437,
+      "oi_change_pct": 0.0,
+      "signal": "温和下跌",
+      "strength": 1,
+      "desc": "价格下行，量仓配合一般"
+    },
+    {
+      "name": "塑料",
+      "symbol": "L0",
+      "price": 8235.0,
+      "change_pct": 1.72946,
+      "volume": 622064.0,
+      "position": 403256.0,
+      "main_contract": "L2701",
+      "vol_ratio": 1.0595799078669121,
+      "oi_change_pct": 0.0,
+      "signal": "温和上涨",
+      "strength": 1,
+      "desc": "价格上行，量仓配合一般"
+    },
+    {
+      "name": "玻璃",
+      "symbol": "FG0",
+      "price": 914.0,
+      "change_pct": -1.5086199999999999,
+      "volume": 1029803.0,
+      "position": 1156940.0,
+      "main_contract": "FG2701",
+      "vol_ratio": 0.9561030696779668,
+      "oi_change_pct": 0.0,
+      "signal": "温和下跌",
+      "strength": 1,
+      "desc": "价格下行，量仓配合一般"
+    },
+    {
+      "name": "豆一",
+      "symbol": "A0",
+      "price": 5068.0,
+      "change_pct": 1.5021,
+      "volume": 232958.0,
+      "position": 289626.0,
+      "main_contract": "A2611",
+      "vol_ratio": 1.0978702347336713,
+      "oi_change_pct": 0.0,
+      "signal": "温和上涨",
+      "strength": 1,
+      "desc": "价格上行，量仓配合一般"
+    },
+    {
+      "name": "沪金",
+      "symbol": "AU0",
+      "price": 927.66,
+      "change_pct": -1.33166,
+      "volume": 183228.0,
+      "position": 222206.0,
+      "main_contract": "AU2612",
+      "vol_ratio": 1.2290307434320848,
+      "oi_change_pct": 0.0,
+      "signal": "温和下跌",
+      "strength": 1,
+      "desc": "价格下行，量仓配合一般"
+    },
+    {
+      "name": "纯碱",
+      "symbol": "SA0",
+      "price": 1004.0,
+      "change_pct": -1.1811,
+      "volume": 1144345.0,
+      "position": 1321610.0,
+      "main_contract": "SA2701",
+      "vol_ratio": 1.0789929166864412,
+      "oi_change_pct": 0.0,
+      "signal": "温和下跌",
+      "strength": 1,
+      "desc": "价格下行，量仓配合一般"
+    },
+    {
+      "name": "菜油",
+      "symbol": "OI0",
+      "price": 10264.0,
+      "change_pct": 1.17299,
+      "volume": 245656.0,
+      "position": 291359.0,
+      "main_contract": "OI2701",
+      "vol_ratio": 1.0545891645917405,
+      "oi_change_pct": 0.0,
+      "signal": "温和上涨",
+      "strength": 1,
+      "desc": "价格上行，量仓配合一般"
+    },
+    {
+      "name": "氧化铝",
+      "symbol": "AO0",
+      "price": 2687.0,
+      "change_pct": -1.1405399999999999,
+      "volume": 134929.0,
+      "position": 236578.0,
+      "main_contract": "AO2701",
+      "vol_ratio": 0.9197927673063159,
+      "oi_change_pct": 0.0,
+      "signal": "温和下跌",
+      "strength": 1,
+      "desc": "价格下行，量仓配合一般"
+    },
+    {
+      "name": "纸浆",
+      "symbol": "SP0",
+      "price": 4874.0,
+      "change_pct": -0.85435,
+      "volume": 323732.0,
+      "position": 164405.0,
+      "main_contract": "SP2611",
+      "vol_ratio": 0.7876148035212496,
+      "oi_change_pct": 0.0,
+      "signal": "温和下跌",
+      "strength": 1,
+      "desc": "价格下行，量仓配合一般"
+    },
+    {
+      "name": "沪铅",
+      "symbol": "PB0",
+      "price": 16270.0,
+      "change_pct": -0.7926799999999999,
+      "volume": 61406.0,
+      "position": 71087.0,
+      "main_contract": "PB2611",
+      "vol_ratio": 0.912333875628654,
+      "oi_change_pct": 0.0,
+      "signal": "温和下跌",
+      "strength": 1,
+      "desc": "价格下行，量仓配合一般"
+    },
+    {
+      "name": "棕榈油",
+      "symbol": "P0",
+      "price": 9806.0,
+      "change_pct": 0.67762,
+      "volume": 424167.0,
+      "position": 551013.0,
+      "main_contract": "P2701",
+      "vol_ratio": 0.9665989984598994,
+      "oi_change_pct": 0.0,
+      "signal": "温和上涨",
+      "strength": 1,
+      "desc": "价格上行，量仓配合一般"
+    },
+    {
+      "name": "沪镍",
+      "symbol": "NI0",
+      "price": 125320.0,
+      "change_pct": -0.65795,
+      "volume": 132223.0,
+      "position": 132548.0,
+      "main_contract": "NI2611",
+      "vol_ratio": 1.1491373553869844,
+      "oi_change_pct": 0.0,
+      "signal": "温和下跌",
+      "strength": 1,
+      "desc": "价格下行，量仓配合一般"
+    },
+    {
+      "name": "白糖",
+      "symbol": "SR0",
+      "price": 5404.0,
+      "change_pct": 0.63315,
+      "volume": 377263.0,
+      "position": 593862.0,
+      "main_contract": "SR2701",
+      "vol_ratio": 1.0942433230978659,
+      "oi_change_pct": 0.0,
+      "signal": "温和上涨",
+      "strength": 1,
+      "desc": "价格上行，量仓配合一般"
+    },
+    {
+      "name": "沪铜",
+      "symbol": "CU0",
+      "price": 110130.0,
+      "change_pct": -0.58675,
+      "volume": 73438.0,
+      "position": 178590.0,
+      "main_contract": "CU2611",
+      "vol_ratio": 0.9894504250818501,
+      "oi_change_pct": 0.0,
+      "signal": "温和下跌",
+      "strength": 1,
+      "desc": "价格下行，量仓配合一般"
+    },
+    {
+      "name": "PVC",
+      "symbol": "V0",
+      "price": 4798.0,
+      "change_pct": 0.56592,
+      "volume": 1284696.0,
+      "position": 1078964.0,
+      "main_contract": "V2701",
+      "vol_ratio": 1.036960585635276,
+      "oi_change_pct": 0.0,
+      "signal": "温和上涨",
+      "strength": 1,
+      "desc": "价格上行，量仓配合一般"
+    },
+    {
+      "name": "焦煤",
+      "symbol": "JM0",
+      "price": 1509.0,
+      "change_pct": -0.46174,
+      "volume": 576325.0,
+      "position": 411211.0,
+      "main_contract": "JM2701",
+      "vol_ratio": 1.0354616300222337,
+      "oi_change_pct": 0.0,
+      "signal": "横盘整理",
+      "strength": 0,
+      "desc": "价格窄幅震荡"
+    },
+    {
+      "name": "不锈钢",
+      "symbol": "SS0",
+      "price": 13815.0,
+      "change_pct": -0.39654,
+      "volume": 191849.0,
+      "position": 103518.0,
+      "main_contract": "SS2611",
+      "vol_ratio": 1.0979844902086096,
+      "oi_change_pct": 0.0,
+      "signal": "横盘整理",
+      "strength": 0,
+      "desc": "价格窄幅震荡"
+    },
+    {
+      "name": "豆油",
+      "symbol": "Y0",
+      "price": 8962.0,
+      "change_pct": 0.39207000000000003,
+      "volume": 208735.0,
+      "position": 628824.0,
+      "main_contract": "Y2701",
+      "vol_ratio": 0.9504522656539923,
+      "oi_change_pct": 0.0,
+      "signal": "横盘整理",
+      "strength": 0,
+      "desc": "价格窄幅震荡"
+    },
+    {
+      "name": "沪锌",
+      "symbol": "ZN0",
+      "price": 26760.0,
+      "change_pct": 0.35627,
+      "volume": 128869.0,
+      "position": 147861.0,
+      "main_contract": "ZN2611",
+      "vol_ratio": 1.0588940974433347,
+      "oi_change_pct": 0.0,
+      "signal": "横盘整理",
+      "strength": 0,
+      "desc": "价格窄幅震荡"
+    },
+    {
+      "name": "豆粕",
+      "symbol": "M0",
+      "price": 3426.0,
+      "change_pct": 0.35149,
+      "volume": 1112326.0,
+      "position": 2662957.0,
+      "main_contract": "M2701",
+      "vol_ratio": 0.9610209410061152,
+      "oi_change_pct": 0.0,
+      "signal": "横盘整理",
+      "strength": 0,
+      "desc": "价格窄幅震荡"
+    },
+    {
+      "name": "锰硅",
+      "symbol": "SM0",
+      "price": 5846.0,
+      "change_pct": -0.34095000000000003,
+      "volume": 164939.0,
+      "position": 253938.0,
+      "main_contract": "SM2611",
+      "vol_ratio": 0.888011715321983,
+      "oi_change_pct": 0.0,
+      "signal": "横盘整理",
+      "strength": 0,
+      "desc": "价格窄幅震荡"
+    },
+    {
+      "name": "苹果",
+      "symbol": "AP0",
+      "price": 7076.0,
+      "change_pct": -0.32399,
+      "volume": 104097.0,
+      "position": 137891.0,
+      "main_contract": "AP2701",
+      "vol_ratio": 0.9882032409443735,
+      "oi_change_pct": 0.0,
+      "signal": "横盘整理",
+      "strength": 0,
+      "desc": "价格窄幅震荡"
+    },
+    {
+      "name": "烧碱",
+      "symbol": "SH0",
+      "price": 1867.0,
+      "change_pct": -0.26709,
+      "volume": 269627.0,
+      "position": 209164.0,
+      "main_contract": "SH2611",
+      "vol_ratio": 0.9496377285878899,
+      "oi_change_pct": 0.0,
+      "signal": "横盘整理",
+      "strength": 0,
+      "desc": "价格窄幅震荡"
+    },
+    {
+      "name": "棉花",
+      "symbol": "CF0",
+      "price": 15835.0,
+      "change_pct": 0.25324,
+      "volume": 256818.0,
+      "position": 547146.0,
+      "main_contract": "CF2701",
+      "vol_ratio": 0.9525366124143764,
+      "oi_change_pct": 0.0,
+      "signal": "横盘整理",
+      "strength": 0,
+      "desc": "价格窄幅震荡"
+    },
+    {
+      "name": "硅铁",
+      "symbol": "SF0",
+      "price": 6012.0,
+      "change_pct": 0.23341,
+      "volume": 187575.0,
+      "position": 262919.0,
+      "main_contract": "SF2611",
+      "vol_ratio": 0.8661125249821653,
+      "oi_change_pct": 0.0,
+      "signal": "横盘整理",
+      "strength": 0,
+      "desc": "价格窄幅震荡"
+    },
+    {
+      "name": "热卷",
+      "symbol": "HC0",
+      "price": 3298.0,
+      "change_pct": -0.18159999999999998,
+      "volume": 307397.0,
+      "position": 1346999.0,
+      "main_contract": "HC2701",
+      "vol_ratio": 0.9772388652812953,
+      "oi_change_pct": 0.0,
+      "signal": "横盘整理",
+      "strength": 0,
+      "desc": "价格窄幅震荡"
+    },
+    {
+      "name": "尿素",
+      "symbol": "UR0",
+      "price": 1758.0,
+      "change_pct": 0.17094,
+      "volume": 140349.0,
+      "position": 255182.0,
+      "main_contract": "UR2701",
+      "vol_ratio": 1.1688444722048719,
+      "oi_change_pct": 0.0,
+      "signal": "横盘整理",
+      "strength": 0,
+      "desc": "价格窄幅震荡"
+    },
+    {
+      "name": "玉米",
+      "symbol": "C0",
+      "price": 2181.0,
+      "change_pct": -0.13736,
+      "volume": 465704.0,
+      "position": 1156580.0,
+      "main_contract": "C2611",
+      "vol_ratio": 0.9262991514135703,
+      "oi_change_pct": 0.0,
+      "signal": "横盘整理",
+      "strength": 0,
+      "desc": "价格窄幅震荡"
+    },
+    {
+      "name": "沪铝",
+      "symbol": "AL0",
+      "price": 24200.0,
+      "change_pct": -0.10319999999999999,
+      "volume": 174945.0,
+      "position": 280929.0,
+      "main_contract": "AL2611",
+      "vol_ratio": 1.118371565253524,
+      "oi_change_pct": 0.0,
+      "signal": "横盘整理",
+      "strength": 0,
+      "desc": "价格窄幅震荡"
+    },
+    {
+      "name": "鸡蛋",
+      "symbol": "JD0",
+      "price": 3865.0,
+      "change_pct": -0.07756,
+      "volume": 281947.0,
+      "position": 282586.0,
+      "main_contract": "JD2611",
+      "vol_ratio": 0.8897702940738679,
+      "oi_change_pct": 0.0,
+      "signal": "横盘整理",
+      "strength": 0,
+      "desc": "价格窄幅震荡"
+    },
+    {
+      "name": "花生",
+      "symbol": "PK0",
+      "price": 7998.0,
+      "change_pct": -0.07496,
+      "volume": 88927.0,
+      "position": 167927.0,
+      "main_contract": "PK2611",
+      "vol_ratio": 0.8130741144845999,
+      "oi_change_pct": 0.0,
+      "signal": "横盘整理",
+      "strength": 0,
+      "desc": "价格窄幅震荡"
+    },
+    {
+      "name": "沪锡",
+      "symbol": "SN0",
+      "price": 412790.0,
+      "change_pct": -0.058109999999999995,
+      "volume": 55203.0,
+      "position": 27012.0,
+      "main_contract": "SN2611",
+      "vol_ratio": 0.9060440687702598,
+      "oi_change_pct": 0.0,
+      "signal": "横盘整理",
+      "strength": 0,
+      "desc": "价格窄幅震荡"
+    },
+    {
+      "name": "焦炭",
+      "symbol": "J0",
+      "price": 1974.5,
+      "change_pct": -0.050620000000000005,
+      "volume": 22230.0,
+      "position": 51152.0,
+      "main_contract": "J2701",
+      "vol_ratio": 0.9671174274009354,
+      "oi_change_pct": 0.0,
+      "signal": "横盘整理",
+      "strength": 0,
+      "desc": "价格窄幅震荡"
+    },
+    {
+      "name": "菜粕",
+      "symbol": "RM0",
+      "price": 2360.0,
+      "change_pct": -0.04235,
+      "volume": 366292.0,
+      "position": 630407.0,
+      "main_contract": "RM2701",
+      "vol_ratio": 0.9712983853325349,
+      "oi_change_pct": 0.0,
+      "signal": "横盘整理",
+      "strength": 0,
+      "desc": "价格窄幅震荡"
+    },
+    {
+      "name": "螺纹钢",
+      "symbol": "RB0",
+      "price": 3118.0,
+      "change_pct": 0.03208,
+      "volume": 570630.0,
+      "position": 1615888.0,
+      "main_contract": "RB2701",
+      "vol_ratio": 0.9738247861728473,
+      "oi_change_pct": 0.0,
+      "signal": "横盘整理",
+      "strength": 0,
+      "desc": "价格窄幅震荡"
+    },
+    {
+      "name": "铁矿石",
+      "symbol": "I0",
+      "price": 713.5,
+      "change_pct": 0.0,
+      "volume": 206456.0,
+      "position": 561536.0,
+      "main_contract": "I2701",
+      "vol_ratio": 0.8764327316567897,
+      "oi_change_pct": 0.0,
+      "signal": "横盘整理",
+      "strength": 0,
+      "desc": "价格窄幅震荡"
+    }
+  ],
+  "support_resistance": [
+    {
+      "name": "螺纹钢",
+      "price": 3118.0,
+      "support": 3081.0,
+      "resistance": 3203.0,
+      "institution": "多头集中",
+      "trend": "震荡偏强"
+    },
+    {
+      "name": "沥青",
+      "price": 5256.0,
+      "support": 4521.0,
+      "resistance": 5543.0,
+      "institution": "多头集中",
+      "trend": "震荡偏强"
+    },
+    {
+      "name": "豆粕",
+      "price": 3426.0,
+      "support": 3310.0,
+      "resistance": 3502.0,
+      "institution": "多头集中",
+      "trend": "震荡偏强"
+    },
+    {
+      "name": "豆油",
+      "price": 8962.0,
+      "support": 8776.0,
+      "resistance": 9286.0,
+      "institution": "多头集中",
+      "trend": "震荡偏强"
+    },
+    {
+      "name": "豆一",
+      "price": 5068.0,
+      "support": 4892.0,
+      "resistance": 5196.0,
+      "institution": "多头集中",
+      "trend": "震荡偏强"
+    },
+    {
+      "name": "焦炭",
+      "price": 1974.5,
+      "support": 1945.0,
+      "resistance": 2276.0,
+      "institution": "多头集中",
+      "trend": "震荡偏强"
+    },
+    {
+      "name": "塑料",
+      "price": 8235.0,
+      "support": 7615.0,
+      "resistance": 8924.0,
+      "institution": "多头集中",
+      "trend": "震荡偏强"
+    },
+    {
+      "name": "聚丙烯",
+      "price": 8631.0,
+      "support": 7878.0,
+      "resistance": 9275.0,
+      "institution": "多头集中",
+      "trend": "震荡偏强"
+    },
+    {
+      "name": "乙二醇",
+      "price": 5412.0,
+      "support": 4956.0,
+      "resistance": 6304.0,
+      "institution": "多头集中",
+      "trend": "震荡偏强"
+    },
+    {
+      "name": "LPG",
+      "price": 6686.0,
+      "support": 5725.0,
+      "resistance": 7195.0,
+      "institution": "多头集中",
+      "trend": "震荡偏强"
+    },
+    {
+      "name": "PTA",
+      "price": 6340.0,
+      "support": 5544.0,
+      "resistance": 6672.0,
+      "institution": "多头集中",
+      "trend": "震荡偏强"
+    },
+    {
+      "name": "甲醇",
+      "price": 2960.0,
+      "support": 2780.0,
+      "resistance": 3576.0,
+      "institution": "多头集中",
+      "trend": "震荡偏强"
+    },
+    {
+      "name": "菜油",
+      "price": 10264.0,
+      "support": 10034.0,
+      "resistance": 10539.0,
+      "institution": "多头集中",
+      "trend": "震荡偏强"
+    },
+    {
+      "name": "碳酸锂",
+      "price": 124420.0,
+      "support": 123180.0,
+      "resistance": 162860.0,
+      "institution": "多头集中",
+      "trend": "震荡偏强"
+    },
+    {
+      "name": "沪铜",
+      "price": 110130.0,
+      "support": 106650.0,
+      "resistance": 112330.0,
+      "institution": "空头集中",
+      "trend": "中性"
+    },
+    {
+      "name": "沪锌",
+      "price": 26760.0,
+      "support": 25960.0,
+      "resistance": 27895.0,
+      "institution": "均衡",
+      "trend": "中性"
+    },
+    {
+      "name": "沪锡",
+      "price": 412790.0,
+      "support": 389420.0,
+      "resistance": 427970.0,
+      "institution": "空头集中",
+      "trend": "中性"
+    },
+    {
+      "name": "沪金",
+      "price": 927.66,
+      "support": 923.3,
+      "resistance": 1003.68,
+      "institution": "空头集中",
+      "trend": "中性"
+    },
+    {
+      "name": "沪银",
+      "price": 15661.0,
+      "support": 15285.0,
+      "resistance": 17388.0,
+      "institution": "空头集中",
+      "trend": "中性"
+    },
+    {
+      "name": "热卷",
+      "price": 3298.0,
+      "support": 3283.0,
+      "resistance": 3415.0,
+      "institution": "均衡",
+      "trend": "中性"
+    },
+    {
+      "name": "不锈钢",
+      "price": 13815.0,
+      "support": 13290.0,
+      "resistance": 14140.0,
+      "institution": "空头集中",
+      "trend": "中性"
+    },
+    {
+      "name": "燃油",
+      "price": 4363.0,
+      "support": 3580.0,
+      "resistance": 4606.0,
+      "institution": "空头集中",
+      "trend": "中性"
+    },
+    {
+      "name": "铁矿石",
+      "price": 713.5,
+      "support": 704.5,
+      "resistance": 745.0,
+      "institution": "空头集中",
+      "trend": "中性"
+    },
+    {
+      "name": "焦煤",
+      "price": 1509.0,
+      "support": 1474.5,
+      "resistance": 1763.5,
+      "institution": "均衡",
+      "trend": "中性"
+    },
+    {
+      "name": "苯乙烯",
+      "price": 9730.0,
+      "support": 8570.0,
+      "resistance": 10724.0,
+      "institution": "均衡",
+      "trend": "中性"
+    },
+    {
+      "name": "鸡蛋",
+      "price": 3865.0,
+      "support": 3651.0,
+      "resistance": 3908.0,
+      "institution": "空头集中",
+      "trend": "中性"
+    },
+    {
+      "name": "菜粕",
+      "price": 2360.0,
+      "support": 2275.0,
+      "resistance": 2442.0,
+      "institution": "空头集中",
+      "trend": "中性"
+    },
+    {
+      "name": "锰硅",
+      "price": 5846.0,
+      "support": 5760.0,
+      "resistance": 6242.0,
+      "institution": "空头集中",
+      "trend": "中性"
+    },
+    {
+      "name": "硅铁",
+      "price": 6012.0,
+      "support": 5954.0,
+      "resistance": 6624.0,
+      "institution": "空头集中",
+      "trend": "中性"
+    },
+    {
+      "name": "短纤",
+      "price": 8316.0,
+      "support": 7420.0,
+      "resistance": 8896.0,
+      "institution": "均衡",
+      "trend": "中性"
+    },
+    {
+      "name": "花生",
+      "price": 7998.0,
+      "support": 7764.0,
+      "resistance": 8140.0,
+      "institution": "空头集中",
+      "trend": "中性"
+    },
+    {
+      "name": "烧碱",
+      "price": 1867.0,
+      "support": 1858.0,
+      "resistance": 2022.0,
+      "institution": "空头集中",
+      "trend": "中性"
+    },
+    {
+      "name": "沪铝",
+      "price": 24200.0,
+      "support": 23840.0,
+      "resistance": 24675.0,
+      "institution": "空头集中",
+      "trend": "震荡偏弱"
+    },
+    {
+      "name": "沪镍",
+      "price": 125320.0,
+      "support": 120270.0,
+      "resistance": 129540.0,
+      "institution": "空头集中",
+      "trend": "震荡偏弱"
+    },
+    {
+      "name": "沪铅",
+      "price": 16270.0,
+      "support": 15750.0,
+      "resistance": 16495.0,
+      "institution": "空头集中",
+      "trend": "震荡偏弱"
+    },
+    {
+      "name": "橡胶",
+      "price": 19600.0,
+      "support": 18505.0,
+      "resistance": 19810.0,
+      "institution": "空头集中",
+      "trend": "震荡偏弱"
+    },
+    {
+      "name": "纸浆",
+      "price": 4874.0,
+      "support": 4704.0,
+      "resistance": 4988.0,
+      "institution": "空头集中",
+      "trend": "震荡偏弱"
+    },
+    {
+      "name": "氧化铝",
+      "price": 2687.0,
+      "support": 2605.0,
+      "resistance": 2822.0,
+      "institution": "空头集中",
+      "trend": "震荡偏弱"
+    },
+    {
+      "name": "棕榈油",
+      "price": 9806.0,
+      "support": 9648.0,
+      "resistance": 10489.0,
+      "institution": "空头集中",
+      "trend": "震荡偏弱"
+    },
+    {
+      "name": "玉米",
+      "price": 2181.0,
+      "support": 2166.0,
+      "resistance": 2310.0,
+      "institution": "空头集中",
+      "trend": "震荡偏弱"
+    },
+    {
+      "name": "PVC",
+      "price": 4798.0,
+      "support": 4470.0,
+      "resistance": 5194.0,
+      "institution": "空头集中",
+      "trend": "震荡偏弱"
+    },
+    {
+      "name": "生猪",
+      "price": 10655.0,
+      "support": 10650.0,
+      "resistance": 12150.0,
+      "institution": "空头集中",
+      "trend": "震荡偏弱"
+    },
+    {
+      "name": "纯碱",
+      "price": 1004.0,
+      "support": 997.0,
+      "resistance": 1112.0,
+      "institution": "空头集中",
+      "trend": "震荡偏弱"
+    },
+    {
+      "name": "玻璃",
+      "price": 914.0,
+      "support": 902.0,
+      "resistance": 1010.0,
+      "institution": "空头集中",
+      "trend": "震荡偏弱"
+    },
+    {
+      "name": "尿素",
+      "price": 1758.0,
+      "support": 1739.0,
+      "resistance": 1845.0,
+      "institution": "空头集中",
+      "trend": "震荡偏弱"
+    },
+    {
+      "name": "棉花",
+      "price": 15835.0,
+      "support": 15705.0,
+      "resistance": 17345.0,
+      "institution": "空头集中",
+      "trend": "震荡偏弱"
+    },
+    {
+      "name": "白糖",
+      "price": 5404.0,
+      "support": 5305.0,
+      "resistance": 5510.0,
+      "institution": "空头集中",
+      "trend": "震荡偏弱"
+    },
+    {
+      "name": "苹果",
+      "price": 7076.0,
+      "support": 7004.0,
+      "resistance": 7788.0,
+      "institution": "空头集中",
+      "trend": "震荡偏弱"
+    },
+    {
+      "name": "红枣",
+      "price": 7165.0,
+      "support": 7155.0,
+      "resistance": 8200.0,
+      "institution": "空头集中",
+      "trend": "震荡偏弱"
+    }
+  ],
+  "fundamental": [
+    {
+      "name": "豆一",
+      "price": 5068.0,
+      "change_pct": 1.5021,
+      "basis": 0.12372505543237255,
+      "basis_desc": "升水0.1%",
+      "inventory": [
+        "stable",
+        -0.13
+      ],
+      "inventory_desc": "稳定",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "多头集中 减仓",
+      "member_net": -13.7,
+      "total": 2,
+      "bias": "偏多"
+    },
+    {
+      "name": "聚丙烯",
+      "price": 8631.0,
+      "change_pct": 2.71332,
+      "basis": -0.12671134121799033,
+      "basis_desc": "贴水0.1%",
+      "inventory": [
+        "decrease",
+        -2.51
+      ],
+      "inventory_desc": "去库-2.5%",
+      "supply_desc": "—",
+      "policy_desc": "反倾销",
+      "funds_desc": "多头集中",
+      "member_net": -14.2,
+      "total": 2,
+      "bias": "偏多"
+    },
+    {
+      "name": "沪锌",
+      "price": 26760.0,
+      "change_pct": 0.35627,
+      "basis": 0.0022847297651598097,
+      "basis_desc": "平水",
+      "inventory": [
+        "decrease",
+        -1.61
+      ],
+      "inventory_desc": "去库-1.6%",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "均衡 增仓",
+      "member_net": 0.2,
+      "total": 1,
+      "bias": "中性"
+    },
+    {
+      "name": "沪锡",
+      "price": 412790.0,
+      "change_pct": -0.058109999999999995,
+      "basis": 0.0020998968258785222,
+      "basis_desc": "平水",
+      "inventory": [
+        "decrease",
+        -2.18
+      ],
+      "inventory_desc": "去库-2.2%",
+      "supply_desc": "减产",
+      "policy_desc": "—",
+      "funds_desc": "空头集中 增仓",
+      "member_net": 13.3,
+      "total": 1,
+      "bias": "中性"
+    },
+    {
+      "name": "塑料",
+      "price": 8235.0,
+      "change_pct": 1.72946,
+      "basis": -0.10408010731455763,
+      "basis_desc": "贴水0.1%",
+      "inventory": [
+        "stable",
+        0.0
+      ],
+      "inventory_desc": "稳定",
+      "supply_desc": "停产/去库",
+      "policy_desc": "—",
+      "funds_desc": "多头集中 减仓",
+      "member_net": -5.0,
+      "total": 1,
+      "bias": "中性"
+    },
+    {
+      "name": "苯乙烯",
+      "price": 9730.0,
+      "change_pct": 4.29842,
+      "basis": -0.03472222222222221,
+      "basis_desc": "平水",
+      "inventory": [
+        "decrease",
+        -13.52
+      ],
+      "inventory_desc": "去库-13.5%",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "均衡 增仓",
+      "member_net": -0.8,
+      "total": 1,
+      "bias": "中性"
+    },
+    {
+      "name": "LPG",
+      "price": 6686.0,
+      "change_pct": 4.48508,
+      "basis": -0.14006430868167208,
+      "basis_desc": "贴水0.1%",
+      "inventory": [
+        "decrease",
+        -2.16
+      ],
+      "inventory_desc": "去库-2.2%",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "多头集中",
+      "member_net": -5.4,
+      "total": 1,
+      "bias": "中性"
+    },
+    {
+      "name": "甲醇",
+      "price": 2960.0,
+      "change_pct": 3.24381,
+      "basis": -0.2798053527980535,
+      "basis_desc": "贴水0.3%",
+      "inventory": [
+        "stable",
+        0.0
+      ],
+      "inventory_desc": "稳定",
+      "supply_desc": "去库",
+      "policy_desc": "—",
+      "funds_desc": "多头集中",
+      "member_net": -18.9,
+      "total": 1,
+      "bias": "中性"
+    },
+    {
+      "name": "棉花",
+      "price": 15835.0,
+      "change_pct": 0.25324,
+      "basis": -0.08989911587736643,
+      "basis_desc": "平水",
+      "inventory": [
+        "decrease",
+        -1.39
+      ],
+      "inventory_desc": "去库-1.4%",
+      "supply_desc": "减产",
+      "policy_desc": "—",
+      "funds_desc": "空头集中",
+      "member_net": 27.7,
+      "total": 1,
+      "bias": "中性"
+    },
+    {
+      "name": "碳酸锂",
+      "price": 124420.0,
+      "change_pct": -4.79033,
+      "basis": -0.027968749999999987,
+      "basis_desc": "平水",
+      "inventory": [
+        "decrease",
+        -2.62
+      ],
+      "inventory_desc": "去库-2.6%",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "—",
+      "member_net": null,
+      "total": 1,
+      "bias": "中性"
+    },
+    {
+      "name": "沪铝",
+      "price": 24200.0,
+      "change_pct": -0.10319999999999999,
+      "basis": -0.002473206924979432,
+      "basis_desc": "平水",
+      "inventory": [
+        "decrease",
+        -6.76
+      ],
+      "inventory_desc": "去库-6.8%",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "空头集中 减仓",
+      "member_net": 12.4,
+      "total": 0,
+      "bias": "中性"
+    },
+    {
+      "name": "沪镍",
+      "price": 125320.0,
+      "change_pct": -0.65795,
+      "basis": -0.019149516849738646,
+      "basis_desc": "平水",
+      "inventory": [
+        "stable",
+        -0.39
+      ],
+      "inventory_desc": "稳定",
+      "supply_desc": "减产",
+      "policy_desc": "—",
+      "funds_desc": "空头集中",
+      "member_net": 14.3,
+      "total": 0,
+      "bias": "中性"
+    },
+    {
+      "name": "螺纹钢",
+      "price": 3118.0,
+      "change_pct": 0.03208,
+      "basis": -0.017488577280605044,
+      "basis_desc": "平水",
+      "inventory": [
+        "increase",
+        16.88
+      ],
+      "inventory_desc": "累库16.9%",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "多头集中",
+      "member_net": -6.3,
+      "total": 0,
+      "bias": "中性"
+    },
+    {
+      "name": "热卷",
+      "price": 3298.0,
+      "change_pct": -0.18159999999999998,
+      "basis": -0.006027727546714878,
+      "basis_desc": "平水",
+      "inventory": [
+        "stable",
+        -0.16
+      ],
+      "inventory_desc": "稳定",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "均衡 增仓",
+      "member_net": -1.2,
+      "total": 0,
+      "bias": "中性"
+    },
+    {
+      "name": "不锈钢",
+      "price": 13815.0,
+      "change_pct": -0.39654,
+      "basis": -0.02136977063287593,
+      "basis_desc": "平水",
+      "inventory": [
+        "stable",
+        -0.27
+      ],
+      "inventory_desc": "稳定",
+      "supply_desc": "—",
+      "policy_desc": "反倾销",
+      "funds_desc": "空头集中 减仓",
+      "member_net": 19.0,
+      "total": 0,
+      "bias": "中性"
+    },
+    {
+      "name": "沥青",
+      "price": 5256.0,
+      "change_pct": 5.35177,
+      "basis": -0.14951456310679612,
+      "basis_desc": "贴水0.1%",
+      "inventory": null,
+      "inventory_desc": "—",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "多头集中",
+      "member_net": -4.9,
+      "total": 0,
+      "bias": "中性"
+    },
+    {
+      "name": "豆粕",
+      "price": 3426.0,
+      "change_pct": 0.35149,
+      "basis": 0.00764705882352934,
+      "basis_desc": "平水",
+      "inventory": [
+        "increase",
+        1.05
+      ],
+      "inventory_desc": "累库1.1%",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "多头集中",
+      "member_net": -29.8,
+      "total": 0,
+      "bias": "中性"
+    },
+    {
+      "name": "豆油",
+      "price": 8962.0,
+      "change_pct": 0.39207000000000003,
+      "basis": -0.006209802616988225,
+      "basis_desc": "平水",
+      "inventory": [
+        "increase",
+        4.71
+      ],
+      "inventory_desc": "累库4.7%",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "多头集中",
+      "member_net": -28.6,
+      "total": 0,
+      "bias": "中性"
+    },
+    {
+      "name": "焦炭",
+      "price": 1974.5,
+      "change_pct": -0.050620000000000005,
+      "basis": -0.1377729257641921,
+      "basis_desc": "贴水0.1%",
+      "inventory": [
+        "stable",
+        0.0
+      ],
+      "inventory_desc": "稳定",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "多头集中 减仓",
+      "member_net": -3.3,
+      "total": 0,
+      "bias": "中性"
+    },
+    {
+      "name": "PVC",
+      "price": 4798.0,
+      "change_pct": 0.56592,
+      "basis": 0.028510182207931445,
+      "basis_desc": "平水",
+      "inventory": [
+        "stable",
+        -0.06
+      ],
+      "inventory_desc": "稳定",
+      "supply_desc": "检修/停产",
+      "policy_desc": "—",
+      "funds_desc": "空头集中 减仓",
+      "member_net": 9.4,
+      "total": 0,
+      "bias": "中性"
+    },
+    {
+      "name": "菜油",
+      "price": 10264.0,
+      "change_pct": 1.17299,
+      "basis": -0.037509377344336126,
+      "basis_desc": "平水",
+      "inventory": [
+        "stable",
+        0.0
+      ],
+      "inventory_desc": "稳定",
+      "supply_desc": "增产",
+      "policy_desc": "—",
+      "funds_desc": "多头集中 增仓",
+      "member_net": -26.2,
+      "total": 0,
+      "bias": "中性"
+    },
+    {
+      "name": "硅铁",
+      "price": 6012.0,
+      "change_pct": 0.23341,
+      "basis": 0.04947657094178837,
+      "basis_desc": "平水",
+      "inventory": [
+        "decrease",
+        -4.22
+      ],
+      "inventory_desc": "去库-4.2%",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "空头集中 减仓",
+      "member_net": 15.7,
+      "total": 0,
+      "bias": "中性"
+    },
+    {
+      "name": "短纤",
+      "price": 8316.0,
+      "change_pct": 2.94627,
+      "basis": -0.03265769040625821,
+      "basis_desc": "平水",
+      "inventory": null,
+      "inventory_desc": "—",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "均衡 减仓",
+      "member_net": 0.9,
+      "total": 0,
+      "bias": "中性"
+    },
+    {
+      "name": "红枣",
+      "price": 7165.0,
+      "change_pct": -2.84746,
+      "basis": null,
+      "basis_desc": "平水",
+      "inventory": [
+        "decrease",
+        -6.14
+      ],
+      "inventory_desc": "去库-6.1%",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "空头集中 增仓",
+      "member_net": 5.2,
+      "total": 0,
+      "bias": "中性"
+    },
+    {
+      "name": "烧碱",
+      "price": 1867.0,
+      "change_pct": -0.26709,
+      "basis": 1.9217527386541473,
+      "basis_desc": "升水1.9%",
+      "inventory": null,
+      "inventory_desc": "—",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "空头集中 减仓",
+      "member_net": 23.0,
+      "total": 0,
+      "bias": "中性"
+    },
+    {
+      "name": "沪铜",
+      "price": 110130.0,
+      "change_pct": -0.58675,
+      "basis": -0.017982433183258983,
+      "basis_desc": "平水",
+      "inventory": [
+        "decrease",
+        -12.93
+      ],
+      "inventory_desc": "去库-12.9%",
+      "supply_desc": "—",
+      "policy_desc": "加息",
+      "funds_desc": "空头集中 增仓",
+      "member_net": 13.6,
+      "total": -1,
+      "bias": "中性"
+    },
+    {
+      "name": "沪银",
+      "price": 15661.0,
+      "change_pct": -3.23757,
+      "basis": 0.0047043592788402755,
+      "basis_desc": "平水",
+      "inventory": [
+        "stable",
+        0.12
+      ],
+      "inventory_desc": "稳定",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "空头集中 增仓",
+      "member_net": 29.7,
+      "total": -1,
+      "bias": "中性"
+    },
+    {
+      "name": "纸浆",
+      "price": 4874.0,
+      "change_pct": -0.85435,
+      "basis": -0.02128514056224895,
+      "basis_desc": "平水",
+      "inventory": [
+        "stable",
+        0.01
+      ],
+      "inventory_desc": "稳定",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "空头集中 减仓",
+      "member_net": 27.7,
+      "total": -1,
+      "bias": "中性"
+    },
+    {
+      "name": "氧化铝",
+      "price": 2687.0,
+      "change_pct": -1.1405399999999999,
+      "basis": null,
+      "basis_desc": "平水",
+      "inventory": [
+        "stable",
+        0.0
+      ],
+      "inventory_desc": "稳定",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "空头集中 增仓",
+      "member_net": 12.1,
+      "total": -1,
+      "bias": "中性"
+    },
+    {
+      "name": "铁矿石",
+      "price": 713.5,
+      "change_pct": 0.0,
+      "basis": 0.025969170597031965,
+      "basis_desc": "平水",
+      "inventory": [
+        "stable",
+        0.0
+      ],
+      "inventory_desc": "稳定",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "空头集中 减仓",
+      "member_net": 12.7,
+      "total": -1,
+      "bias": "中性"
+    },
+    {
+      "name": "棕榈油",
+      "price": 9806.0,
+      "change_pct": 0.67762,
+      "basis": 0.04009333899024181,
+      "basis_desc": "平水",
+      "inventory": null,
+      "inventory_desc": "—",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "空头集中 减仓",
+      "member_net": 16.8,
+      "total": -1,
+      "bias": "中性"
+    },
+    {
+      "name": "玉米",
+      "price": 2181.0,
+      "change_pct": -0.13736,
+      "basis": -0.01184338102703042,
+      "basis_desc": "平水",
+      "inventory": [
+        "stable",
+        0.0
+      ],
+      "inventory_desc": "稳定",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "空头集中 减仓",
+      "member_net": 8.2,
+      "total": -1,
+      "bias": "中性"
+    },
+    {
+      "name": "焦煤",
+      "price": 1509.0,
+      "change_pct": -0.46174,
+      "basis": -0.36025437201907795,
+      "basis_desc": "贴水0.4%",
+      "inventory": null,
+      "inventory_desc": "—",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "均衡 减仓",
+      "member_net": -0.7,
+      "total": -1,
+      "bias": "中性"
+    },
+    {
+      "name": "乙二醇",
+      "price": 5412.0,
+      "change_pct": 4.5393099999999995,
+      "basis": -0.17750759878419453,
+      "basis_desc": "贴水0.2%",
+      "inventory": [
+        "increase",
+        13.22
+      ],
+      "inventory_desc": "累库13.2%",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "多头集中 增仓",
+      "member_net": -4.5,
+      "total": -1,
+      "bias": "中性"
+    },
+    {
+      "name": "生猪",
+      "price": 10655.0,
+      "change_pct": -2.113,
+      "basis": 0.007088846880907385,
+      "basis_desc": "平水",
+      "inventory": [
+        "stable",
+        0.0
+      ],
+      "inventory_desc": "稳定",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "空头集中 减仓",
+      "member_net": 10.8,
+      "total": -1,
+      "bias": "中性"
+    },
+    {
+      "name": "PTA",
+      "price": 6340.0,
+      "change_pct": 3.2237099999999996,
+      "basis": -0.1129765652325988,
+      "basis_desc": "贴水0.1%",
+      "inventory": null,
+      "inventory_desc": "—",
+      "supply_desc": "累库",
+      "policy_desc": "—",
+      "funds_desc": "多头集中",
+      "member_net": -9.4,
+      "total": -1,
+      "bias": "中性"
+    },
+    {
+      "name": "玻璃",
+      "price": 914.0,
+      "change_pct": -1.5086199999999999,
+      "basis": -0.07113821138211385,
+      "basis_desc": "平水",
+      "inventory": null,
+      "inventory_desc": "—",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "空头集中 减仓",
+      "member_net": 27.7,
+      "total": -1,
+      "bias": "中性"
+    },
+    {
+      "name": "尿素",
+      "price": 1758.0,
+      "change_pct": 0.17094,
+      "basis": 0.007449856733524385,
+      "basis_desc": "平水",
+      "inventory": [
+        "stable",
+        -0.04
+      ],
+      "inventory_desc": "稳定",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "空头集中",
+      "member_net": 20.2,
+      "total": -1,
+      "bias": "中性"
+    },
+    {
+      "name": "白糖",
+      "price": 5404.0,
+      "change_pct": 0.63315,
+      "basis": 0.043243243243243246,
+      "basis_desc": "平水",
+      "inventory": [
+        "stable",
+        0.0
+      ],
+      "inventory_desc": "稳定",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "空头集中 减仓",
+      "member_net": 15.6,
+      "total": -1,
+      "bias": "中性"
+    },
+    {
+      "name": "菜粕",
+      "price": 2360.0,
+      "change_pct": -0.04235,
+      "basis": -0.03594771241830064,
+      "basis_desc": "平水",
+      "inventory": [
+        "stable",
+        0.0
+      ],
+      "inventory_desc": "稳定",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "空头集中 减仓",
+      "member_net": 4.5,
+      "total": -1,
+      "bias": "中性"
+    },
+    {
+      "name": "苹果",
+      "price": 7076.0,
+      "change_pct": -0.32399,
+      "basis": null,
+      "basis_desc": "平水",
+      "inventory": null,
+      "inventory_desc": "—",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "空头集中 增仓",
+      "member_net": 25.5,
+      "total": -1,
+      "bias": "中性"
+    },
+    {
+      "name": "花生",
+      "price": 7998.0,
+      "change_pct": -0.07496,
+      "basis": null,
+      "basis_desc": "平水",
+      "inventory": null,
+      "inventory_desc": "—",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "空头集中 减仓",
+      "member_net": 14.0,
+      "total": -1,
+      "bias": "中性"
+    },
+    {
+      "name": "沪金",
+      "price": 927.66,
+      "change_pct": -1.33166,
+      "basis": 0.001176381708883234,
+      "basis_desc": "平水",
+      "inventory": [
+        "increase",
+        1.05
+      ],
+      "inventory_desc": "累库1.1%",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "空头集中 增仓",
+      "member_net": 5.8,
+      "total": -2,
+      "bias": "偏空"
+    },
+    {
+      "name": "燃油",
+      "price": 4363.0,
+      "change_pct": 6.00097,
+      "basis": -0.42402640264026403,
+      "basis_desc": "贴水0.4%",
+      "inventory": [
+        "stable",
+        0.0
+      ],
+      "inventory_desc": "稳定",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "空头集中",
+      "member_net": 6.1,
+      "total": -2,
+      "bias": "偏空"
+    },
+    {
+      "name": "橡胶",
+      "price": 19600.0,
+      "change_pct": 2.51046,
+      "basis": 0.045797946501032305,
+      "basis_desc": "平水",
+      "inventory": [
+        "increase",
+        2.46
+      ],
+      "inventory_desc": "累库2.5%",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "空头集中 减仓",
+      "member_net": 3.1,
+      "total": -2,
+      "bias": "偏空"
+    },
+    {
+      "name": "鸡蛋",
+      "price": 3865.0,
+      "change_pct": -0.07756,
+      "basis": -0.238423645320197,
+      "basis_desc": "贴水0.2%",
+      "inventory": null,
+      "inventory_desc": "—",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "空头集中 减仓",
+      "member_net": 9.3,
+      "total": -2,
+      "bias": "偏空"
+    },
+    {
+      "name": "锰硅",
+      "price": 5846.0,
+      "change_pct": -0.34095000000000003,
+      "basis": 0.02489481065918664,
+      "basis_desc": "平水",
+      "inventory": [
+        "increase",
+        1.25
+      ],
+      "inventory_desc": "累库1.2%",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "空头集中",
+      "member_net": 2.5,
+      "total": -2,
+      "bias": "偏空"
+    },
+    {
+      "name": "沪铅",
+      "price": 16270.0,
+      "change_pct": -0.7926799999999999,
+      "basis": 7.683442182093714e-05,
+      "basis_desc": "平水",
+      "inventory": [
+        "stable",
+        -0.28
+      ],
+      "inventory_desc": "稳定",
+      "supply_desc": "减产/复产",
+      "policy_desc": "复产",
+      "funds_desc": "空头集中 减仓",
+      "member_net": 10.4,
+      "total": -3,
+      "bias": "偏空"
+    },
+    {
+      "name": "纯碱",
+      "price": 1004.0,
+      "change_pct": -1.1811,
+      "basis": -0.06666294819235674,
+      "basis_desc": "平水",
+      "inventory": [
+        "increase",
+        10.03
+      ],
+      "inventory_desc": "累库10.0%",
+      "supply_desc": "检修/高库存",
+      "policy_desc": "—",
+      "funds_desc": "空头集中",
+      "member_net": 14.9,
+      "total": -3,
+      "bias": "偏空"
+    }
+  ],
+  "product_news": [
+    {
+      "product": "焦炭",
+      "title": "焦炭概念强势拉升，机构称行业风险已基本出清|异动情报",
+      "content": "长江证券研报指出，2026年焦炭行业产能高位运行，新增产能投放已进入尾声，供给边际增量趋于收敛；需求端传统钢铁下游承压，但煤化工用焦需求占比提升至8.42%，形成边际支撑；吨焦盈利处于历史底部，进一步下行空间有限，行业风险已基本出清。",
+      "level": 3,
+      "score": 7,
+      "keywords": [
+        "新增产能",
+        "需求",
+        "增产",
+        "历史"
+      ],
+      "sentiment": "bearish",
+      "time": "2026-09-24 10:33:00",
+      "source": "21世纪经济报道",
+      "url": "http://finance.eastmoney.com/a/202609243883484668.html"
+    },
+    {
+      "product": "PVC",
+      "title": "乙烯法PVC成本倒挂 镇洋发展30万吨产能停产检修",
+      "content": "成本倒挂 根据镇洋发展公告，综合考量PVC生产成本与市场行情，叠加装置性能提升需求，其决定对PVC主设备实施临时停产检修，以减少经营亏损。 据悉，镇洋发展本次停产检修的30万吨PVC装置，是其全部乙烯法PVC产能。",
+      "level": 3,
+      "score": 7,
+      "keywords": [
+        "停产",
+        "检修",
+        "装置",
+        "需求"
+      ],
+      "sentiment": "neutral",
+      "time": "2026-09-26 04:25:21",
+      "source": "中国经营网",
+      "url": "http://finance.eastmoney.com/a/202609263884355788.html"
+    },
+    {
+      "product": "聚丙烯",
+      "title": "巴基斯坦维持对华双向拉伸聚丙烯自粘胶带卷反倾销终裁结果",
+      "content": "2024年8月5日，巴基斯坦对原产于或进口自中国的双向拉伸聚丙烯自粘胶带卷启动反倾销调查。2025年5月24日，巴基斯坦对该案作出肯定性终裁。应利益相关方提起的上诉，2026年5月4日，巴基斯坦反倾销上诉法庭将该案返回巴基斯坦关税委员会重新审查。",
+      "level": 3,
+      "score": 7,
+      "keywords": [
+        "关税",
+        "反倾销",
+        "进口"
+      ],
+      "sentiment": "neutral",
+      "time": "2026-08-21 09:52:21",
+      "source": "界面新闻",
+      "url": "http://finance.eastmoney.com/a/202608213848890657.html"
+    },
+    {
+      "product": "菜粕",
+      "title": "菜粕 成本支撑减弱",
+      "content": "菜籽集中到港后，国内沿海油厂开工率将逐步修复，菜粕产量也将持续增加。除菜籽压榨产出之外，直接进口菜粕也会带来供应增量，国际菜粕出口价格处于历史低位，进口菜粕性价比优势突出，国内菜粕的供应压力将逐步显现。",
+      "level": 3,
+      "score": 7,
+      "keywords": [
+        "开工率",
+        "进口",
+        "出口",
+        "历史"
+      ],
+      "sentiment": "neutral",
+      "time": "2026-09-15 20:52:55",
+      "source": "期货日报",
+      "url": "http://finance.eastmoney.com/a/202609153876358880.html"
+    },
+    {
+      "product": "沪铝",
+      "title": "沪铝 结构性独立行情延续",
+      "content": "内外供给分化 外围供给边际修复、国内供给增量受限的格局，为沪铝价格提供了扎实的底部支撑。从外围市场来看，地缘冲突带来的供给扰动仍在持续，但边际约束力正逐步弱化。",
+      "level": 3,
+      "score": 6,
+      "keywords": [
+        "冲突",
+        "地缘"
+      ],
+      "sentiment": "neutral",
+      "time": "2026-09-16 19:29:32",
+      "source": "期货日报",
+      "url": "http://finance.eastmoney.com/a/202609163877257629.html"
+    },
+    {
+      "product": "氧化铝",
+      "title": "有色/贵金属 | 国内氧化铝运行产能即将破亿 平衡处于宽松状态",
+      "content": "【氧化铝】 国内氧化铝运行产能即将破亿，平衡处于宽松状态，行业持续累库。近期矿石海运费上涨以及期现交易活跃度较高暂时缓解一定现货跌价压力，但过剩前景压制下反弹驱动有限，预计氧化铝仍将维持低位震荡，下方支撑在2600元。 【锌】 加息靴子落地，悲观情绪释放。",
+      "level": 3,
+      "score": 6,
+      "keywords": [
+        "加息",
+        "累库"
+      ],
+      "sentiment": "bullish",
+      "time": "2026-09-21 08:59:20",
+      "source": "国投期货",
+      "url": "http://finance.eastmoney.com/a/202609213879546682.html"
+    },
+    {
+      "product": "豆一",
+      "title": "我国进口美国大豆成本较巴西高510元/吨",
+      "content": "9月18日，我国进口11月船期美国大豆CNF报价606美元/吨，较巴西大豆高9美元/吨；折合华南地区到港完税成本5097元/吨（13%关税），较巴西大豆高510元/吨。",
+      "level": 3,
+      "score": 6,
+      "keywords": [
+        "关税",
+        "进口",
+        "美元"
+      ],
+      "sentiment": "neutral",
+      "time": "2026-09-21 10:11:52",
+      "source": "国家粮食和物资储备局",
+      "url": "http://finance.eastmoney.com/a/202609213879753794.html"
+    },
+    {
+      "product": "PVC",
+      "title": "镇洋发展：PVC装置临时停产预计不超过4个月",
+      "content": "为减少经营亏损并提升装置性能，公司计划对年产30万吨乙烯基新材料装置PVC装置)实施临时停产，并对主要设备进行检修。本次停产自2026年9月19日起，预计不超过4个月。停产期间其他装置正常运行，预计对营收有一定影响，但可减少经营亏损，不会对长期发展产生不利影响。",
+      "level": 3,
+      "score": 6,
+      "keywords": [
+        "停产",
+        "检修",
+        "装置"
+      ],
+      "sentiment": "neutral",
+      "time": "2026-09-18 19:51:19",
+      "source": "财联社",
+      "url": "http://finance.eastmoney.com/a/202609183878758835.html"
+    },
+    {
+      "product": "短纤",
+      "title": "央行长短“组合拳”呵护流动性",
+      "content": "9月23日，中国人民银行发布的公开市场业务公告显示，为更好匹配银行体系短期流动性需求，中国人民银行将在9月28日至10月8日开展隔夜逆回购操作，采用固定利率、数量招标，每日操作量不超过10000亿元。 这是中国人民银行9月以来第二次宣布开展隔夜逆回购操作。此前的9月10日，中国人民银行发布公告称",
+      "level": 3,
+      "score": 6,
+      "keywords": [
+        "央行",
+        "逆回购",
+        "需求"
+      ],
+      "sentiment": "neutral",
+      "time": "2026-09-24 00:30:00",
+      "source": "证券日报",
+      "url": "http://finance.eastmoney.com/a/202609243882828114.html"
+    },
+    {
+      "product": "螺纹钢",
+      "title": "黑色系 | 螺纹钢产量维持低位 但“金九”需求增加尚未兑现 短线行情或有反复",
+      "content": "供需情况，螺纹钢周度产量小幅上调，产能利用率为37.62%，表观需求回升，库存则继续下滑。整体上，螺纹钢产量维持低位，但“金九”需求增加尚未兑现，焦煤反弹对成材构成支撑，短线行情或有反复。 热卷 夜盘HC2701合约震荡走高。",
+      "level": 2,
+      "score": 5,
+      "keywords": [
+        "库存",
+        "需求",
+        "产量"
+      ],
+      "sentiment": "bullish",
+      "time": "2026-09-15 09:07:11",
+      "source": "瑞达期货",
+      "url": "http://finance.eastmoney.com/a/202609153874186717.html"
+    },
+    {
+      "product": "螺纹钢",
+      "title": "上有压制下有支撑 螺纹钢延续高位震荡",
+      "content": "在利润收缩的背景下，钢厂会优先保障盈利相对较好的热轧卷板生产，螺纹钢则成为减产的主要对象。在钢厂利润尚未出现实质性改善的前提下，螺纹钢产量增长的动力不足，整体复产进度预计偏慢，短期市场供给压力有限。 供给收缩也推动了螺纹钢的库存去化。",
+      "level": 2,
+      "score": 5,
+      "keywords": [
+        "复产",
+        "库存",
+        "产量"
+      ],
+      "sentiment": "bullish",
+      "time": "2026-09-09 07:19:06",
+      "source": "期货日报",
+      "url": "http://finance.eastmoney.com/a/202609093868490711.html"
+    },
+    {
+      "product": "沪镍",
+      "title": "镍国际化助力内外期价联动 护航格林美管理价格风险",
+      "content": "金川集团已将沪镍盘面价、日间均价用于部分进口原料合同，结合关税、增值税完成结算，部分印尼低冰镍采购直接采用沪镍盘面价乘以计价系数，定价机制日趋常态化。企业反馈，沪镍价格更贴合国内与亚太地区真实供需，能减少海外市场短期非理性波动的干扰。",
+      "level": 2,
+      "score": 5,
+      "keywords": [
+        "关税",
+        "进口",
+        "采购"
+      ],
+      "sentiment": "neutral",
+      "time": "2026-09-22 16:06:22",
+      "source": "期货日报",
+      "url": "http://finance.eastmoney.com/a/202609223881246163.html"
+    },
+    {
+      "product": "热卷",
+      "title": "黑色系 | 炉料转弱 热卷震荡",
+      "content": "热卷 炉料转弱，热卷震荡 周二夜盘，热卷价格震荡回落，截至收盘热卷01合约涨4至3311，涨幅0.12%。供需情况看，热卷库存较高，但钢材整体库存逐步去化，需求随着进入季节性旺季环比回暖，但强度有限，热卷供应端延续回落，检修减产动力较足。",
+      "level": 2,
+      "score": 5,
+      "keywords": [
+        "检修",
+        "库存",
+        "需求"
+      ],
+      "sentiment": "bullish",
+      "time": "2026-09-23 08:59:04",
+      "source": "国信期货",
+      "url": "http://finance.eastmoney.com/a/202609233881969086.html"
+    },
+    {
+      "product": "燃油",
+      "title": "法国扩大燃油援助措施以应对油价上涨",
+      "content": "据法国《回声报》报道，法国总统马克龙日前致信欧盟委员会主席冯德莱恩，提出包括临时放宽部分燃油质量标准以及生物燃料使用标准等五项紧急措施。法国总统府爱丽舍宫估计，相关调整可使欧洲炼油产量提高5%至20%。 受中东局势持续紧张、能源供应趋紧等因素影响，法国燃油价格近期快速攀升。",
+      "level": 2,
+      "score": 5,
+      "keywords": [
+        "产量",
+        "紧急"
+      ],
+      "sentiment": "bullish",
+      "time": "2026-09-23 10:59:09",
+      "source": "新华社",
+      "url": "http://finance.eastmoney.com/a/202609233882272641.html"
+    },
+    {
+      "product": "纸浆",
+      "title": "供给持续扰动 纸浆期货大涨",
+      "content": "国泰君安期货高级分析师石忆宁表示，当下，纸浆市场供需格局迎来阶段性边际修复：上周五超两万吨期货仓单集中注销，在前期低价刺激下，下游纸厂通过期货市场集中补库，表明实体采购情绪回暖。 国内纸浆库存结构持续优化，阔叶浆库存回落至近年同期低位，进一步夯实了盘面上涨基础。",
+      "level": 2,
+      "score": 5,
+      "keywords": [
+        "库存",
+        "仓单",
+        "采购"
+      ],
+      "sentiment": "bullish",
+      "time": "2026-09-21 17:13:35",
+      "source": "期货日报",
+      "url": "http://finance.eastmoney.com/a/202609213880072815.html"
+    },
+    {
+      "product": "氧化铝",
+      "title": "有色/贵金属 | 氧化铝市场仍处于供应持续过剩状态 低位偏弱震荡运行为主",
+      "content": "上周氧化铝供应继续小幅增加，山西某企业复产产能持续释放，广西某氧化铝企业于9月10日开始一台焙烧炉进行检修，持续15天左右，为年度计划性检修，预计影响月产量3万吨左右，本周氧化铝供应或小幅收紧，但整体仍保持供应过剩状态。",
+      "level": 2,
+      "score": 5,
+      "keywords": [
+        "检修",
+        "复产",
+        "产量"
+      ],
+      "sentiment": "bearish",
+      "time": "2026-09-18 08:57:02",
+      "source": "东吴期货",
+      "url": "http://finance.eastmoney.com/a/202609183877985513.html"
+    },
+    {
+      "product": "氧化铝",
+      "title": "有色/贵金属 | 整体氧化铝处于供应过剩压制及成本支撑博弈格局 保持低位筑底震荡走势",
+      "content": "氧化铝 过剩压制，成本支撑，氧化铝震荡 周四氧化铝主力合约收2758元/吨，跌1.18%。现货氧化铝全国均价2689元/吨，持平，升水1元/吨。澳洲氧化铝F0B价格350美元/吨，持平。上期所仓单库存26.7万吨，持平，厂库9300吨，持平。",
+      "level": 2,
+      "score": 5,
+      "keywords": [
+        "库存",
+        "仓单",
+        "美元"
+      ],
+      "sentiment": "bearish",
+      "time": "2026-09-11 08:57:41",
+      "source": "铜冠金源期货",
+      "url": "http://finance.eastmoney.com/a/202609113871304991.html"
+    },
+    {
+      "product": "豆油",
+      "title": "印度政府下令将粗棕榈油和原油大豆油的进口关税从10%下调至5%",
+      "content": "印度政府下令将粗棕榈油和原油大豆油的进口关税从10%下调至5%，将精炼棕榈油和精炼大豆油的进口关税下调至27.5%，将粗向日葵油的基本进口关税从10%下调至0%。",
+      "level": 2,
+      "score": 5,
+      "keywords": [
+        "关税",
+        "进口"
+      ],
+      "sentiment": "neutral",
+      "time": "2026-09-24 00:35:37",
+      "source": "财联社",
+      "url": "http://finance.eastmoney.com/a/202609243882824497.html"
+    },
+    {
+      "product": "PVC",
+      "title": "603213，PVC装置停产！",
+      "content": "对于上市公司而言，停掉PVC业务，集中精力保障盈利业务，的确可以减少亏损。 PVC技术路线分为“乙烯法PVC”和“电石法PVC”。镇洋发展的装置采用的是乙烯法，因此受乙烯价格波动的影响较大。 回头来看，这轮乙烯涨价始于2026年2月底。",
+      "level": 2,
+      "score": 5,
+      "keywords": [
+        "停产",
+        "装置"
+      ],
+      "sentiment": "bullish",
+      "time": "2026-09-19 18:16:00",
+      "source": "证券时报网",
+      "url": "http://finance.eastmoney.com/a/202609193879237435.html"
+    },
+    {
+      "product": "PVC",
+      "title": "能化 | 供应压力不高 国内需求恢复偏缓 预计PVC维持震荡",
+      "content": "需求方面，下游逐步进入旺季的阶段，行业开工率回升，预计需求将迎来一定程度的环比增长，但出口方面，印度限制低价PVC进口会使出口量收缩。整体来看，供应压力不高，国内需求恢复偏缓，预计PVC维持震荡。",
+      "level": 2,
+      "score": 5,
+      "keywords": [
+        "开工率",
+        "进口",
+        "出口"
+      ],
+      "sentiment": "bullish",
+      "time": "2026-09-18 08:46:08",
+      "source": "光大期货",
+      "url": "http://finance.eastmoney.com/a/202609183877945629.html"
+    },
+    {
+      "product": "PVC",
+      "title": "能化 | PVC：基本面利空尚未消解 反弹后抛压或将再度显现",
+      "content": "出口端，7月PVC出口量降至年内低点，同时贸易政策风险升温，8月18日印度发布对华PVC反补贴调查利害关系方名录，国内主流出口企业均在列。而近期盘面反弹主要受政策情绪提振及成本抬升助推。",
+      "level": 2,
+      "score": 5,
+      "keywords": [
+        "反补贴",
+        "出口"
+      ],
+      "sentiment": "neutral",
+      "time": "2026-09-17 08:39:29",
+      "source": "五矿期货",
+      "url": "http://finance.eastmoney.com/a/202609173876726378.html"
+    },
+    {
+      "product": "聚丙烯",
+      "title": "多重支撑下聚丙烯短期氛围偏多",
+      "content": "从长周期维度来看，聚丙烯产能扩张周期并未结束，后续新增产能陆续投放将压制远期价格。另外，聚丙烯进口货源偏少，国外装置运行平稳但进口套利空间有限，补充国内现货缺口的力度不足，聚丙烯基差偏强运行。 刚需边际改善 需求方面，聚丙烯市场呈现“弱复苏”的特征。",
+      "level": 2,
+      "score": 5,
+      "keywords": [
+        "装置",
+        "新增产能",
+        "进口"
+      ],
+      "sentiment": "bearish",
+      "time": "2026-09-11 07:19:07",
+      "source": "期货日报",
+      "url": "http://finance.eastmoney.com/a/202609113871023943.html"
+    },
+    {
+      "product": "乙二醇",
+      "title": "乙二醇盘中重挫！多头集中离场？",
+      "content": "从基本面看，乙二醇供应紧张格局边际缓和。港口持续去库态势终结，迎来小幅累库。供应端，国内石油制乙二醇开工率自低位回升，煤制乙二醇检修装置陆续重启，总产量稳步增加。需求虽进入传统旺季，聚酯开工率有所上升，但回升力度有限，难以消化新增供应，市场由紧平衡向宽松转变，基差同步走弱。",
+      "level": 2,
+      "score": 5,
+      "keywords": [
+        "检修",
+        "装置",
+        "开工率"
+      ],
+      "sentiment": "neutral",
+      "time": "2026-09-22 16:14:59",
+      "source": "期货日报",
+      "url": "http://finance.eastmoney.com/a/202609223881250895.html"
+    },
+    {
+      "product": "鸡蛋",
+      "title": "农产品 | 近来鸡蛋期价上下波动 高基差继续支撑盘面表现 短期或维持区间震荡",
+      "content": "鸡蛋 近来老鸡淘汰出栏持续增加，且中秋临近，商超阶段性拿货增加，多数产区内销启动，市场盼涨情绪较浓，同时各环节库存低位，现货价格继续保持高位。不过，前期补栏蛋鸡陆续进入产蛋高峰，新增产能有所补充。同时，当前养殖利润尚可，养殖端补栏情况相对积极，提升远期供应压力。",
+      "level": 2,
+      "score": 5,
+      "keywords": [
+        "新增产能",
+        "库存",
+        "增产"
+      ],
+      "sentiment": "neutral",
+      "time": "2026-09-14 08:45:39",
+      "source": "瑞达期货",
+      "url": "http://finance.eastmoney.com/a/202609143872960196.html"
+    },
+    {
+      "product": "PTA",
+      "title": "能化 | PTA供需转向累库 但流通性现货偏紧 预计短期PTA宽幅震荡为主",
+      "content": "▼PTA PTA供需转弱预期强烈，但地缘对成本扰动较大，且现货流动性偏紧，预计短期PTA宽幅震荡为主。9月22日，成本端支撑较强，日内PTA现货收涨，节前备货支撑下，基差偏强整理；PTA现货均价+20至7015元/吨，现货均基差+80在2701+760。",
+      "level": 2,
+      "score": 5,
+      "keywords": [
+        "累库",
+        "地缘"
+      ],
+      "sentiment": "bullish",
+      "time": "2026-09-23 09:05:03",
+      "source": "正信期货",
+      "url": "http://finance.eastmoney.com/a/202609233881989370.html"
+    },
+    {
+      "product": "PTA",
+      "title": "成本支撑较强 但偏弱需求掣肘PTA涨势",
+      "content": "整体来看，成本端原油的强势行情对下游PTA形成了较强支撑。 当前PTA走势弱于原油，主要是自身供需面预期不佳所致。供应方面，截至9月10日，PTA装置开工率维持在70%左右，较8月中旬提升约10个百分点。此外，三房巷320万吨装置预计于月中重启，PTA供应将进一步恢复。",
+      "level": 2,
+      "score": 5,
+      "keywords": [
+        "装置",
+        "开工率",
+        "需求"
+      ],
+      "sentiment": "neutral",
+      "time": "2026-09-15 08:47:07",
+      "source": "期货日报",
+      "url": "http://finance.eastmoney.com/a/202609153874077970.html"
+    },
+    {
+      "product": "PTA",
+      "title": "能化 | 库存偏低对价格亦形成支撑 预计PTA价格跟随成本维持区间偏强震荡",
+      "content": "下游PTA开工同步回升。综合来看，PX供需双增，但是下游PTA增幅更大，9月将延续去库对其加工费有支撑，但是终端需求偏弱对价格形成压制，绝对价格跟随成本波动，中东局势反复带动其价格震荡偏强。关注中东局势演变和上下游装置动态。 【PTA】 PTA：夜盘主力合约涨0.32%。",
+      "level": 2,
+      "score": 5,
+      "keywords": [
+        "装置",
+        "去库",
+        "库存"
+      ],
+      "sentiment": "bullish",
+      "time": "2026-09-14 08:49:30",
+      "source": "申银万国期货",
+      "url": "http://finance.eastmoney.com/a/202609143872961918.html"
+    },
+    {
+      "product": "甲醇",
+      "title": "供应偏紧 甲醇延续偏强走势",
+      "content": "当前甲醇开工率与进口量均处于低位，港口库存创13年以来新低，供应缺口将在短期内支撑甲醇价格继续走强。不过，停车甲醇装置复产预期不断升温，同时下游市场开始抵触高价甲醇，因此甲醇价格难以形成趋势性上涨。",
+      "level": 2,
+      "score": 5,
+      "keywords": [
+        "装置",
+        "开工率",
+        "复产"
+      ],
+      "sentiment": "bullish",
+      "time": "2026-09-16 09:07:32",
+      "source": "期货日报",
+      "url": "http://finance.eastmoney.com/a/202609163875531678.html"
+    },
+    {
+      "product": "纯碱",
+      "title": "能化 | 玻璃纯碱需求兑现中寻求平衡格局未变 需耐心等待基本面进一步好转",
+      "content": "【玻璃纯碱】 玻璃纯碱：玻璃期货小幅回落。数据方面，上周玻璃生产企业库存6440万重箱，环比下降137万重箱。纯碱期货小幅回落，上周纯碱生产企业库存179万吨，环比下降6.1万吨。目前北京和上海均出台了房地产相关的消费支持政策。",
+      "level": 2,
+      "score": 5,
+      "keywords": [
+        "库存",
+        "需求",
+        "消费"
+      ],
+      "sentiment": "bearish",
+      "time": "2026-09-24 10:55:06",
+      "source": "申银万国期货",
+      "url": "http://finance.eastmoney.com/a/202609243883503113.html"
+    },
+    {
+      "product": "纯碱",
+      "title": "能化 | 纯碱：随着部分碱厂检修接近尾声 预计后续供应将逐渐恢复",
+      "content": "纯碱 昨日沙河重质纯碱市场价985元/吨（-3）。供应端，由于碱厂检修持续，纯碱产量继续下滑。随着部分碱厂检修接近尾声，预计后续供应将逐渐恢复。需求端，上周浮法玻璃日熔环比回升、光伏玻璃日熔环比下滑，玻璃总日熔量下滑，重碱需求支撑走弱。",
+      "level": 2,
+      "score": 5,
+      "keywords": [
+        "检修",
+        "需求",
+        "产量"
+      ],
+      "sentiment": "neutral",
+      "time": "2026-09-23 09:24:42",
+      "source": "迈科期货",
+      "url": "http://finance.eastmoney.com/a/202609233882090472.html"
+    },
+    {
+      "product": "尿素",
+      "title": "多重利空因素共振 尿素冲高回落",
+      "content": "9月下旬，煤炭价格转弱、装置检修结束、出口配额下发三重利空因素共振，尿素价格持续走低。值得关注的是，本轮下跌伴随明显减仓行为，市场成交量下行。短期看，9月底之前尿素供应量逐步提升，需求大概率偏弱，出口可能放缓，盘面或延续偏弱震荡走势。",
+      "level": 2,
+      "score": 5,
+      "keywords": [
+        "检修",
+        "装置",
+        "出口"
+      ],
+      "sentiment": "bearish",
+      "time": "2026-09-24 08:34:20",
+      "source": "期货日报",
+      "url": "http://finance.eastmoney.com/a/202609243883096625.html"
+    },
+    {
+      "product": "尿素",
+      "title": "尿素：成本支撑松动与出口分流下的区间博弈",
+      "content": "2026年尿素新增产能约561万吨，四季度集中投放297万吨，叠加行业高日产，会对远月价格形成压制。 需求端，当前处于国内需求空档，秋肥拉动有限。虽然尿素表观消费增速并不低，但供给增速快于需求，难以驱动价格趋势上行。",
+      "level": 2,
+      "score": 5,
+      "keywords": [
+        "新增产能",
+        "出口",
+        "需求"
+      ],
+      "sentiment": "bearish",
+      "time": "2026-09-21 16:19:01",
+      "source": "期货日报",
+      "url": "http://finance.eastmoney.com/a/202609213880322566.html"
+    },
+    {
+      "product": "锰硅",
+      "title": "黑色系 | 基本面驱动力度有限 预计短期锰硅期价震荡运行为主",
+      "content": "供需层面来看，锰硅周产量连续五周环比增加，上周环比增加2.79%至17.92万吨，广西、宁夏、内蒙锰硅生产企业开工率均环比增加。需求端，样本钢厂锰硅需求量当周值结束六连跌，上周环比增加0.19%至11.07万吨。",
+      "level": 2,
+      "score": 5,
+      "keywords": [
+        "开工率",
+        "需求",
+        "产量"
+      ],
+      "sentiment": "bearish",
+      "time": "2026-09-15 08:44:49",
+      "source": "光大期货",
+      "url": "http://finance.eastmoney.com/a/202609153874066283.html"
+    },
+    {
+      "product": "锰硅",
+      "title": "黑色系 | 预计短期螺纹盘面或将窄幅波动运行",
+      "content": "昨日黑色板块整体走势有所分化，合金期价走势偏弱，锰硅期价重心小幅下移。基本面来看，后续锰硅供应端压力将小幅减弱，近日多家锰硅生产企业发布停产公告，但截至上周末锰硅周产量仍在持续增加。需求端，近期钢厂锰硅招标价格也有所回落，多在5810-5900元/吨。",
+      "level": 2,
+      "score": 5,
+      "keywords": [
+        "停产",
+        "需求",
+        "产量"
+      ],
+      "sentiment": "bearish",
+      "time": "2026-09-23 08:43:51",
+      "source": "光大期货",
+      "url": "http://finance.eastmoney.com/a/202609233881885966.html"
+    },
+    {
+      "product": "螺纹钢",
+      "title": "螺纹钢整体走势难言反转 核心变量在于“金九”旺季需求的实际兑现程度",
+      "content": "受短期双焦走势持续偏强、钢厂减产、季节性需求预期等因素影响，螺纹钢价格短期有望延续小幅回升态势；但由于需求端难有实质性改善，本轮价格反弹的高度或有限。 双焦强势推升成本 双焦价格大幅上涨，是推升螺纹钢价格的主导力量。",
+      "level": 2,
+      "score": 4,
+      "keywords": [
+        "需求",
+        "减产"
+      ],
+      "sentiment": "bullish",
+      "time": "2026-09-03 07:32:01",
+      "source": "期货日报",
+      "url": "http://finance.eastmoney.com/a/202609033863310742.html"
+    },
+    {
+      "product": "铁矿石",
+      "title": "铁矿石：底部支撑尚在 上行驱动难寻",
+      "content": "本期铁矿石市场价格维持窄幅震荡运行，现货跟涨力度明显不足。但铁矿石底部支撑依然清晰，海运费持续高企并再度走强，直接抬升进口矿到岸成本，矿价即便承压也暂难形成流畅下跌。现货端，青岛港PB粉报价678元/吨，环比持平；61%进口铁矿石指数报95.21美元/吨，环比跌1.5%。",
+      "level": 2,
+      "score": 4,
+      "keywords": [
+        "进口",
+        "美元"
+      ],
+      "sentiment": "neutral",
+      "time": "2026-09-24 18:32:31",
+      "source": "金联创",
+      "url": "http://finance.eastmoney.com/a/202609243883821991.html"
+    },
+    {
+      "product": "铁矿石",
+      "title": "港口库存居高不下 铁矿石基本面依旧弱势",
+      "content": "图为全球19港铁矿石发运量变化 综合分析，需求依旧偏弱，供给维持高位，铁矿石基本面并未改善，价格承压运行。",
+      "level": 2,
+      "score": 4,
+      "keywords": [
+        "库存",
+        "需求"
+      ],
+      "sentiment": "bearish",
+      "time": "2026-09-21 07:57:32",
+      "source": "期货日报",
+      "url": "http://finance.eastmoney.com/a/202609213879523887.html"
+    },
+    {
+      "product": "铁矿石",
+      "title": "日本瑞穗银行据悉向铁矿石贸易商Radiant World提供了1亿美元的信贷融资",
+      "content": "日本瑞穗银行据悉向铁矿石贸易商Radiant World提供了1亿美元的信贷融资，该笔贷款以据称无效的发票作为担保。",
+      "level": 2,
+      "score": 4,
+      "keywords": [
+        "信贷",
+        "美元"
+      ],
+      "sentiment": "neutral",
+      "time": "2026-09-11 22:44:11",
+      "source": "财联社",
+      "url": "http://finance.eastmoney.com/a/202609113872400026.html"
+    },
+    {
+      "product": "沪银",
+      "title": "突发！黄金、白银直线拉升，油价重挫！美伊，传出大消息！",
+      "content": "据央视新闻报道，美伊被曝探讨阶段性协议，黄金、白银直线拉升，原油跌幅扩大。 9月25日，截至发稿，WTI原油跌2%，同时，现货黄金与白银直线拉升，其中白银日内涨幅扩大至1.8%，黄金则涨超0.8%。 随着油价的下跌，欧美股市出现拉升。",
+      "level": 2,
+      "score": 4,
+      "keywords": [
+        "突发"
+      ],
+      "sentiment": "bearish",
+      "time": "2026-09-25 19:28:25",
+      "source": "证券时报",
+      "url": "http://finance.eastmoney.com/a/202609253884314486.html"
+    },
+    {
+      "product": "热卷",
+      "title": "截至9月9日当周 全国热卷产量424.04万吨",
+      "content": "截至9月9日当周，全国热卷产量424.04万吨，较上周增加2.34万吨；总库存512.78万吨，较上周增加0.12万吨；表需423.92万吨，较上周减少10.35万吨。",
+      "level": 2,
+      "score": 4,
+      "keywords": [
+        "库存",
+        "产量"
+      ],
+      "sentiment": "neutral",
+      "time": "2026-09-09 13:26:38",
+      "source": "新华财经",
+      "url": "http://finance.eastmoney.com/a/202609093869196258.html"
+    },
+    {
+      "product": "热卷",
+      "title": "黑色系 | 焦煤供应紧张仍未缓解 焦炭供应相对宽松",
+      "content": "【螺纹、热卷】 夜盘钢价继续反弹。螺纹表需、产量均继续小幅回升，库存延续下降态势。热卷表需、产量均继续回落，库存继续缓慢下降，淡季尾声关注需求边际变化。铁水产量有所回升，终端承接能力不足，钢厂大面积亏损，后期高炉仍面临减产压力。",
+      "level": 2,
+      "score": 4,
+      "keywords": [
+        "库存",
+        "需求",
+        "产量"
+      ],
+      "sentiment": "bullish",
+      "time": "2026-09-22 09:11:11",
+      "source": "国投期货",
+      "url": "http://finance.eastmoney.com/a/202609223880780551.html"
+    },
+    {
+      "product": "不锈钢",
+      "title": "欧盟对原产于中国和中国台湾地区的冷轧不锈钢板发起第二次反倾销日落复审调查",
+      "content": "据中国贸易救济信息网，9月15日，欧盟委员会发布公告，应欧洲钢铁协会于2026年6月15日提交的申请，对原产于中国和中国台湾地区的冷轧不锈钢板发起第二次反倾销日落复审调查。本案倾销调查期为2025年7月1日~2026年6月30日，损害调查期为2023年1月1日~倾销调查期结束。",
+      "level": 2,
+      "score": 4,
+      "keywords": [
+        "反倾销"
+      ],
+      "sentiment": "neutral",
+      "time": "2026-09-16 14:59:25",
+      "source": "界面新闻",
+      "url": "http://finance.eastmoney.com/a/202609163876067473.html"
+    },
+    {
+      "product": "燃油",
+      "title": "马克龙：法国正在尽一切努力避免燃油短缺",
+      "content": "他表示并不排除降低燃油税，但同时指出降低燃油税的经济成本高昂。 法国燃油价格近期快速上涨，引发法国各界关注。法国目前的柴油平均价格为每升2.41欧元，处于历史高位；法国畅销的SP95-E10汽油均价也升至每升2.17欧元。",
+      "level": 2,
+      "score": 4,
+      "keywords": [
+        "历史"
+      ],
+      "sentiment": "bullish",
+      "time": "2026-09-25 07:02:53",
+      "source": "中国新闻网",
+      "url": "http://finance.eastmoney.com/a/202609253884047994.html"
+    },
+    {
+      "product": "燃油",
+      "title": "燃油价格创历史新高之际欧洲电动汽车销量飙升52%",
+      "content": "据欧洲汽车制造商协会(ACEA)周四发布的数据，8月欧洲全电动车注册量同比飙升52%。德国作为最大的市场领涨，注册量增长四分之三；法国的销量则翻了一倍以上。德国汽油平均价格已推高至创纪录的每升2.31欧元。",
+      "level": 2,
+      "score": 4,
+      "keywords": [
+        "历史"
+      ],
+      "sentiment": "bullish",
+      "time": "2026-09-24 15:08:35",
+      "source": "财联社",
+      "url": "http://finance.eastmoney.com/a/202609243883663797.html"
+    },
+    {
+      "product": "橡胶",
+      "title": "商品日报（9月23日）：三大橡胶集体走高 原油系延续回调沥青领跌",
+      "content": "截至23日下午收盘，20号胶主力合约涨超3%，橡胶和BR橡胶也分别上涨2.61%和1.81%。目前，旺产季供应增量不及预期、产胶国出口缩减及保税区库存低位等多重利好共同为橡胶价格托底。",
+      "level": 2,
+      "score": 4,
+      "keywords": [
+        "库存",
+        "出口"
+      ],
+      "sentiment": "bullish",
+      "time": "2026-09-23 18:05:10",
+      "source": "新华财经",
+      "url": "http://finance.eastmoney.com/a/202609233882721033.html"
+    },
+    {
+      "product": "豆粕",
+      "title": "上周国内大豆豆粕商业库存均上升",
+      "content": "9月18日，全国主要油厂进口大豆库存869万吨，周环比上升22万吨，月环比上升22万吨，同比上升117万吨，较过去三年均值上升234万吨；豆粕库存113万吨，周环比上升5万吨，月环比上升6万吨，同比下降10万吨，较过去三年同期均值上升2万吨。",
+      "level": 2,
+      "score": 4,
+      "keywords": [
+        "库存",
+        "进口"
+      ],
+      "sentiment": "neutral",
+      "time": "2026-09-22 10:04:58",
+      "source": "国家粮食和物资储备局",
+      "url": "http://finance.eastmoney.com/a/202609223880993230.html"
+    },
+    {
+      "product": "豆粕",
+      "title": "预计9月底油厂豆粕库存在110万吨左右",
+      "content": "9月国内油厂开机率仍然较高，上周豆粕累库速度加快，截至18日库存升至110万吨以上。但本周即将迎来中秋假期，月底库存可能小幅降至110万吨左右，环比、同比均基本持平。",
+      "level": 2,
+      "score": 4,
+      "keywords": [
+        "累库",
+        "库存"
+      ],
+      "sentiment": "bearish",
+      "time": "2026-09-22 09:59:11",
+      "source": "国家粮食和物资储备局",
+      "url": "http://finance.eastmoney.com/a/202609223880982849.html"
+    },
+    {
+      "product": "豆粕",
+      "title": "豆粕：国内情绪偏强 期价再创新高",
+      "content": "9月16日夜盘，国内豆粕期货主力m2701合约创下自2024年6月以来的新高。8月中下旬以来，豆粕跟随美豆期价不断攀升，由多因素共振：首先，中方持续采购、促进美豆需求向好，提供坚实支撑。",
+      "level": 2,
+      "score": 4,
+      "keywords": [
+        "需求",
+        "采购"
+      ],
+      "sentiment": "bullish",
+      "time": "2026-09-17 09:59:44",
+      "source": "国泰君安期货",
+      "url": "http://finance.eastmoney.com/a/202609173877073918.html"
+    },
+    {
+      "product": "豆油",
+      "title": "供强需弱 豆油偏弱震荡",
+      "content": "近期豆油价格先扬后抑，呈区间震荡走势。本周国内油厂压榨量维持高位，豆油商业库存小幅累积，处于偏高位置。“双节”备货逐步推进，但食品企业多采用刚需采购策略，集中备货力度不及预期，现货市场成交平淡，豆油基差偏弱。 豆棕价差低位运行，棕榈油价格承压，对豆油造成替代压力。",
+      "level": 2,
+      "score": 4,
+      "keywords": [
+        "库存",
+        "采购"
+      ],
+      "sentiment": "bearish",
+      "time": "2026-09-24 09:03:04",
+      "source": "期货日报",
+      "url": "http://finance.eastmoney.com/a/202609243883186189.html"
+    },
+    {
+      "product": "棕榈油",
+      "title": "本周我国棕榈油进口成本明显下降",
+      "content": "本周我国进口马来西亚棕榈油CNF价格大幅下跌，进口成本明显下降。9月23日，11、12月船期24度棕榈油进口CNF报价分别为1210美元/吨、1231美元/吨，较上周同期下跌52~53美元/吨；折合华南地区到港完税成本分别为9710元/吨、9850元/吨，下跌440元/吨。",
+      "level": 2,
+      "score": 4,
+      "keywords": [
+        "进口",
+        "美元"
+      ],
+      "sentiment": "bearish",
+      "time": "2026-09-24 10:12:59",
+      "source": "国家粮食和物资储备局",
+      "url": "http://finance.eastmoney.com/a/202609243883464067.html"
+    },
+    {
+      "product": "PVC",
+      "title": "四大核心逻辑共振 PVC底部逐步夯实",
+      "content": "当前国际油价持续走高，乙烯价格维持高位，而在所有乙烯下游化工品类中，乙烯法PVC的经济效益垫底，行业亏损局面持续加剧。受原料成本大幅抬升、产品利润持续倒挂影响，海内外大量低效乙烯法PVC产能持续承压，停产、退出节奏明显加快，成为推动全球PVC产能净收缩的重要力量。",
+      "level": 2,
+      "score": 4,
+      "keywords": [
+        "停产"
+      ],
+      "sentiment": "neutral",
+      "time": "2026-09-23 08:39:52",
+      "source": "期货日报",
+      "url": "http://finance.eastmoney.com/a/202609233881885277.html"
+    },
+    {
+      "product": "聚丙烯",
+      "title": "兰州石化：聚丙烯核心机组完成首次自主大修",
+      "content": "兰州石化高压聚丙烯区域资深高级主管刘同宇说。 PK401承担聚丙烯装置反应器循环气体压缩回流，关系分子量调节和共聚序列稳定。随着高抗冲共聚等产品需求增加，装置切换频次和负荷提高，对压缩机连续性、振动裕度和密封可靠性提出更高要求。",
+      "level": 2,
+      "score": 4,
+      "keywords": [
+        "装置",
+        "需求"
+      ],
+      "sentiment": "neutral",
+      "time": "2026-09-17 20:20:43",
+      "source": "经济参考网",
+      "url": "http://finance.eastmoney.com/a/202609173877527766.html"
+    },
+    {
+      "product": "PTA",
+      "title": "*ST三房：全资子公司PTA生产装置恢复生产",
+      "content": "*ST三房(600370.SH)公告称，公司全资子公司海伦石化三期年产320万吨PTA生产装置已完成检修并恢复生产。",
+      "level": 2,
+      "score": 4,
+      "keywords": [
+        "检修",
+        "装置"
+      ],
+      "sentiment": "neutral",
+      "time": "2026-09-14 17:29:25",
+      "source": "财联社",
+      "url": "http://finance.eastmoney.com/a/202609143873504777.html"
+    },
+    {
+      "product": "甲醇",
+      "title": "能化 | 短期甲醇港口库存持续去库 甲醇价格整体维持高位",
+      "content": "甲醇： 9月23日甲醇2610合约下跌113元/吨至3218元/吨。美伊短期释放缓和信号，煤端，盘面有所松动。短期甲醇港口库存持续去库，甲醇价格整体维持高位，但在MTO下游逐步负反馈的情况下，盘面上行空间受到一定的压制。甲醇主力合约临近交割，预计总体维持高位。",
+      "level": 2,
+      "score": 4,
+      "keywords": [
+        "去库",
+        "库存"
+      ],
+      "sentiment": "bearish",
+      "time": "2026-09-24 11:13:41",
+      "source": "中财期货",
+      "url": "http://finance.eastmoney.com/a/202609243883516537.html"
+    },
+    {
+      "product": "甲醇",
+      "title": "产业链利润显著分化 甲醇顶部压力愈发明显",
+      "content": "一方面是化工品整体涨幅明显小于原油，另一方面更重要的是，曼德海峡局势升级对甲醇的实质影响有限，中东甲醇的主要出口通道在霍尔木兹海峡。近期沿海部分MTO装置停车的消息逐步发酵，甲醇期价的顶部压力也愈发明显。",
+      "level": 2,
+      "score": 4,
+      "keywords": [
+        "装置",
+        "出口"
+      ],
+      "sentiment": "bullish",
+      "time": "2026-09-16 19:33:58",
+      "source": "期货日报",
+      "url": "http://finance.eastmoney.com/a/202609163877250817.html"
+    },
+    {
+      "product": "纯碱",
+      "title": "产能持续扩张 纯碱中期偏弱运行",
+      "content": "受产能扩张影响，国内纯碱行业自2024年起进入熊市周期，纯碱价格较历史高位下行明显。今年以来纯碱价格加速下探，7月期货主力合约最低跌至912元／吨，创历史新低。近期成本端煤炭价格上涨，带动纯碱价格一度反弹超过10%，但随后再次回落。",
+      "level": 2,
+      "score": 4,
+      "keywords": [
+        "历史"
+      ],
+      "sentiment": "neutral",
+      "time": "2026-09-18 09:11:05",
+      "source": "期货日报",
+      "url": "http://finance.eastmoney.com/a/202609183878077715.html"
+    },
+    {
+      "product": "纯碱",
+      "title": "能化 | 供给收缩+成本托底支撑纯碱底部 但高库存+需求平淡拖累反弹",
+      "content": "纯碱：纯碱跌幅居前，上方压力明显、前期反弹基本回吐。",
+      "level": 2,
+      "score": 4,
+      "keywords": [
+        "库存",
+        "需求"
+      ],
+      "sentiment": "neutral",
+      "time": "2026-09-15 09:09:59",
+      "source": "东吴期货",
+      "url": "http://finance.eastmoney.com/a/202609153874210843.html"
+    },
+    {
+      "product": "棉花",
+      "title": "【调研报告】棉花：北疆减产幅度不及预期",
+      "content": "全疆纱线产能同比增长超20%，同样锭数的纱厂，棉花消耗量是前几年的1.5-2倍，疆内棉花消费量估算已达350万吨，就地转化率大幅提升。",
+      "level": 2,
+      "score": 4,
+      "keywords": [
+        "消费",
+        "减产"
+      ],
+      "sentiment": "bullish",
+      "time": "2026-09-18 08:35:12",
+      "source": "混沌天成期货",
+      "url": "http://finance.eastmoney.com/a/202609183877942085.html"
+    },
+    {
+      "product": "菜粕",
+      "title": "黑海葵粕出口扰动 菜粕价格大幅走强",
+      "content": "辛旋表示，当前豆粕与菜粕价差处于高位，菜粕饲用性价比凸显，在刚需支撑下，菜粕消费仍保持较好表现。 展望后市，辛旋提示，后续加拿大菜籽到港、压榨供应修复将对菜粕价格上行形成约束；行情连续大涨后，需警惕市场情绪回落后的价格回吐风险，菜粕后续行情仍取决于美豆及豆粕价格走势。",
+      "level": 2,
+      "score": 4,
+      "keywords": [
+        "出口",
+        "消费"
+      ],
+      "sentiment": "bullish",
+      "time": "2026-09-18 08:55:38",
+      "source": "期货日报",
+      "url": "http://finance.eastmoney.com/a/202609183877978836.html"
+    },
+    {
+      "product": "菜粕",
+      "title": "供需格局分化推升豆、菜粕价差",
+      "content": "葵粕供应下降将推高葵粕价格与进口成本，进而推动饲料企业调整配方，带动菜粕替代需求上升。 因此，当前菜粕价格同时受到两方面因素影响：一方面，加拿大菜籽和菜粕供应恢复会压制菜粕估值；另一方面，葵粕物流受阻抬升了菜粕的替代价值。后者或是限制豆、菜粕价差进一步走扩的重要因素。",
+      "level": 2,
+      "score": 4,
+      "keywords": [
+        "进口",
+        "需求"
+      ],
+      "sentiment": "neutral",
+      "time": "2026-09-16 08:56:00",
+      "source": "期货日报",
+      "url": "http://finance.eastmoney.com/a/202609163875455475.html"
+    },
+    {
+      "product": "菜油",
+      "title": "农产品 | 今年苹果增产预期较强 期价上方仍面临一定压力",
+      "content": "国内菜系品种需求面临不同季节性规律，菜粕需求逐渐回落，菜油需求逐渐回升，季节性规律或使得菜油更易受加菜籽到港预期影响。目前国内菜系库存较为充裕，沿海开机率回升，菜系近端供需保持偏宽松的状态。综合来看，菜系短期趋势性驱动不显著，走势或以震荡为主。",
+      "level": 2,
+      "score": 4,
+      "keywords": [
+        "库存",
+        "需求",
+        "增产"
+      ],
+      "sentiment": "bearish",
+      "time": "2026-09-23 09:29:58",
+      "source": "国投期货",
+      "url": "http://finance.eastmoney.com/a/202609233882097032.html"
+    },
+    {
+      "product": "锰硅",
+      "title": "商品日报（9月7日）：三大橡胶齐涨20号胶创上市新高 锰硅硅铁大幅回调",
+      "content": "具体来看，一方面，成本端重要驱动煤价回落，盘面支撑减弱；另一方面，相对硅铁来说，锰硅基本面更弱，锰矿供应宽松，港口高库存，锰硅供应恢复预期增强但钢厂采购预期疲软，库存高位延续，据我的钢铁网，截至9月4日，63家锰硅样本企业库存为45.15万吨，同比大增29.1万吨。",
+      "level": 2,
+      "score": 4,
+      "keywords": [
+        "库存",
+        "采购"
+      ],
+      "sentiment": "neutral",
+      "time": "2026-09-07 19:14:00",
+      "source": "新华财经",
+      "url": "http://finance.eastmoney.com/a/202609073866840298.html"
+    }
+  ],
+  "global_news": [
+    {
+      "product": "全球宏观",
+      "title": "专访彭博亚太区首席经济学家舒畅：从“超额储蓄”到“超额投资” 谁在改写美债定价逻辑？",
+      "content": "【专访彭博亚太区首席经济学家舒畅：从“超额储蓄”到“超额投资” 谁在改写美债定价逻辑？】彭博亚太区首席经济学家舒畅表示，美联储加息主要作用于短端周期，而科技资本开支驱动的发债潮，则是推升长端利率的一个驱动因素，两者分属不同维度的宏观变量。当前，全球正经历从“超额储蓄”向“超额投资”的历史性转折，科技巨头密集发债不仅加剧了对美债长端流动性的争夺，更成为推升全球长期利率中枢上移的全新结构性动能。",
+      "level": 3,
+      "score": 7,
+      "keywords": [
+        "加息",
+        "美联储",
+        "历史"
+      ],
+      "sentiment": "neutral",
+      "time": "2026-09-25 18:04:38",
+      "source": "东方财富全球",
+      "url": "https://finance.eastmoney.com/a/202609253884303987.html"
+    },
+    {
+      "product": "全球宏观",
+      "title": "加纳央行行长：将推动与中国贸易本币结算",
+      "content": "【加纳央行行长：将推动与中国贸易本币结算】加纳央行行长约翰逊·阿西亚马24日表示，加纳将与中国合作，推动在两国贸易交易中取消使用第三方货币结算。阿西亚马在当日晚间举行的货币政策委员会新闻发布会上表示，贸易商希望充分利用中国对53个非洲建交国全面实施零关税举措，这一关键性的转变对加强加中双边贸易至关重要。",
+      "level": 2,
+      "score": 5,
+      "keywords": [
+        "央行",
+        "关税"
+      ],
+      "sentiment": "neutral",
+      "time": "2026-09-26 10:19:13",
+      "source": "东方财富全球",
+      "url": "https://finance.eastmoney.com/a/202609263884376254.html"
+    },
+    {
+      "product": "全球宏观",
+      "title": "10月加息稳了？“鹰风”席卷美联储：三位官员同日警告通胀风险",
+      "content": "【10月加息稳了？“鹰风”席卷美联储：三位官员同日警告通胀风险】自美联储近日实施三年来首次加息以来，多位官员呼吁进一步收紧政策。仅周五当天，就有三位联储官员释放鹰派信号，就通胀风险发出警告。克利夫兰联储主席贝丝·哈马克周五表示，她担心持续高企的通胀可能会让美国公众逐渐将高物价视作常态，而美联储绝不能让这种情况发生。",
+      "level": 2,
+      "score": 5,
+      "keywords": [
+        "加息",
+        "美联储",
+        "通胀"
+      ],
+      "sentiment": "neutral",
+      "time": "2026-09-26 08:26:13",
+      "source": "东方财富全球",
+      "url": "https://finance.eastmoney.com/a/202609263884370149.html"
+    },
+    {
+      "product": "全球宏观",
+      "title": "巴基斯坦总理呼吁霍尔木兹和曼德海峡保持畅通",
+      "content": "【巴基斯坦总理呼吁霍尔木兹和曼德海峡保持畅通】当地时间25日，巴基斯坦总理夏巴兹·谢里夫在第81届联合国大会一般性辩论发言中，介绍了今年2月美以伊冲突爆发并扩散到更广泛的中东地区，作为斡旋方，巴基斯坦与各方协同努力，促成了美国和伊朗在伊斯兰堡的对话，从伊斯兰堡会谈到《伊斯兰堡谅解备忘录》，为结束这场严重冲突采取了许多具有历史意义的步骤。他对近期地区冲突再度升级表示遗憾。",
+      "level": 2,
+      "score": 5,
+      "keywords": [
+        "冲突",
+        "历史"
+      ],
+      "sentiment": "neutral",
+      "time": "2026-09-26 08:00:46",
+      "source": "东方财富全球",
+      "url": "https://finance.eastmoney.com/a/202609263884368129.html"
+    },
+    {
+      "product": "全球宏观",
+      "title": "加息冲击波何时来？美银警告：两大因素或引发美股恐慌抛售",
+      "content": "【加息冲击波何时来？美银警告：两大因素或引发美股恐慌抛售】本周美债收益率持续走高，经济数据强于预期、政府债务高企叠加能源价格上涨进一步推升通胀担忧，强化了市场对美联储或将在10月议息会议加息的预期。芝商所（CME）FedWatch工具显示，当前市场定价下月加息概率已经超过60%。",
+      "level": 2,
+      "score": 5,
+      "keywords": [
+        "加息",
+        "美联储",
+        "通胀"
+      ],
+      "sentiment": "bullish",
+      "time": "2026-09-26 07:31:38",
+      "source": "东方财富全球",
+      "url": "https://finance.eastmoney.com/a/202609263884367991.html"
+    },
+    {
+      "product": "全球宏观",
+      "title": "暴涨超5倍！油运超级周期大爆发 运价、业绩、股价三线齐飞",
+      "content": "【暴涨超5倍！油运超级周期大爆发 运价、业绩、股价三线齐飞】美伊冲突彻底打乱了全球石油运输的原有路线，导致油轮绕行等成本不断增加，叠加油轮供给处于历史低位，全球油运价格年内不断上涨。Wind数据显示，截至2026年9月24日，全球原油运输指数（BDTI）已飙升至5250点，年内涨幅超过100%，较2025年初的约850点上涨超过5倍。",
+      "level": 2,
+      "score": 5,
+      "keywords": [
+        "冲突",
+        "历史"
+      ],
+      "sentiment": "bullish",
+      "time": "2026-09-26 07:28:19",
+      "source": "东方财富全球",
+      "url": "https://finance.eastmoney.com/a/202609263884366753.html"
+    },
+    {
+      "product": "全球宏观",
+      "title": "周五美联储隔夜逆回购协议（RRP）使用规模为5.76亿美元",
+      "content": "周五（9月25日），美联储隔夜逆回购协议（RRP）使用规模为5.76亿美元。",
+      "level": 2,
+      "score": 5,
+      "keywords": [
+        "逆回购",
+        "美元",
+        "美联储"
+      ],
+      "sentiment": "neutral",
+      "time": "2026-09-26 01:26:30",
+      "source": "东方财富全球",
+      "url": "https://finance.eastmoney.com/a/202609263884348810.html"
+    },
+    {
+      "product": "全球宏观",
+      "title": "反弹80%！沙特原油出口创伊朗战争以来新高",
+      "content": "【反弹80%！沙特原油出口创伊朗战争以来新高】根据贸易情报公司Kpler的数据，尽管与也门胡塞武装战斗急剧升级，沙特阿拉伯本月原油出口仍大幅飙升，9月出口量为每日600万桶，较8月的每日340万桶激增近80%，为约七个月前伊朗战事爆发以来最高水平。目前，该国原油出口已恢复至2025年月度平均水平。",
+      "level": 2,
+      "score": 4,
+      "keywords": [
+        "出口",
+        "战争"
+      ],
+      "sentiment": "bullish",
+      "time": "2026-09-26 08:08:03",
+      "source": "东方财富全球",
+      "url": "https://finance.eastmoney.com/a/202609263884368562.html"
+    },
+    {
+      "product": "全球宏观",
+      "title": "周六你需要知道的隔夜全球要闻：美伊谈判再传重大进展 美联储官员密集释放鹰派信号 苹果再创历史收盘新高 美债收益率继续飙升",
+      "content": "【周六你需要知道的隔夜全球要闻：美伊谈判再传重大进展 美联储官员密集释放鹰派信号 苹果再创历史收盘新高 美债收益率继续飙升】1、伊朗总统表示，德黑兰愿意恢复《伊斯兰堡谅解》，并履行相关承诺。2、伊朗外交部长表示，伊朗已向美国传达了一项具体的7天计划，若美方接受，霍尔木兹海峡将会开放。 3、美国官员表示，美国正通过中间人与伊朗进行积极、建设性的讨论“7天计划”，双方继续就核问题展开沟通。",
+      "level": 2,
+      "score": 4,
+      "keywords": [
+        "美联储",
+        "历史"
+      ],
+      "sentiment": "neutral",
+      "time": "2026-09-26 06:00:00",
+      "source": "东方财富全球",
+      "url": "https://finance.eastmoney.com/a/202609263884360662.html"
+    },
+    {
+      "product": "全球宏观",
+      "title": "美股高开高走三大指数集体收涨 苹果再创历史收盘新高",
+      "content": "【美股高开高走三大指数集体收涨 苹果再创历史收盘新高】美股高开高走，三大指数集体收涨，道指涨0.93%，本周累涨0.28%，终结周线三连跌；标普500指数涨0.51%，本周累涨1.22%；纳指涨0.48%，本周累涨2.06%；标普500指数、纳指周线2连涨。苹果涨超1%，再创历史收盘新高，总市值逼近5万亿美元。微软涨超3%，创去年11月以来收盘新高。存储芯片股普涨，高通涨约4%，SK海力士涨超2%",
+      "level": 2,
+      "score": 4,
+      "keywords": [
+        "美元",
+        "历史"
+      ],
+      "sentiment": "neutral",
+      "time": "2026-09-26 04:00:33",
+      "source": "东方财富全球",
+      "url": "https://finance.eastmoney.com/a/202609263884351663.html"
+    },
+    {
+      "product": "全球宏观",
+      "title": "美联储哈玛克：美联储需要确保货币政策处于限制性立场 以降低通胀",
+      "content": "【美联储哈玛克：美联储需要确保货币政策处于限制性立场 以降低通胀】美联储哈玛克表示，美联储需要确保货币政策处于限制性立场，以降低通胀；如果未能在降低通胀方面取得进展，通胀预期可能会发生变化；通胀面临的最大风险是形成“通胀心态”，担心需求相关压力推高通胀，在需求端和供应端都面临压力；资本支出将在一段时间内给通胀带来压力。并表示，经济增长保持良好，劳动力市场稳定。",
+      "level": 2,
+      "score": 4,
+      "keywords": [
+        "需求",
+        "美联储",
+        "通胀"
+      ],
+      "sentiment": "neutral",
+      "time": "2026-09-26 02:07:41",
+      "source": "东方财富全球",
+      "url": "https://finance.eastmoney.com/a/202609263884349358.html"
+    },
+    {
+      "product": "全球宏观",
+      "title": "泰国财政部长：经济明年可能增长2.5%",
+      "content": "【泰国财政部长：经济明年可能增长2.5%】泰国财政部长称，经济明年可能增长2.5%；目标是在3年内实现3%的GDP增长。公共债务将在今年上升至国内生产总值的68%-69%。",
+      "level": 2,
+      "score": 4,
+      "keywords": [
+        "财政部",
+        "GDP"
+      ],
+      "sentiment": "neutral",
+      "time": "2026-09-25 20:10:12",
+      "source": "东方财富全球",
+      "url": "https://finance.eastmoney.com/a/202609253884316741.html"
+    }
+  ]
 }
