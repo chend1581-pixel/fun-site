@@ -1,19 +1,19 @@
 /* ============ 全局变量 ============ */
 :root {
-  --bg: #fff8f0;
+  --bg: #f4f5f7;
   --card: #ffffff;
-  --ink: #2d2a26;
-  --ink-soft: #8a8177;
-  --line: #f0e8dc;
-  --brand: #ff6b35;
-  --brand-soft: #ffe0d0;
-  --yellow: #ffd93d;
-  --green: #6bcb77;
-  --blue: #4d96ff;
-  --pink: #ff6b9d;
-  --purple: #9b5de5;
-  --radius: 18px;
-  --shadow: 0 6px 24px rgba(60, 45, 25, 0.08);
+  --ink: #1f2430;
+  --ink-soft: #7a8194;
+  --line: #e8eaf0;
+  --brand: #2f6bff;
+  --brand-soft: #e8efff;
+  --up: #e74c3c;        /* 红涨 */
+  --down: #27ae60;      /* 绿跌 */
+  --up-soft: #fdeceb;
+  --down-soft: #e9f7ef;
+  --warn: #f39c12;
+  --radius: 14px;
+  --shadow: 0 2px 12px rgba(30, 40, 70, 0.06);
 }
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -24,9 +24,9 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", "Segoe UI", sans-serif;
   background: var(--bg);
   color: var(--ink);
-  line-height: 1.6;
+  line-height: 1.55;
   min-height: 100vh;
-  padding-bottom: 76px; /* 给底部 tab 留空间 */
+  padding-bottom: 76px;
 }
 
 /* ============ 顶部导航 ============ */
@@ -34,12 +34,12 @@ body {
   position: sticky;
   top: 0;
   z-index: 20;
-  background: rgba(255, 248, 240, 0.9);
+  background: rgba(244, 245, 247, 0.92);
   backdrop-filter: blur(10px);
   border-bottom: 1px solid var(--line);
 }
 .topbar-inner {
-  max-width: 720px;
+  max-width: 760px;
   margin: 0 auto;
   padding: 12px 18px;
   display: flex;
@@ -47,33 +47,33 @@ body {
   justify-content: space-between;
 }
 .logo {
-  font-size: 20px;
+  font-size: 19px;
   font-weight: 800;
   letter-spacing: -0.5px;
   text-decoration: none;
   color: var(--ink);
 }
-.logo .emoji { font-size: 22px; margin-right: 4px; }
+.logo .emoji { font-size: 20px; margin-right: 4px; }
 .logo span.accent { color: var(--brand); }
+.topbar .meta { font-size: 12px; color: var(--ink-soft); text-align: right; }
+.topbar .meta .updated { display: block; }
 
 /* ============ 底部 tab ============ */
 .tabbar {
   position: fixed;
-  bottom: 0;
-  left: 0;
-  right: 0;
+  bottom: 0; left: 0; right: 0;
   z-index: 30;
-  background: rgba(255, 255, 255, 0.96);
+  background: rgba(255, 255, 255, 0.97);
   backdrop-filter: blur(10px);
   border-top: 1px solid var(--line);
   display: flex;
-  max-width: 720px;
+  max-width: 760px;
   margin: 0 auto;
 }
 .tabbar a {
   flex: 1;
   text-align: center;
-  padding: 10px 0 12px;
+  padding: 9px 0 11px;
   text-decoration: none;
   color: var(--ink-soft);
   font-size: 12px;
@@ -82,14 +82,14 @@ body {
   gap: 2px;
   transition: color .15s;
 }
-.tabbar a .ico { font-size: 20px; }
+.tabbar a .ico { font-size: 19px; }
 .tabbar a.active { color: var(--brand); font-weight: 700; }
 
 /* ============ 容器 ============ */
 .container {
-  max-width: 720px;
+  max-width: 760px;
   margin: 0 auto;
-  padding: 20px 18px;
+  padding: 16px 16px;
 }
 
 /* ============ 卡片 ============ */
@@ -97,109 +97,127 @@ body {
   background: var(--card);
   border-radius: var(--radius);
   box-shadow: var(--shadow);
-  padding: 22px 20px;
-  margin-bottom: 18px;
-}
-
-/* ============ 首页「今日整活」 ============ */
-.hero {
-  text-align: center;
-  padding: 28px 20px;
-}
-.hero .big-emoji {
-  font-size: 64px;
-  line-height: 1;
+  padding: 18px 18px;
   margin-bottom: 14px;
-  animation: bounce 2s infinite;
 }
-@keyframes bounce {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-10px); }
-}
-.hero h1 {
-  font-size: 24px;
+.section-title {
+  font-size: 16px;
   font-weight: 800;
-  margin-bottom: 6px;
+  margin: 4px 0 12px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
 }
-.hero .sub {
-  color: var(--ink-soft);
-  font-size: 14px;
+.section-title .count { font-weight: 600; color: var(--ink-soft); font-size: 13px; }
+
+/* ============ 统计条 ============ */
+.stat-row {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 14px;
 }
-.joke-display {
+.stat-box {
+  flex: 1;
   background: var(--card);
   border-radius: var(--radius);
   box-shadow: var(--shadow);
-  padding: 28px 22px;
-  min-height: 160px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
+  padding: 14px 10px;
   text-align: center;
-  margin-bottom: 18px;
-  position: relative;
 }
-.joke-display .cat-pill {
-  position: absolute;
-  top: 14px;
-  left: 16px;
+.stat-box .num { font-size: 24px; font-weight: 800; line-height: 1; }
+.stat-box .lbl { font-size: 12px; color: var(--ink-soft); margin-top: 4px; }
+.stat-box.bull .num { color: var(--up); }
+.stat-box.bear .num { color: var(--down); }
+.stat-box.neutral .num { color: var(--ink-soft); }
+
+/* ============ BTC 卡片 ============ */
+.btc-card {
+  background: linear-gradient(135deg, #1a2332 0%, #27344d 100%);
+  color: #fff;
+  border-radius: var(--radius);
+  box-shadow: 0 6px 20px rgba(20, 30, 55, 0.25);
+  padding: 20px 18px;
+  margin-bottom: 14px;
+}
+.btc-card .btc-head { display: flex; align-items: baseline; justify-content: space-between; }
+.btc-card .btc-title { font-size: 13px; color: #aab4c8; }
+.btc-card .btc-price { font-size: 30px; font-weight: 800; letter-spacing: -0.5px; }
+.btc-card .btc-chg { font-size: 15px; font-weight: 700; }
+.btc-card .btc-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 8px;
+  margin-top: 16px;
+  text-align: center;
+}
+.btc-card .btc-grid .cell .k { font-size: 11px; color: #aab4c8; }
+.btc-card .btc-grid .cell .v { font-size: 15px; font-weight: 700; margin-top: 2px; }
+.btc-card .btc-advice {
+  margin-top: 16px;
+  padding: 10px 12px;
+  background: rgba(255,255,255,0.08);
+  border-radius: 10px;
+  font-size: 13px;
+  line-height: 1.5;
+}
+.btc-card .btc-advice .k { color: #aab4c8; font-size: 11px; display: block; margin-bottom: 2px; }
+
+/* ============ 品种列表卡片 ============ */
+.item-card {
+  background: var(--card);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 14px 16px;
+  margin-bottom: 10px;
+}
+.item-card .row1 { display: flex; align-items: center; justify-content: space-between; }
+.item-card .name { font-size: 15px; font-weight: 700; }
+.item-card .name .code { font-size: 11px; color: var(--ink-soft); font-weight: 500; margin-left: 4px; }
+.item-card .price { font-size: 15px; font-weight: 700; }
+.item-card .row2 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 8px;
+  flex-wrap: wrap;
+  font-size: 12px;
+  color: var(--ink-soft);
+}
+.item-card .row2 .kv { white-space: nowrap; }
+.item-card .row2 .kv b { color: var(--ink); font-weight: 600; }
+
+/* ============ 涨跌色 ============ */
+.up { color: var(--up); }
+.down { color: var(--down); }
+.flat { color: var(--ink-soft); }
+
+/* ============ 标签 pill ============ */
+.pill {
+  display: inline-block;
   font-size: 11px;
   font-weight: 700;
-  color: #fff;
-  padding: 3px 10px;
+  padding: 2px 9px;
   border-radius: 999px;
+  white-space: nowrap;
 }
-.joke-display .joke-text {
-  font-size: 19px;
-  font-weight: 600;
-  line-height: 1.7;
-}
-.btn-row {
-  display: flex;
-  gap: 12px;
-  flex-wrap: wrap;
-}
-.btn {
-  flex: 1;
-  min-width: 120px;
-  border: none;
-  border-radius: 999px;
-  padding: 14px 18px;
-  font-size: 16px;
-  font-weight: 700;
-  cursor: pointer;
-  color: #fff;
-  background: var(--brand);
-  box-shadow: 0 6px 18px rgba(255, 107, 53, 0.3);
-  transition: transform .1s, box-shadow .1s;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-}
-.btn:active { transform: scale(0.97); }
-.btn.ghost {
-  background: #fff;
-  color: var(--ink);
-  border: 1.5px solid var(--line);
-  box-shadow: none;
-}
-.btn.green { background: var(--green); box-shadow: 0 6px 18px rgba(107, 203, 119, .3); }
-.btn.blue { background: var(--blue); box-shadow: 0 6px 18px rgba(77, 150, 255, .3); }
+.pill-bull { background: var(--up-soft); color: var(--up); }
+.pill-bear { background: var(--down-soft); color: var(--down); }
+.pill-neutral { background: #eef0f4; color: var(--ink-soft); }
+.pill-strong { background: var(--up-soft); color: var(--up); }
+.pill-trend-up { background: var(--up-soft); color: var(--up); }
+.pill-trend-down { background: var(--down-soft); color: var(--down); }
+.pill-trend-mid { background: #eef0f4; color: var(--ink-soft); }
+.pill-blue { background: var(--brand-soft); color: var(--brand); }
 
-/* ============ 分类标签色 ============ */
-.cat-谐音梗 { background: var(--pink); }
-.cat-冷笑话 { background: var(--blue); }
-.cat-神转折 { background: var(--purple); }
-.cat-职场 { background: var(--brand); }
-.cat-动物 { background: var(--green); }
-.cat-生活 { background: #f4a259; }
+/* ============ 信号强度 ============ */
+.strength-dots { color: var(--warn); font-size: 13px; letter-spacing: 1px; }
 
-/* ============ 冷笑话合集 ============ */
+/* ============ 筛选 chip ============ */
 .filter-bar {
   display: flex;
   gap: 8px;
   overflow-x: auto;
-  padding: 4px 0 14px;
+  padding: 4px 0 12px;
   scrollbar-width: none;
 }
 .filter-bar::-webkit-scrollbar { display: none; }
@@ -209,146 +227,79 @@ body {
   background: #fff;
   color: var(--ink-soft);
   border-radius: 999px;
-  padding: 7px 16px;
-  font-size: 14px;
+  padding: 6px 15px;
+  font-size: 13px;
   cursor: pointer;
   font-weight: 600;
   transition: all .15s;
 }
-.chip.active {
-  background: var(--brand);
-  color: #fff;
-  border-color: var(--brand);
+.chip.active { background: var(--brand); color: #fff; border-color: var(--brand); }
+
+/* ============ 新闻 ============ */
+.news-item {
+  padding: 11px 0;
+  border-bottom: 1px solid var(--line);
 }
-.joke-list .joke-item {
-  background: var(--card);
-  border-radius: var(--radius);
-  box-shadow: var(--shadow);
-  padding: 18px 18px;
-  margin-bottom: 12px;
-  display: flex;
-  gap: 12px;
-  align-items: flex-start;
+.news-item:last-child { border-bottom: none; }
+.news-item .n-title { font-size: 14px; font-weight: 600; line-height: 1.45; }
+.news-item .n-meta { font-size: 11px; color: var(--ink-soft); margin-top: 4px; }
+.news-item .n-meta .tag { margin-right: 6px; }
+.star { color: var(--warn); letter-spacing: 1px; font-size: 12px; }
+
+/* ============ 加载 / 错误 / 空 ============ */
+.loading, .empty-tip {
+  text-align: center;
+  color: var(--ink-soft);
+  padding: 40px 16px;
+  font-size: 14px;
 }
-.joke-item .idx {
-  flex: 0 0 34px;
-  height: 34px;
-  border-radius: 12px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-weight: 800;
-  color: #fff;
-  font-size: 15px;
-}
-.joke-item .body { flex: 1; }
-.joke-item .text { font-size: 16px; font-weight: 500; }
-.joke-item .tag {
+.loading .spinner {
   display: inline-block;
-  margin-top: 8px;
-  font-size: 11px;
-  font-weight: 700;
-  color: var(--ink-soft);
-  background: var(--bg);
-  padding: 2px 9px;
-  border-radius: 999px;
+  width: 20px; height: 20px;
+  border: 2.5px solid var(--line);
+  border-top-color: var(--brand);
+  border-radius: 50%;
+  animation: spin .8s linear infinite;
+  vertical-align: -4px;
+  margin-right: 8px;
 }
-.empty-tip {
-  text-align: center;
-  color: var(--ink-soft);
-  padding: 40px 0;
-  font-size: 15px;
-}
-
-/* ============ 图文段子瀑布流 ============ */
-.meme-grid {
-  columns: 2;
-  column-gap: 12px;
-}
-.meme-card {
-  break-inside: avoid;
-  background: var(--card);
-  border-radius: var(--radius);
-  box-shadow: var(--shadow);
-  padding: 18px 16px;
-  margin-bottom: 12px;
-  text-align: center;
-}
-.meme-card .meme-emoji {
-  font-size: 46px;
-  line-height: 1;
-  margin-bottom: 10px;
-}
-.meme-card .meme-text {
-  font-size: 15px;
-  font-weight: 600;
-  line-height: 1.5;
-}
-.meme-card .meme-tag {
+@keyframes spin { to { transform: rotate(360deg); } }
+.retry-btn {
+  display: inline-block;
   margin-top: 10px;
-  font-size: 11px;
-  color: var(--ink-soft);
-}
-@media (max-width: 480px) {
-  .meme-grid { columns: 2; }
+  border: none;
+  border-radius: 999px;
+  padding: 9px 20px;
+  font-size: 14px;
+  font-weight: 700;
+  cursor: pointer;
+  color: #fff;
+  background: var(--brand);
 }
 
-/* ============ 随机生成器 ============ */
-.gen-section { margin-bottom: 24px; }
-.gen-title {
-  font-size: 18px;
-  font-weight: 800;
-  margin-bottom: 12px;
-  display: flex;
-  align-items: center;
-  gap: 6px;
-}
-.gen-output {
-  background: var(--card);
-  border-radius: var(--radius);
-  box-shadow: var(--shadow);
-  padding: 24px 20px;
-  min-height: 120px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-  font-size: 18px;
-  font-weight: 600;
-  line-height: 1.7;
-  margin-bottom: 14px;
-}
-.gen-output.small { font-size: 15px; font-weight: 500; }
-.gen-output .muted { color: var(--ink-soft); font-size: 13px; font-weight: 500; }
-
-/* ============ 工具 ============ */
-.section-title {
-  font-size: 20px;
-  font-weight: 800;
-  margin: 6px 0 16px;
-  display: flex;
-  align-items: center;
-  gap: 8px;
-}
+/* ============ 脚注 ============ */
 .footer {
   text-align: center;
   color: var(--ink-soft);
-  font-size: 12px;
-  padding: 24px 0 8px;
+  font-size: 11px;
+  padding: 18px 0 4px;
 }
-.toast {
-  position: fixed;
-  left: 50%;
-  bottom: 90px;
-  transform: translateX(-50%);
-  background: rgba(45, 42, 38, 0.92);
-  color: #fff;
-  padding: 10px 20px;
+
+/* ============ 支撑/压力可视化条 ============ */
+.sr-bar {
+  position: relative;
+  height: 8px;
   border-radius: 999px;
-  font-size: 14px;
-  opacity: 0;
-  pointer-events: none;
-  transition: opacity .2s;
-  z-index: 50;
+  background: linear-gradient(to right, var(--down), #e8eaf0, var(--up));
+  margin: 10px 0 6px;
 }
-.toast.show { opacity: 1; }
+.sr-bar .dot {
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 13px; height: 13px;
+  border-radius: 50%;
+  background: #fff;
+  border: 3px solid var(--brand);
+  box-shadow: 0 1px 4px rgba(0,0,0,0.2);
+}

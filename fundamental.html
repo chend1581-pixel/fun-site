@@ -3,11 +3,11 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-  <title>期货看板 · 总览</title>
-  <meta name="description" content="期货量能异动、支撑压力位、基本面五维分析、比特币监控数据看板。">
+  <title>基本面五维 · 期货看板</title>
+  <meta name="description" content="期货基本面五维分析：基差、库存、供需、政策、资金。">
   <link rel="stylesheet" href="css/style.css">
 </head>
-<body id="page-home">
+<body id="page-fundamental">
   <header class="topbar">
     <div class="topbar-inner">
       <a class="logo" href="index.html"><span class="emoji">📈</span>期货<span class="accent">看板</span></a>
@@ -15,8 +15,11 @@
     </div>
   </header>
 
-  <main class="container" id="content">
-    <div class="loading"><span class="spinner"></span>加载中…</div>
+  <main class="container">
+    <div class="filter-bar" id="filterBar"></div>
+    <div id="content">
+      <div class="loading"><span class="spinner"></span>加载中…</div>
+    </div>
   </main>
 
   <nav class="tabbar">
