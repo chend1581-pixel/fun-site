@@ -1,24 +1,24 @@
 {
-  "updated": "2026-09-26T22:24:28.503271+08:00",
+  "updated": "2026-09-26T22:54:28.252070+08:00",
   "btc": {
-    "updated": "2026-09-26T22:24:28.503271+08:00",
+    "updated": "2026-09-26T22:54:28.252070+08:00",
     "symbol": "BTCUSDT",
-    "price": 83931.7,
-    "change_pct": 0.374,
-    "volume": 60041.495,
-    "quote_volume": 5036572065.31,
-    "vol_ratio": 0.3119728010469688,
+    "price": 84005.9,
+    "change_pct": 0.366,
+    "volume": 56174.385,
+    "quote_volume": 4712964213.6,
+    "vol_ratio": 0.29187947827649574,
     "open_interest": 95211.408,
     "oi_change_pct": -0.6899780136015561,
     "support": 74909.4,
     "resistance": 87385.1,
-    "ma20": 80126.825,
+    "ma20": 80130.535,
     "signal": "横盘整理",
     "strength": 0,
     "desc": "价格窄幅震荡",
     "trend": "中性",
     "top_trader_ratio": 1.9546,
-    "funding_rate": -7.17e-06,
+    "funding_rate": -7.7e-06,
     "inst_view": "偏多",
     "sentiment": "正常",
     "range_advice": "压力附近机构仍偏多，突破需量能配合"
@@ -2918,6 +2918,21 @@
     }
   ],
   "global_news": [
+    {
+      "product": "全球宏观",
+      "title": "雅典老城区爆炸事故致6死3伤",
+      "content": "【雅典老城区爆炸事故致6死3伤】据希腊国家广播电视公司26日报道，救援人员已在雅典普拉卡老城区发生爆炸建筑的废墟中找到6名遇难者遗体，另有3人受伤。",
+      "level": 2,
+      "score": 5,
+      "keywords": [
+        "爆炸",
+        "事故"
+      ],
+      "sentiment": "neutral",
+      "time": "2026-09-26 21:35:54",
+      "source": "东方财富全球",
+      "url": "https://finance.eastmoney.com/a/202609263884412864.html"
+    },
     {
       "product": "全球宏观",
       "title": "首尔航空航班发生火情 疑似充电宝起火",
