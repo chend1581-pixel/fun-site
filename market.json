@@ -1,24 +1,24 @@
 {
-  "updated": "2026-09-27T07:54:24.662393+08:00",
+  "updated": "2026-09-27T08:31:12.774403+08:00",
   "btc": {
-    "updated": "2026-09-27T07:54:24.662393+08:00",
+    "updated": "2026-09-27T08:24:24.763085+08:00",
     "symbol": "BTCUSDT",
-    "price": 84395.5,
-    "change_pct": 0.456,
-    "volume": 36073.985,
-    "quote_volume": 3031729934.85,
-    "vol_ratio": 0.18743873958129018,
-    "open_interest": 95211.408,
-    "oi_change_pct": -0.6899780136015561,
+    "price": 84233.5,
+    "change_pct": 0.289,
+    "volume": 36296.637,
+    "quote_volume": 3050846582.47,
+    "vol_ratio": 0.2563608156787885,
+    "open_interest": 94517.662,
+    "oi_change_pct": -0.7286374758789401,
     "support": 74909.4,
     "resistance": 87385.1,
-    "ma20": 80150.015,
+    "ma20": 80408.285,
     "signal": "横盘整理",
     "strength": 0,
     "desc": "价格窄幅震荡",
     "trend": "中性",
-    "top_trader_ratio": 1.9546,
-    "funding_rate": 4.561e-05,
+    "top_trader_ratio": 1.9356,
+    "funding_rate": 4.73e-05,
     "inst_view": "偏多",
     "sentiment": "正常",
     "range_advice": "压力附近机构仍偏多，突破需量能配合"
@@ -1323,6 +1323,24 @@
       "bias": "中性"
     },
     {
+      "name": "沪铅",
+      "price": 16270.0,
+      "change_pct": -0.7926799999999999,
+      "basis": 7.683442182093714e-05,
+      "basis_desc": "平水",
+      "inventory": [
+        "stable",
+        -0.28
+      ],
+      "inventory_desc": "稳定",
+      "supply_desc": "减产",
+      "policy_desc": "—",
+      "funds_desc": "空头集中 减仓",
+      "member_net": 10.4,
+      "total": 0,
+      "bias": "中性"
+    },
+    {
       "name": "螺纹钢",
       "price": 3118.0,
       "change_pct": 0.03208,
@@ -1920,24 +1938,6 @@
       "funds_desc": "空头集中",
       "member_net": 2.5,
       "total": -2,
-      "bias": "偏空"
-    },
-    {
-      "name": "沪铅",
-      "price": 16270.0,
-      "change_pct": -0.7926799999999999,
-      "basis": 7.683442182093714e-05,
-      "basis_desc": "平水",
-      "inventory": [
-        "stable",
-        -0.28
-      ],
-      "inventory_desc": "稳定",
-      "supply_desc": "减产/复产",
-      "policy_desc": "复产",
-      "funds_desc": "空头集中 减仓",
-      "member_net": 10.4,
-      "total": -3,
       "bias": "偏空"
     },
     {
