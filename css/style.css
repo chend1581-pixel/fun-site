@@ -92,6 +92,29 @@ body {
   padding: 16px 16px;
 }
 
+/* ============ 首页标语 ============ */
+.slogan {
+  max-width: 760px;
+  margin: 14px auto 0;
+  padding: 14px 18px;
+  background: linear-gradient(135deg, #eef3ff 0%, #f7faff 100%);
+  border: 1px solid #dce6ff;
+  border-radius: var(--radius);
+}
+.slogan-main {
+  font-size: 15px;
+  font-weight: 800;
+  letter-spacing: -0.2px;
+  color: var(--ink);
+}
+.slogan-main .hl { color: var(--brand); }
+.slogan-sub {
+  font-size: 12px;
+  color: var(--ink-soft);
+  margin-top: 4px;
+  line-height: 1.6;
+}
+
 /* ============ 卡片 ============ */
 .card {
   background: var(--card);
