@@ -1,24 +1,24 @@
 {
-  "updated": "2026-10-03T14:24:30.501795+08:00",
+  "updated": "2026-10-03T14:54:37.097666+08:00",
   "btc": {
-    "updated": "2026-10-03T14:24:30.501795+08:00",
+    "updated": "2026-10-03T14:54:37.097666+08:00",
     "symbol": "BTCUSDT",
-    "price": 84599.6,
-    "change_pct": -1.578,
-    "volume": 179368.745,
-    "quote_volume": 15340062340.46,
-    "vol_ratio": 1.0771746385802476,
+    "price": 84541.3,
+    "change_pct": -1.64,
+    "volume": 178410.309,
+    "quote_volume": 15255951615.75,
+    "vol_ratio": 1.0714188813444914,
     "open_interest": 98184.174,
     "oi_change_pct": 1.2931003266021952,
     "support": 74909.4,
     "resistance": 87385.1,
-    "ma20": 82423.74,
+    "ma20": 82420.845,
     "signal": "温和下跌",
     "strength": 1,
     "desc": "价格下行，量仓配合一般",
     "trend": "中性",
     "top_trader_ratio": 2.0516,
-    "funding_rate": 8.22e-06,
+    "funding_rate": 7.67e-06,
     "inst_view": "偏多",
     "sentiment": "正常",
     "range_advice": "压力附近机构仍偏多，突破需量能配合"
@@ -2481,22 +2481,6 @@
       "time": "2026-09-28 09:12:53",
       "source": "光大期货",
       "url": "http://finance.eastmoney.com/a/202609283884595179.html"
-    },
-    {
-      "product": "锰硅",
-      "title": "黑色系 | 预计短期螺纹盘面或将窄幅波动运行",
-      "content": "昨日黑色板块整体走势有所分化，合金期价走势偏弱，锰硅期价重心小幅下移。基本面来看，后续锰硅供应端压力将小幅减弱，近日多家锰硅生产企业发布停产公告，但截至上周末锰硅周产量仍在持续增加。需求端，近期钢厂锰硅招标价格也有所回落，多在5810-5900元/吨。",
-      "level": 2,
-      "score": 5,
-      "keywords": [
-        "停产",
-        "需求",
-        "产量"
-      ],
-      "sentiment": "bearish",
-      "time": "2026-09-23 08:43:51",
-      "source": "光大期货",
-      "url": "http://finance.eastmoney.com/a/202609233881885966.html"
     },
     {
       "product": "碳酸锂",
