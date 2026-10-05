@@ -1,24 +1,24 @@
 {
-  "updated": "2026-10-05T07:54:24.631777+08:00",
+  "updated": "2026-10-05T08:31:06.453505+08:00",
   "btc": {
-    "updated": "2026-10-05T07:54:24.631777+08:00",
+    "updated": "2026-10-05T08:24:24.469058+08:00",
     "symbol": "BTCUSDT",
-    "price": 86390.0,
-    "change_pct": 1.975,
-    "volume": 68563.868,
-    "quote_volume": 5869641323.99,
-    "vol_ratio": 0.4772545556549254,
-    "open_interest": 97927.845,
-    "oi_change_pct": -0.261069569114059,
-    "support": 74909.4,
+    "price": 86340.0,
+    "change_pct": 1.784,
+    "volume": 67965.206,
+    "quote_volume": 5823310155.77,
+    "vol_ratio": 0.5131358010577933,
+    "open_interest": 97452.28,
+    "oi_change_pct": -0.48562796414033443,
+    "support": 75025.0,
     "resistance": 87385.1,
-    "ma20": 82841.33499999999,
+    "ma20": 83382.55,
     "signal": "上涨乏力",
     "strength": 1,
     "desc": "价涨缩量，上涨动能不足",
     "trend": "中性",
-    "top_trader_ratio": 1.8515,
-    "funding_rate": 7.55e-05,
+    "top_trader_ratio": 1.8066,
+    "funding_rate": 8.154e-05,
     "inst_view": "偏多",
     "sentiment": "正常",
     "range_advice": "压力附近机构仍偏多，突破需量能配合"
@@ -1494,6 +1494,24 @@
       "bias": "中性"
     },
     {
+      "name": "沪金",
+      "price": 910.58,
+      "change_pct": 1.4167,
+      "basis": 0.006655169364110813,
+      "basis_desc": "平水",
+      "inventory": [
+        "stable",
+        -0.0
+      ],
+      "inventory_desc": "稳定",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "空头集中",
+      "member_net": 13.8,
+      "total": -1,
+      "bias": "中性"
+    },
+    {
       "name": "热卷",
       "price": 3274.0,
       "change_pct": -0.15249000000000001,
@@ -1786,24 +1804,6 @@
       "member_net": 4.2,
       "total": -1,
       "bias": "中性"
-    },
-    {
-      "name": "沪金",
-      "price": 910.58,
-      "change_pct": 1.4167,
-      "basis": 0.006655169364110813,
-      "basis_desc": "平水",
-      "inventory": [
-        "stable",
-        -0.0
-      ],
-      "inventory_desc": "稳定",
-      "supply_desc": "—",
-      "policy_desc": "加息",
-      "funds_desc": "空头集中",
-      "member_net": 13.8,
-      "total": -2,
-      "bias": "偏空"
     },
     {
       "name": "沥青",
