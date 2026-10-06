@@ -1,24 +1,24 @@
 {
-  "updated": "2026-10-06T08:54:24.312130+08:00",
+  "updated": "2026-10-06T09:30:36.240219+08:00",
   "btc": {
-    "updated": "2026-10-06T08:54:24.312130+08:00",
+    "updated": "2026-10-06T09:24:23.888383+08:00",
     "symbol": "BTCUSDT",
-    "price": 85799.5,
-    "change_pct": -0.9,
-    "volume": 147971.975,
-    "quote_volume": 12709086033.96,
-    "vol_ratio": 1.1604824714297413,
+    "price": 85941.1,
+    "change_pct": -0.976,
+    "volume": 145842.942,
+    "quote_volume": 12523300006.08,
+    "vol_ratio": 1.1437853537654303,
     "open_interest": 94297.173,
     "oi_change_pct": -3.237591773122192,
     "support": 75975.0,
     "resistance": 87385.1,
-    "ma20": 83832.89499999999,
+    "ma20": 83839.975,
     "signal": "温和下跌",
     "strength": 1,
     "desc": "价格下行，量仓配合一般",
     "trend": "中性",
     "top_trader_ratio": 1.7755,
-    "funding_rate": -2.06e-05,
+    "funding_rate": -1.747e-05,
     "inst_view": "偏多",
     "sentiment": "正常",
     "range_advice": "压力附近机构仍偏多，突破需量能配合"
@@ -713,91 +713,59 @@
   ],
   "support_resistance": [
     {
-      "name": "螺纹钢",
-      "price": 3112.0,
-      "support": 3088.0,
-      "resistance": 3183.0,
-      "institution": "多头集中",
-      "trend": "震荡偏强"
+      "name": "沪铜",
+      "price": 109680.0,
+      "support": 106650.0,
+      "resistance": 112330.0,
+      "institution": "—",
+      "trend": "中性"
     },
     {
-      "name": "豆粕",
-      "price": 3372.0,
-      "support": 3327.0,
-      "resistance": 3502.0,
-      "institution": "多头集中",
-      "trend": "震荡偏强"
+      "name": "沪铝",
+      "price": 23830.0,
+      "support": 23800.0,
+      "resistance": 24675.0,
+      "institution": "—",
+      "trend": "中性"
     },
     {
-      "name": "棕榈油",
-      "price": 9581.0,
-      "support": 9508.0,
-      "resistance": 10489.0,
-      "institution": "多头集中",
-      "trend": "震荡偏强"
+      "name": "沪锌",
+      "price": 26435.0,
+      "support": 25960.0,
+      "resistance": 27895.0,
+      "institution": "—",
+      "trend": "中性"
     },
     {
-      "name": "豆油",
-      "price": 8972.0,
-      "support": 8817.0,
-      "resistance": 9286.0,
-      "institution": "多头集中",
-      "trend": "震荡偏强"
+      "name": "沪镍",
+      "price": 122040.0,
+      "support": 120270.0,
+      "resistance": 129540.0,
+      "institution": "—",
+      "trend": "中性"
     },
     {
-      "name": "焦炭",
-      "price": 1958.5,
-      "support": 1923.0,
-      "resistance": 2276.0,
-      "institution": "多头集中",
-      "trend": "震荡偏强"
+      "name": "沪锡",
+      "price": 409600.0,
+      "support": 389420.0,
+      "resistance": 427970.0,
+      "institution": "—",
+      "trend": "中性"
     },
     {
-      "name": "PVC",
-      "price": 4999.0,
-      "support": 4673.0,
-      "resistance": 5194.0,
-      "institution": "多头集中",
-      "trend": "震荡偏强"
-    },
-    {
-      "name": "苯乙烯",
-      "price": 9892.0,
-      "support": 9154.0,
-      "resistance": 10724.0,
-      "institution": "多头集中",
-      "trend": "震荡偏强"
-    },
-    {
-      "name": "PTA",
-      "price": 6300.0,
-      "support": 5844.0,
-      "resistance": 6672.0,
-      "institution": "多头集中",
-      "trend": "震荡偏强"
-    },
-    {
-      "name": "菜油",
-      "price": 10230.0,
-      "support": 9984.0,
-      "resistance": 10539.0,
-      "institution": "多头集中",
-      "trend": "震荡偏强"
-    },
-    {
-      "name": "碳酸锂",
-      "price": 118420.0,
-      "support": 116960.0,
-      "resistance": 158000.0,
-      "institution": "多头集中",
-      "trend": "震荡偏强"
+      "name": "沪铅",
+      "price": 16180.0,
+      "support": 15750.0,
+      "resistance": 16495.0,
+      "institution": "—",
+      "trend": "中性"
     },
     {
       "name": "沪金",
       "price": 910.58,
       "support": 892.62,
       "resistance": 977.26,
-      "institution": "空头集中",
+      "institution": "—",
       "trend": "中性"
     },
     {
@@ -805,7 +773,15 @@
       "price": 14980.0,
       "support": 14745.0,
       "resistance": 16628.0,
-      "institution": "空头集中",
+      "institution": "—",
+      "trend": "中性"
+    },
+    {
+      "name": "螺纹钢",
+      "price": 3112.0,
+      "support": 3088.0,
+      "resistance": 3183.0,
+      "institution": "—",
       "trend": "中性"
     },
     {
@@ -813,7 +789,23 @@
       "price": 3274.0,
       "support": 3270.0,
       "resistance": 3406.0,
-      "institution": "均衡",
+      "institution": "—",
+      "trend": "中性"
+    },
+    {
+      "name": "不锈钢",
+      "price": 13700.0,
+      "support": 13290.0,
+      "resistance": 13945.0,
+      "institution": "—",
+      "trend": "中性"
+    },
+    {
+      "name": "沥青",
+      "price": 5013.0,
+      "support": 4676.0,
+      "resistance": 5543.0,
+      "institution": "—",
       "trend": "中性"
     },
     {
@@ -821,7 +813,7 @@
       "price": 4434.0,
       "support": 3663.0,
       "resistance": 4606.0,
-      "institution": "均衡",
+      "institution": "—",
       "trend": "中性"
     },
     {
@@ -829,7 +821,7 @@
       "price": 20095.0,
       "support": 18505.0,
       "resistance": 20115.0,
-      "institution": "空头集中",
+      "institution": "—",
       "trend": "中性"
     },
     {
@@ -837,7 +829,47 @@
       "price": 4912.0,
       "support": 4704.0,
       "resistance": 4996.0,
-      "institution": "空头集中",
+      "institution": "—",
+      "trend": "中性"
+    },
+    {
+      "name": "氧化铝",
+      "price": 2723.0,
+      "support": 2639.0,
+      "resistance": 2822.0,
+      "institution": "—",
+      "trend": "中性"
+    },
+    {
+      "name": "豆粕",
+      "price": 3372.0,
+      "support": 3327.0,
+      "resistance": 3502.0,
+      "institution": "—",
+      "trend": "中性"
+    },
+    {
+      "name": "铁矿石",
+      "price": 702.5,
+      "support": 698.0,
+      "resistance": 745.0,
+      "institution": "—",
+      "trend": "中性"
+    },
+    {
+      "name": "棕榈油",
+      "price": 9581.0,
+      "support": 9508.0,
+      "resistance": 10489.0,
+      "institution": "—",
+      "trend": "中性"
+    },
+    {
+      "name": "豆油",
+      "price": 8972.0,
+      "support": 8817.0,
+      "resistance": 9286.0,
+      "institution": "—",
       "trend": "中性"
     },
     {
@@ -845,7 +877,47 @@
       "price": 5253.0,
       "support": 4892.0,
       "resistance": 5280.0,
-      "institution": "多头集中",
+      "institution": "—",
+      "trend": "中性"
+    },
+    {
+      "name": "玉米",
+      "price": 2187.0,
+      "support": 2166.0,
+      "resistance": 2310.0,
+      "institution": "—",
+      "trend": "中性"
+    },
+    {
+      "name": "焦炭",
+      "price": 1958.5,
+      "support": 1923.0,
+      "resistance": 2276.0,
+      "institution": "—",
+      "trend": "中性"
+    },
+    {
+      "name": "焦煤",
+      "price": 1449.0,
+      "support": 1433.0,
+      "resistance": 1763.5,
+      "institution": "—",
+      "trend": "中性"
+    },
+    {
+      "name": "塑料",
+      "price": 8197.0,
+      "support": 8011.0,
+      "resistance": 8924.0,
+      "institution": "—",
+      "trend": "中性"
+    },
+    {
+      "name": "PVC",
+      "price": 4999.0,
+      "support": 4673.0,
+      "resistance": 5194.0,
+      "institution": "—",
       "trend": "中性"
     },
     {
@@ -853,7 +925,7 @@
       "price": 8631.0,
       "support": 8314.0,
       "resistance": 9275.0,
-      "institution": "多头集中",
+      "institution": "—",
       "trend": "中性"
     },
     {
@@ -861,7 +933,15 @@
       "price": 5284.0,
       "support": 5081.0,
       "resistance": 6304.0,
-      "institution": "均衡",
+      "institution": "—",
+      "trend": "中性"
+    },
+    {
+      "name": "苯乙烯",
+      "price": 9892.0,
+      "support": 9154.0,
+      "resistance": 10724.0,
+      "institution": "—",
       "trend": "中性"
     },
     {
@@ -869,7 +949,7 @@
       "price": 3715.0,
       "support": 3651.0,
       "resistance": 3908.0,
-      "institution": "空头集中",
+      "institution": "—",
       "trend": "中性"
     },
     {
@@ -877,7 +957,23 @@
       "price": 10680.0,
       "support": 10285.0,
       "resistance": 11950.0,
-      "institution": "空头集中",
+      "institution": "—",
+      "trend": "中性"
+    },
+    {
+      "name": "LPG",
+      "price": 6713.0,
+      "support": 6182.0,
+      "resistance": 7195.0,
+      "institution": "—",
+      "trend": "中性"
+    },
+    {
+      "name": "PTA",
+      "price": 6300.0,
+      "support": 5844.0,
+      "resistance": 6672.0,
+      "institution": "—",
       "trend": "中性"
     },
     {
@@ -885,7 +981,7 @@
       "price": 2972.0,
       "support": 2821.0,
       "resistance": 3576.0,
-      "institution": "多头集中",
+      "institution": "—",
       "trend": "中性"
     },
     {
@@ -893,7 +989,7 @@
       "price": 1006.0,
       "support": 991.0,
       "resistance": 1112.0,
-      "institution": "空头集中",
+      "institution": "—",
       "trend": "中性"
     },
     {
@@ -901,7 +997,15 @@
       "price": 896.0,
       "support": 889.0,
       "resistance": 1010.0,
-      "institution": "空头集中",
+      "institution": "—",
+      "trend": "中性"
+    },
+    {
+      "name": "尿素",
+      "price": 1768.0,
+      "support": 1745.0,
+      "resistance": 1845.0,
+      "institution": "—",
       "trend": "中性"
     },
     {
@@ -909,7 +1013,7 @@
       "price": 15615.0,
       "support": 15490.0,
       "resistance": 17130.0,
-      "institution": "空头集中",
+      "institution": "—",
       "trend": "中性"
     },
     {
@@ -917,7 +1021,7 @@
       "price": 5354.0,
       "support": 5305.0,
       "resistance": 5510.0,
-      "institution": "空头集中",
+      "institution": "—",
       "trend": "中性"
     },
     {
@@ -925,7 +1029,15 @@
       "price": 2333.0,
       "support": 2275.0,
       "resistance": 2442.0,
-      "institution": "空头集中",
+      "institution": "—",
+      "trend": "中性"
+    },
+    {
+      "name": "菜油",
+      "price": 10230.0,
+      "support": 9984.0,
+      "resistance": 10539.0,
+      "institution": "—",
       "trend": "中性"
     },
     {
@@ -933,7 +1045,7 @@
       "price": 5796.0,
       "support": 5760.0,
       "resistance": 6242.0,
-      "institution": "空头集中",
+      "institution": "—",
       "trend": "中性"
     },
     {
@@ -941,168 +1053,56 @@
       "price": 5994.0,
       "support": 5924.0,
       "resistance": 6624.0,
-      "institution": "空头集中",
+      "institution": "—",
       "trend": "中性"
-    },
-    {
-      "name": "沪铜",
-      "price": 109680.0,
-      "support": 106650.0,
-      "resistance": 112330.0,
-      "institution": "空头集中",
-      "trend": "震荡偏弱"
-    },
-    {
-      "name": "沪铝",
-      "price": 23830.0,
-      "support": 23800.0,
-      "resistance": 24675.0,
-      "institution": "空头集中",
-      "trend": "震荡偏弱"
-    },
-    {
-      "name": "沪锌",
-      "price": 26435.0,
-      "support": 25960.0,
-      "resistance": 27895.0,
-      "institution": "空头集中",
-      "trend": "震荡偏弱"
-    },
-    {
-      "name": "沪镍",
-      "price": 122040.0,
-      "support": 120270.0,
-      "resistance": 129540.0,
-      "institution": "空头集中",
-      "trend": "震荡偏弱"
-    },
-    {
-      "name": "沪锡",
-      "price": 409600.0,
-      "support": 389420.0,
-      "resistance": 427970.0,
-      "institution": "空头集中",
-      "trend": "震荡偏弱"
-    },
-    {
-      "name": "沪铅",
-      "price": 16180.0,
-      "support": 15750.0,
-      "resistance": 16495.0,
-      "institution": "空头集中",
-      "trend": "震荡偏弱"
-    },
-    {
-      "name": "不锈钢",
-      "price": 13700.0,
-      "support": 13290.0,
-      "resistance": 13945.0,
-      "institution": "空头集中",
-      "trend": "震荡偏弱"
-    },
-    {
-      "name": "沥青",
-      "price": 5013.0,
-      "support": 4676.0,
-      "resistance": 5543.0,
-      "institution": "空头集中",
-      "trend": "震荡偏弱"
-    },
-    {
-      "name": "氧化铝",
-      "price": 2723.0,
-      "support": 2639.0,
-      "resistance": 2822.0,
-      "institution": "空头集中",
-      "trend": "震荡偏弱"
-    },
-    {
-      "name": "铁矿石",
-      "price": 702.5,
-      "support": 698.0,
-      "resistance": 745.0,
-      "institution": "空头集中",
-      "trend": "震荡偏弱"
-    },
-    {
-      "name": "玉米",
-      "price": 2187.0,
-      "support": 2166.0,
-      "resistance": 2310.0,
-      "institution": "空头集中",
-      "trend": "震荡偏弱"
-    },
-    {
-      "name": "焦煤",
-      "price": 1449.0,
-      "support": 1433.0,
-      "resistance": 1763.5,
-      "institution": "空头集中",
-      "trend": "震荡偏弱"
-    },
-    {
-      "name": "塑料",
-      "price": 8197.0,
-      "support": 8011.0,
-      "resistance": 8924.0,
-      "institution": "空头集中",
-      "trend": "震荡偏弱"
-    },
-    {
-      "name": "LPG",
-      "price": 6713.0,
-      "support": 6182.0,
-      "resistance": 7195.0,
-      "institution": "空头集中",
-      "trend": "震荡偏弱"
-    },
-    {
-      "name": "尿素",
-      "price": 1768.0,
-      "support": 1745.0,
-      "resistance": 1845.0,
-      "institution": "空头集中",
-      "trend": "震荡偏弱"
     },
     {
       "name": "苹果",
       "price": 6854.0,
       "support": 6765.0,
       "resistance": 7631.0,
-      "institution": "空头集中",
-      "trend": "震荡偏弱"
+      "institution": "—",
+      "trend": "中性"
     },
     {
       "name": "短纤",
       "price": 8280.0,
       "support": 7816.0,
       "resistance": 8896.0,
-      "institution": "空头集中",
-      "trend": "震荡偏弱"
+      "institution": "—",
+      "trend": "中性"
     },
     {
       "name": "花生",
       "price": 7992.0,
       "support": 7764.0,
       "resistance": 8140.0,
-      "institution": "空头集中",
-      "trend": "震荡偏弱"
+      "institution": "—",
+      "trend": "中性"
     },
     {
       "name": "红枣",
       "price": 7130.0,
       "support": 6995.0,
       "resistance": 7990.0,
-      "institution": "空头集中",
-      "trend": "震荡偏弱"
+      "institution": "—",
+      "trend": "中性"
     },
     {
       "name": "烧碱",
       "price": 1805.0,
       "support": 1801.0,
       "resistance": 2022.0,
-      "institution": "空头集中",
-      "trend": "震荡偏弱"
+      "institution": "—",
+      "trend": "中性"
+    },
+    {
+      "name": "碳酸锂",
+      "price": 118420.0,
+      "support": 116960.0,
+      "resistance": 158000.0,
+      "institution": "—",
+      "trend": "中性"
     }
   ],
   "fundamental": [
@@ -2936,23 +2936,23 @@
   "global_news": [
     {
       "product": "全球宏观",
-      "title": "“罗斯福”号航母赴中东 美伊战略僵局难破 地区风险上升",
-      "content": "【“罗斯福”号航母赴中东 美伊战略僵局难破 地区风险上升】近日，据多方消息，美军正向中东地区增派兵力，包括“罗斯福”号航空母舰打击群、多艘两栖作战舰艇以及数千名海军陆战队员。专家表示，从现有的态势来看，美伊之间很难打破现有的战略僵局，而如果美国和伊朗新一轮冲突爆发，很可能会使得中东地区面临新的战争风险，也会使得中东地区动荡的风险进一步增加。",
+      "title": "成交额跌破1.5万亿！四季度A股怎么走？十大券商最新策略来了",
+      "content": "【成交额跌破1.5万亿！四季度A股怎么走？十大券商最新策略来了】历经前三季度K型分化、科技板块深度调整、指数反复拉锯的结构性博弈后，A股正式迈入四季度关键窗口期。伴随美联储加息扰动逐步落地，外部风险定价充分，以及国内经济基本面稳步托底，叠加三季报业绩验证窗口来临，市场不确定性持续收敛，风格再平衡与主线重塑契机显现。",
       "level": 2,
       "score": 5,
       "keywords": [
-        "战争",
-        "冲突"
+        "加息",
+        "美联储"
       ],
-      "sentiment": "neutral",
-      "time": "2026-10-05 10:34:32",
+      "sentiment": "bearish",
+      "time": "2026-10-06 07:00:00",
       "source": "东方财富全球",
-      "url": "https://finance.eastmoney.com/a/202610053888602235.html"
+      "url": "https://finance.eastmoney.com/a/202610063888713852.html"
     },
     {
       "product": "全球宏观",
-      "title": "美联储10月维持利率不变的概率升至77.9%",
-      "content": "【美联储10月维持利率不变的概率升至77.9%】据CME“美联储观察”：美联储到10月维持利率不变的概率为77.9%，累计加息25个基点的概率为22.1%。美联储到12月维持利率不变的概率为12.8%，累计加息25个基点的概率68.7%，累计加息50个基点的概率为18.5%。",
+      "title": "美联储10月维持利率不变的概率为77.3%",
+      "content": "【美联储10月维持利率不变的概率为77.3%】据CME“美联储观察”：美联储到10月维持利率不变的概率为77.3%，累计加息25个基点的概率为22.7%。美联储到12月维持利率不变的概率为13.4%，累计加息25个基点的概率67.8%，累计加息50个基点的概率为18.8%。",
       "level": 2,
       "score": 5,
       "keywords": [
@@ -2960,9 +2960,102 @@
         "美联储"
       ],
       "sentiment": "neutral",
-      "time": "2026-10-05 06:01:16",
+      "time": "2026-10-06 06:06:41",
       "source": "东方财富全球",
-      "url": "https://finance.eastmoney.com/a/202610053888580246.html"
+      "url": "https://finance.eastmoney.com/a/202610063888711271.html"
+    },
+    {
+      "product": "全球宏观",
+      "title": "美联储周一隔夜逆回购协议（RRP）使用规模为10.04亿美元 上个交易日报15.01亿美元",
+      "content": "美联储周一隔夜逆回购协议（RRP）使用规模为10.04亿美元，上个交易日报15.01亿美元。",
+      "level": 2,
+      "score": 5,
+      "keywords": [
+        "逆回购",
+        "美元",
+        "美联储"
+      ],
+      "sentiment": "neutral",
+      "time": "2026-10-06 01:19:21",
+      "source": "东方财富全球",
+      "url": "https://finance.eastmoney.com/a/202610063888701685.html"
+    },
+    {
+      "product": "全球宏观",
+      "title": "法国“戴高乐”号航母发生火灾 无人员受伤",
+      "content": "【法国“戴高乐”号航母发生火灾 无人员受伤】法国海军发布公告称，停泊在法国土伦海军基地的“戴高乐”号核动力航空母舰当天发生火灾。目前火灾已被扑灭，事故没有造成人员受伤。",
+      "level": 2,
+      "score": 5,
+      "keywords": [
+        "火灾",
+        "事故"
+      ],
+      "sentiment": "neutral",
+      "time": "2026-10-06 00:28:59",
+      "source": "东方财富全球",
+      "url": "https://finance.eastmoney.com/a/202610063888700967.html"
+    },
+    {
+      "product": "全球宏观",
+      "title": "土耳其9月通胀率降至30%以下 连续四个月回落",
+      "content": "【土耳其9月通胀率降至30%以下 连续四个月回落】土耳其5日公布的官方数据显示，9月消费者价格指数（CPI）同比上涨29.7%，涨幅连续第四个月回落，为2021年11月以来首次低于30%；环比上涨1.8%，低于市场普遍预期的2%以上。",
+      "level": 2,
+      "score": 4,
+      "keywords": [
+        "消费",
+        "CPI",
+        "通胀"
+      ],
+      "sentiment": "bullish",
+      "time": "2026-10-06 08:16:21",
+      "source": "东方财富全球",
+      "url": "https://finance.eastmoney.com/a/202610063888719421.html"
+    },
+    {
+      "product": "全球宏观",
+      "title": "Lucid继续执行库存削减计划 第三季度交付3806辆汽车",
+      "content": "【Lucid继续执行库存削减计划 第三季度交付3806辆汽车】当地时间10月5日，美国电动汽车制造商LucidGroup,Inc.（NASDAQ:LCID）公布截至2026年9月30日第三季度的产量和交付数据。该公司第三季度生产2954辆汽车，交付3806辆汽车。交付量超过产量，公司继续执行计划中的库存削减，将现有车辆库存转化为客户交付，这是此前宣布的2026年1.4亿美元现金流改善运营重置计划的",
+      "level": 2,
+      "score": 4,
+      "keywords": [
+        "库存",
+        "产量",
+        "美元"
+      ],
+      "sentiment": "neutral",
+      "time": "2026-10-06 07:40:00",
+      "source": "东方财富全球",
+      "url": "https://finance.eastmoney.com/a/202610063888715691.html"
+    },
+    {
+      "product": "全球宏观",
+      "title": "韩国9月外汇储备报4405.6亿美元",
+      "content": "韩国9月外汇储备报4405.6亿美元，前值4422.8亿美元。",
+      "level": 2,
+      "score": 4,
+      "keywords": [
+        "储备",
+        "美元"
+      ],
+      "sentiment": "neutral",
+      "time": "2026-10-06 05:00:45",
+      "source": "东方财富全球",
+      "url": "https://finance.eastmoney.com/a/202610063888705318.html"
+    },
+    {
+      "product": "全球宏观",
+      "title": "波音获得洛克希德马丁价值147亿美元的PAC-3MSE导弹导引头合同",
+      "content": "【波音获得洛克希德马丁价值147亿美元的PAC-3MSE导弹导引头合同】波音公司获得洛克希德·马丁公司授予的一份金额约147亿美元的未定价合同，用于扩大PAC-3“导弹分段增强型”（MSE）导引头的生产规模并完成交付。这份合同将推动波音在早前与美国国防部达成的七年框架协议下，把PAC-3MSE导引头的产能提升两倍，以此支撑美国国防部的采办转型战略，强化美国的“自由武器库”储备。",
+      "level": 2,
+      "score": 4,
+      "keywords": [
+        "储备",
+        "美元"
+      ],
+      "sentiment": "neutral",
+      "time": "2026-10-06 02:02:15",
+      "source": "东方财富全球",
+      "url": "https://finance.eastmoney.com/a/202610063888702127.html"
     },
     {
       "product": "全球宏观",
@@ -2993,36 +3086,6 @@
       "time": "2026-10-05 16:55:44",
       "source": "东方财富全球",
       "url": "https://finance.eastmoney.com/a/202610053888642333.html"
-    },
-    {
-      "product": "全球宏观",
-      "title": "欧洲央行管委内格尔：目前尚无明确迹象表明通胀已传导至价格和工资设定",
-      "content": "【欧洲央行管委内格尔：目前尚无明确迹象表明通胀已传导至价格和工资设定】欧洲央行管委内格尔表示，通胀前景面临上行风险；不确定性要求灵活应对，而非无所作为。目前尚无明确迹象表明通胀已传导至价格和工资设定。",
-      "level": 2,
-      "score": 4,
-      "keywords": [
-        "央行",
-        "通胀"
-      ],
-      "sentiment": "neutral",
-      "time": "2026-10-05 15:46:36",
-      "source": "东方财富全球",
-      "url": "https://finance.eastmoney.com/a/202610053888630943.html"
-    },
-    {
-      "product": "全球宏观",
-      "title": "一汽丰田发布声明：“一汽丰田或将彻底退出历史舞台”“丰田大降价”等均为不实言论 将保留法律追责权利",
-      "content": "【一汽丰田发布声明：“一汽丰田或将彻底退出历史舞台”“丰田大降价”等均为不实言论 将保留法律追责权利】10月5日，一汽丰田官方微博发布声明：近期，中国第一汽车集团有限公司与广州汽车工业集团有限公司签署战略合作框架协议，引发行业及消费者广泛关注。针对部分网络账号散布的“一汽丰田或将彻底退出历史舞台”“丰田大降价”等不实言论，我司保留法律追责权利。",
-      "level": 2,
-      "score": 4,
-      "keywords": [
-        "消费",
-        "历史"
-      ],
-      "sentiment": "neutral",
-      "time": "2026-10-05 10:39:00",
-      "source": "东方财富全球",
-      "url": "https://finance.eastmoney.com/a/202610053888601367.html"
     }
   ]
 }
