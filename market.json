@@ -1,24 +1,24 @@
 {
-  "updated": "2026-10-06T22:24:26.741594+08:00",
+  "updated": "2026-10-06T22:54:28.123752+08:00",
   "btc": {
-    "updated": "2026-10-06T22:24:26.741594+08:00",
+    "updated": "2026-10-06T22:54:28.123752+08:00",
     "symbol": "BTCUSDT",
-    "price": 85980.6,
-    "change_pct": -0.373,
-    "volume": 119635.785,
-    "quote_volume": 10251729850.31,
-    "vol_ratio": 0.9382535540816912,
+    "price": 86394.6,
+    "change_pct": 0.959,
+    "volume": 107400.343,
+    "quote_volume": 9205230906.97,
+    "vol_ratio": 0.8422960866545297,
     "open_interest": 94297.173,
     "oi_change_pct": -3.237591773122192,
     "support": 75975.0,
     "resistance": 87385.1,
-    "ma20": 83842.285,
-    "signal": "横盘整理",
-    "strength": 0,
-    "desc": "价格窄幅震荡",
+    "ma20": 83863.35500000001,
+    "signal": "温和上涨",
+    "strength": 1,
+    "desc": "价格上行，量仓配合一般",
     "trend": "中性",
     "top_trader_ratio": 1.7755,
-    "funding_rate": 2.399e-05,
+    "funding_rate": 3.069e-05,
     "inst_view": "偏多",
     "sentiment": "正常",
     "range_advice": "压力附近机构仍偏多，突破需量能配合"
@@ -3048,6 +3048,21 @@
       "time": "2026-10-06 19:39:39",
       "source": "东方财富全球",
       "url": "https://finance.eastmoney.com/a/202610063888788477.html"
+    },
+    {
+      "product": "全球宏观",
+      "title": "资深投资人Jim Paulsen称三重压力下美股或跌15% 科技股恐下挫20%",
+      "content": "【资深投资人Jim Paulsen称三重压力下美股或跌15% 科技股恐下挫20%】美股面对的“忧虑之墙”越高，爬升得似乎就越快，周一收盘距离历史高点仅一步之遥。不过，在备受关注的资深投资人士JimPaulsen看来，油价位于每桶100美元、美债收益率达到5%以及美元走强所累积的压力，尚未真正对市场造成显著冲击。Paulsen表示，过去当这三项因素同时对标普500指数构成压力时，随后三至五个月内指数",
+      "level": 2,
+      "score": 4,
+      "keywords": [
+        "美元",
+        "历史"
+      ],
+      "sentiment": "bearish",
+      "time": "2026-10-06 21:38:00",
+      "source": "东方财富全球",
+      "url": "https://finance.eastmoney.com/a/202610063888800293.html"
     },
     {
       "product": "全球宏观",
