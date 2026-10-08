@@ -1,24 +1,24 @@
 {
-  "updated": "2026-10-08T07:54:24.201482+08:00",
+  "updated": "2026-10-08T08:30:59.128885+08:00",
   "btc": {
-    "updated": "2026-10-08T07:54:24.201482+08:00",
+    "updated": "2026-10-08T08:24:24.759129+08:00",
     "symbol": "BTCUSDT",
-    "price": 83252.3,
-    "change_pct": -2.688,
-    "volume": 164018.487,
-    "quote_volume": 13730085742.62,
-    "vol_ratio": 1.3591139824221736,
-    "open_interest": 95681.342,
-    "oi_change_pct": 1.4678796362219777,
-    "support": 76256.0,
+    "price": 83256.4,
+    "change_pct": -2.538,
+    "volume": 164546.892,
+    "quote_volume": 13772153924.45,
+    "vol_ratio": 1.5363361166480787,
+    "open_interest": 95833.85,
+    "oi_change_pct": 0.15939157709556542,
+    "support": 80095.9,
     "resistance": 87385.1,
-    "ma20": 84161.01999999999,
+    "ma20": 84282.765,
     "signal": "温和下跌",
     "strength": 1,
     "desc": "价格下行，量仓配合一般",
     "trend": "震荡偏弱",
-    "top_trader_ratio": 1.6328,
-    "funding_rate": -1.105e-05,
+    "top_trader_ratio": 1.6208,
+    "funding_rate": -5.37e-06,
     "inst_view": "偏多",
     "sentiment": "正常",
     "range_advice": "区间中段，等待接近支撑/压力再操作"
@@ -1143,6 +1143,24 @@
       "bias": "偏多"
     },
     {
+      "name": "沪铅",
+      "price": 16180.0,
+      "change_pct": -0.33877,
+      "basis": null,
+      "basis_desc": "平水",
+      "inventory": [
+        "decrease",
+        -0.82
+      ],
+      "inventory_desc": "去库-0.8%",
+      "supply_desc": "订单增加",
+      "policy_desc": "—",
+      "funds_desc": "减仓",
+      "member_net": null,
+      "total": 2,
+      "bias": "偏多"
+    },
+    {
       "name": "碳酸锂",
       "price": 118420.0,
       "change_pct": -0.93692,
@@ -1187,24 +1205,6 @@
       "inventory": [
         "decrease",
         -0.84
-      ],
-      "inventory_desc": "去库-0.8%",
-      "supply_desc": "—",
-      "policy_desc": "—",
-      "funds_desc": "减仓",
-      "member_net": null,
-      "total": 1,
-      "bias": "中性"
-    },
-    {
-      "name": "沪铅",
-      "price": 16180.0,
-      "change_pct": -0.33877,
-      "basis": null,
-      "basis_desc": "平水",
-      "inventory": [
-        "decrease",
-        -0.82
       ],
       "inventory_desc": "去库-0.8%",
       "supply_desc": "—",
