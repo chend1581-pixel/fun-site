@@ -1,24 +1,24 @@
 {
-  "updated": "2026-10-11T07:54:24.516336+08:00",
+  "updated": "2026-10-11T08:31:12.660023+08:00",
   "btc": {
-    "updated": "2026-10-11T07:54:24.516336+08:00",
+    "updated": "2026-10-11T08:24:24.928526+08:00",
     "symbol": "BTCUSDT",
-    "price": 82985.7,
-    "change_pct": 0.448,
-    "volume": 37724.938,
-    "quote_volume": 3124401240.31,
-    "vol_ratio": 0.24921366436176184,
-    "open_interest": 92528.779,
-    "oi_change_pct": -0.511122386116478,
+    "price": 82953.1,
+    "change_pct": 0.472,
+    "volume": 35580.986,
+    "quote_volume": 2947487045.75,
+    "vol_ratio": 0.2772088972060265,
+    "open_interest": 92592.853,
+    "oi_change_pct": 0.06924764456257206,
     "support": 80344.8,
-    "resistance": 87385.1,
-    "ma20": 84365.235,
+    "resistance": 87249.6,
+    "ma20": 84181.70999999999,
     "signal": "横盘整理",
     "strength": 0,
     "desc": "价格窄幅震荡",
     "trend": "震荡偏弱",
-    "top_trader_ratio": 1.6132,
-    "funding_rate": -2.506e-05,
+    "top_trader_ratio": 1.5415,
+    "funding_rate": -3.388e-05,
     "inst_view": "偏多",
     "sentiment": "正常",
     "range_advice": "区间中段，等待接近支撑/压力再操作"
@@ -1143,24 +1143,6 @@
       "bias": "偏多"
     },
     {
-      "name": "沪锌",
-      "price": 26210.0,
-      "change_pct": 1.39265,
-      "basis": 0.0003472088268199336,
-      "basis_desc": "平水",
-      "inventory": [
-        "decrease",
-        -1.21
-      ],
-      "inventory_desc": "去库-1.2%",
-      "supply_desc": "去库",
-      "policy_desc": "—",
-      "funds_desc": "空头集中 减仓",
-      "member_net": 6.9,
-      "total": 1,
-      "bias": "中性"
-    },
-    {
       "name": "沪锡",
       "price": 397930.0,
       "change_pct": 1.72815,
@@ -1370,6 +1352,24 @@
       "policy_desc": "—",
       "funds_desc": "空头集中 减仓",
       "member_net": 6.0,
+      "total": 0,
+      "bias": "中性"
+    },
+    {
+      "name": "沪锌",
+      "price": 26210.0,
+      "change_pct": 1.39265,
+      "basis": 0.0003472088268199336,
+      "basis_desc": "平水",
+      "inventory": [
+        "decrease",
+        -1.21
+      ],
+      "inventory_desc": "去库-1.2%",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "空头集中 减仓",
+      "member_net": 6.9,
       "total": 0,
       "bias": "中性"
     },
@@ -1749,21 +1749,6 @@
       "bias": "中性"
     },
     {
-      "name": "玻璃",
-      "price": 866.0,
-      "change_pct": -1.36674,
-      "basis": -0.0954356846473029,
-      "basis_desc": "平水",
-      "inventory": null,
-      "inventory_desc": "—",
-      "supply_desc": "—",
-      "policy_desc": "—",
-      "funds_desc": "空头集中",
-      "member_net": 11.1,
-      "total": -1,
-      "bias": "中性"
-    },
-    {
       "name": "尿素",
       "price": 1733.0,
       "change_pct": -2.03505,
@@ -1913,6 +1898,21 @@
       "policy_desc": "—",
       "funds_desc": "空头集中 增仓",
       "member_net": 3.3,
+      "total": -2,
+      "bias": "偏空"
+    },
+    {
+      "name": "玻璃",
+      "price": 866.0,
+      "change_pct": -1.36674,
+      "basis": -0.0954356846473029,
+      "basis_desc": "平水",
+      "inventory": null,
+      "inventory_desc": "—",
+      "supply_desc": "增产",
+      "policy_desc": "—",
+      "funds_desc": "空头集中",
+      "member_net": 11.1,
       "total": -2,
       "bias": "偏空"
     },
