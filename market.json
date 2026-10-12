@@ -1,24 +1,24 @@
 {
-  "updated": "2026-10-12T07:54:23.834118+08:00",
+  "updated": "2026-10-12T08:31:07.161772+08:00",
   "btc": {
-    "updated": "2026-10-12T07:54:23.834118+08:00",
+    "updated": "2026-10-12T08:24:25.027504+08:00",
     "symbol": "BTCUSDT",
-    "price": 83739.9,
-    "change_pct": 0.909,
-    "volume": 61374.487,
-    "quote_volume": 5121573111.33,
-    "vol_ratio": 0.47816420427066325,
-    "open_interest": 92592.853,
-    "oi_change_pct": 0.06924764456257206,
+    "price": 83739.1,
+    "change_pct": 0.948,
+    "volume": 62256.803,
+    "quote_volume": 5195705116.48,
+    "vol_ratio": 0.5238975526231456,
+    "open_interest": 92378.482,
+    "oi_change_pct": -0.23152002887306988,
     "support": 80344.8,
     "resistance": 87249.6,
-    "ma20": 84221.06,
+    "ma20": 84098.905,
     "signal": "上涨乏力",
     "strength": 1,
     "desc": "价涨缩量，上涨动能不足",
     "trend": "中性",
-    "top_trader_ratio": 1.5415,
-    "funding_rate": 6.35e-06,
+    "top_trader_ratio": 1.5487,
+    "funding_rate": 5e-06,
     "inst_view": "偏多",
     "sentiment": "正常",
     "range_advice": "区间中段，等待接近支撑/压力再操作"
@@ -1533,24 +1533,6 @@
       "bias": "中性"
     },
     {
-      "name": "锰硅",
-      "price": 5848.0,
-      "change_pct": 0.65404,
-      "basis": 0.03212142605012347,
-      "basis_desc": "平水",
-      "inventory": [
-        "decrease",
-        -1.77
-      ],
-      "inventory_desc": "去库-1.8%",
-      "supply_desc": "—",
-      "policy_desc": "—",
-      "funds_desc": "空头集中 增仓",
-      "member_net": 8.5,
-      "total": 0,
-      "bias": "中性"
-    },
-    {
       "name": "烧碱",
       "price": 1810.0,
       "change_pct": 0.38824,
@@ -1749,6 +1731,21 @@
       "bias": "中性"
     },
     {
+      "name": "玻璃",
+      "price": 866.0,
+      "change_pct": -1.36674,
+      "basis": -0.0954356846473029,
+      "basis_desc": "平水",
+      "inventory": null,
+      "inventory_desc": "—",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "空头集中",
+      "member_net": 11.1,
+      "total": -1,
+      "bias": "中性"
+    },
+    {
       "name": "尿素",
       "price": 1733.0,
       "change_pct": -2.03505,
@@ -1833,24 +1830,6 @@
       "bias": "偏空"
     },
     {
-      "name": "热卷",
-      "price": 3271.0,
-      "change_pct": 0.6152000000000001,
-      "basis": -0.00397796817625462,
-      "basis_desc": "平水",
-      "inventory": [
-        "stable",
-        -0.3
-      ],
-      "inventory_desc": "稳定",
-      "supply_desc": "累库",
-      "policy_desc": "—",
-      "funds_desc": "空头集中",
-      "member_net": 2.3,
-      "total": -2,
-      "bias": "偏空"
-    },
-    {
       "name": "燃油",
       "price": 4529.0,
       "change_pct": 2.0045,
@@ -1902,35 +1881,20 @@
       "bias": "偏空"
     },
     {
-      "name": "玻璃",
-      "price": 866.0,
-      "change_pct": -1.36674,
-      "basis": -0.0954356846473029,
-      "basis_desc": "平水",
-      "inventory": null,
-      "inventory_desc": "—",
-      "supply_desc": "增产",
-      "policy_desc": "—",
-      "funds_desc": "空头集中",
-      "member_net": 11.1,
-      "total": -2,
-      "bias": "偏空"
-    },
-    {
-      "name": "硅铁",
-      "price": 6068.0,
-      "change_pct": 0.29752,
-      "basis": 0.06004412774335344,
+      "name": "锰硅",
+      "price": 5848.0,
+      "change_pct": 0.65404,
+      "basis": 0.03212142605012347,
       "basis_desc": "平水",
       "inventory": [
-        "increase",
-        7.79
+        "decrease",
+        -1.77
       ],
-      "inventory_desc": "累库7.8%",
-      "supply_desc": "—",
-      "policy_desc": "—",
-      "funds_desc": "空头集中 减仓",
-      "member_net": 18.1,
+      "inventory_desc": "去库-1.8%",
+      "supply_desc": "复产",
+      "policy_desc": "复产",
+      "funds_desc": "空头集中 增仓",
+      "member_net": 8.5,
       "total": -2,
       "bias": "偏空"
     },
@@ -1947,6 +1911,42 @@
       "funds_desc": "空头集中 减仓",
       "member_net": 14.6,
       "total": -2,
+      "bias": "偏空"
+    },
+    {
+      "name": "热卷",
+      "price": 3271.0,
+      "change_pct": 0.6152000000000001,
+      "basis": -0.00397796817625462,
+      "basis_desc": "平水",
+      "inventory": [
+        "stable",
+        -0.3
+      ],
+      "inventory_desc": "稳定",
+      "supply_desc": "复产/累库",
+      "policy_desc": "复产",
+      "funds_desc": "空头集中",
+      "member_net": 2.3,
+      "total": -3,
+      "bias": "偏空"
+    },
+    {
+      "name": "硅铁",
+      "price": 6068.0,
+      "change_pct": 0.29752,
+      "basis": 0.06004412774335344,
+      "basis_desc": "平水",
+      "inventory": [
+        "increase",
+        7.79
+      ],
+      "inventory_desc": "累库7.8%",
+      "supply_desc": "复产",
+      "policy_desc": "复产",
+      "funds_desc": "空头集中 减仓",
+      "member_net": 18.1,
+      "total": -4,
       "bias": "偏空"
     }
   ],
