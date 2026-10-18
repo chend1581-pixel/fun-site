@@ -1,18 +1,18 @@
 {
-  "updated": "2026-10-18T10:54:27.182969+08:00",
+  "updated": "2026-10-18T11:24:27.499456+08:00",
   "btc": {
-    "updated": "2026-10-18T10:54:27.182969+08:00",
+    "updated": "2026-10-18T11:24:27.499456+08:00",
     "symbol": "BTCUSDT",
-    "price": 81732.2,
-    "change_pct": 0.344,
-    "volume": 50091.779,
-    "quote_volume": 4078980317.69,
-    "vol_ratio": 0.35133074710437057,
+    "price": 81777.1,
+    "change_pct": 0.341,
+    "volume": 51339.438,
+    "quote_volume": 4181255343.94,
+    "vol_ratio": 0.36008150376249387,
     "open_interest": 94267.08,
     "oi_change_pct": -0.009621733496519468,
     "support": 79732.3,
     "resistance": 87249.6,
-    "ma20": 83335.875,
+    "ma20": 83337.735,
     "signal": "横盘整理",
     "strength": 0,
     "desc": "价格窄幅震荡",
@@ -3253,22 +3253,6 @@
       "time": "2026-10-17 09:50:45",
       "source": "东方财富全球",
       "url": "https://finance.eastmoney.com/a/202610173899010267.html"
-    },
-    {
-      "product": "全球宏观",
-      "title": "Anthropic据悉在最新一轮芯片融资交易中 向黑石集团提供两位数收益率",
-      "content": "【Anthropic据悉在最新一轮芯片融资交易中 向黑石集团提供两位数收益率】据报道，Anthropic正向黑石集团提供超过10%的高收益率，以筹集资金支持其最新芯片交易。这笔规模达600亿美元的债务融资计划被称为“北极星项目”（Project North Star），将帮助Anthropic采购约1.5吉瓦由谷歌开发的定制半导体，即TPU。预计这将成为迄今规模最大的芯片融资交易，也将成为检验投资",
-      "level": 2,
-      "score": 4,
-      "keywords": [
-        "需求",
-        "采购",
-        "美元"
-      ],
-      "sentiment": "neutral",
-      "time": "2026-10-17 08:50:38",
-      "source": "东方财富全球",
-      "url": "https://finance.eastmoney.com/a/202610173899002794.html"
     }
   ]
 }
