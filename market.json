@@ -1,27 +1,27 @@
 {
-  "updated": "2026-10-22T18:54:27.520538+08:00",
+  "updated": "2026-10-22T19:24:28.843135+08:00",
   "btc": {
-    "updated": "2026-10-22T18:54:27.520538+08:00",
+    "updated": "2026-10-22T19:24:28.843135+08:00",
     "symbol": "BTCUSDT",
-    "price": 82018.1,
-    "change_pct": -1.645,
-    "volume": 205931.96,
-    "quote_volume": 17203340072.79,
-    "vol_ratio": 1.8396112421125732,
+    "price": 81841.4,
+    "change_pct": -1.88,
+    "volume": 207755.517,
+    "quote_volume": 17351187556.63,
+    "vol_ratio": 1.8559012631361826,
     "open_interest": 98001.941,
     "oi_change_pct": 3.357047399910925,
     "support": 79732.3,
     "resistance": 86976.1,
-    "ma20": 83074.9,
+    "ma20": 83066.06,
     "signal": "空头进场",
     "strength": 3,
     "desc": "价跌放量增仓，新空进场，趋势偏空",
-    "trend": "震荡偏弱",
+    "trend": "中性",
     "top_trader_ratio": 1.6499,
-    "funding_rate": -2.109e-05,
+    "funding_rate": -2.73e-05,
     "inst_view": "偏多",
     "sentiment": "正常",
-    "range_advice": "区间中段，等待接近支撑/压力再操作"
+    "range_advice": "支撑附近+机构偏多，可关注低吸"
   },
   "volume_ranking": [
     {
