@@ -1,24 +1,24 @@
 {
-  "updated": "2026-10-25T07:54:24.333821+08:00",
+  "updated": "2026-10-25T08:31:15.643950+08:00",
   "btc": {
-    "updated": "2026-10-25T07:54:24.333821+08:00",
+    "updated": "2026-10-25T08:24:24.333966+08:00",
     "symbol": "BTCUSDT",
-    "price": 80860.0,
-    "change_pct": -0.374,
-    "volume": 110874.019,
-    "quote_volume": 8898300805.71,
-    "vol_ratio": 0.7854882030799212,
-    "open_interest": 93266.477,
-    "oi_change_pct": -2.757905404776309,
+    "price": 80776.6,
+    "change_pct": 0.095,
+    "volume": 109141.08,
+    "quote_volume": 8757758573.94,
+    "vol_ratio": 0.792657406901642,
+    "open_interest": 95166.293,
+    "oi_change_pct": 2.036976265330582,
     "support": 79178.6,
-    "resistance": 86976.1,
-    "ma20": 82584.55,
+    "resistance": 86664.9,
+    "ma20": 82336.7,
     "signal": "横盘整理",
     "strength": 0,
     "desc": "价格窄幅震荡",
     "trend": "中性",
-    "top_trader_ratio": 1.6896,
-    "funding_rate": 9.475e-05,
+    "top_trader_ratio": 1.7019,
+    "funding_rate": 9.631e-05,
     "inst_view": "偏多",
     "sentiment": "正常",
     "range_advice": "支撑附近+机构偏多，可关注低吸"
@@ -1746,6 +1746,24 @@
       "bias": "中性"
     },
     {
+      "name": "玻璃",
+      "price": 839.0,
+      "change_pct": 0.84135,
+      "basis": -0.12552301255230125,
+      "basis_desc": "贴水0.1%",
+      "inventory": [
+        "stable",
+        0.0
+      ],
+      "inventory_desc": "稳定",
+      "supply_desc": "停产",
+      "policy_desc": "—",
+      "funds_desc": "空头集中 减仓",
+      "member_net": 6.8,
+      "total": -1,
+      "bias": "中性"
+    },
+    {
       "name": "白糖",
       "price": 5377.0,
       "change_pct": 0.24236000000000002,
@@ -1916,24 +1934,6 @@
       "policy_desc": "—",
       "funds_desc": "均衡 减仓",
       "member_net": -0.4,
-      "total": -2,
-      "bias": "偏空"
-    },
-    {
-      "name": "玻璃",
-      "price": 839.0,
-      "change_pct": 0.84135,
-      "basis": -0.12552301255230125,
-      "basis_desc": "贴水0.1%",
-      "inventory": [
-        "stable",
-        0.0
-      ],
-      "inventory_desc": "稳定",
-      "supply_desc": "—",
-      "policy_desc": "—",
-      "funds_desc": "空头集中 减仓",
-      "member_net": 6.8,
       "total": -2,
       "bias": "偏空"
     },
