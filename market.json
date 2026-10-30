@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T22:45:49.538242+08:00",
+  "updated": "2026-10-30T08:31:14.937710+08:00",
   "btc": {
     "updated": "2026-10-26T09:24:25.898496+08:00",
     "symbol": "BTCUSDT",
@@ -1108,168 +1108,99 @@
   "fundamental": [
     {
       "name": "PTA",
-      "price": 6726.0,
-      "change_pct": 1.81653,
-      "basis": -0.08565948556358527,
+      "price": 6540.0,
+      "change_pct": -2.06649,
+      "basis": -0.09400020442233659,
       "basis_desc": "平水",
       "inventory": [
-        "decrease",
-        -10.52
+        "stable",
+        0.0
       ],
-      "inventory_desc": "去库-10.5%",
+      "inventory_desc": "稳定",
       "supply_desc": "去库",
       "policy_desc": "—",
       "funds_desc": "多头集中",
-      "member_net": -6.1,
-      "total": 3,
-      "bias": "偏多"
-    },
-    {
-      "name": "沪锌",
-      "price": 25890.0,
-      "change_pct": 0.05797000000000001,
-      "basis": 0.004648460197559601,
-      "basis_desc": "平水",
-      "inventory": [
-        "decrease",
-        -1.09
-      ],
-      "inventory_desc": "去库-1.1%",
-      "supply_desc": "—",
-      "policy_desc": "—",
-      "funds_desc": "多头集中",
-      "member_net": -3.1,
-      "total": 2,
-      "bias": "偏多"
-    },
-    {
-      "name": "棕榈油",
-      "price": 9278.0,
-      "change_pct": -0.36512,
-      "basis": 0.017576419213973793,
-      "basis_desc": "平水",
-      "inventory": [
-        "decrease",
-        -18.67
-      ],
-      "inventory_desc": "去库-18.7%",
-      "supply_desc": "—",
-      "policy_desc": "—",
-      "funds_desc": "多头集中",
-      "member_net": -13.9,
-      "total": 2,
-      "bias": "偏多"
-    },
-    {
-      "name": "塑料",
-      "price": 9433.0,
-      "change_pct": 2.38793,
-      "basis": -0.08378745593059789,
-      "basis_desc": "平水",
-      "inventory": [
-        "decrease",
-        -0.89
-      ],
-      "inventory_desc": "去库-0.9%",
-      "supply_desc": "停产",
-      "policy_desc": "反倾销",
-      "funds_desc": "空头集中",
-      "member_net": 10.7,
-      "total": 2,
-      "bias": "偏多"
-    },
-    {
-      "name": "聚丙烯",
-      "price": 10388.0,
-      "change_pct": 2.0332,
-      "basis": -0.07887100182139617,
-      "basis_desc": "平水",
-      "inventory": [
-        "decrease",
-        -1.22
-      ],
-      "inventory_desc": "去库-1.2%",
-      "supply_desc": "—",
-      "policy_desc": "—",
-      "funds_desc": "多头集中",
-      "member_net": -3.8,
-      "total": 2,
-      "bias": "偏多"
-    },
-    {
-      "name": "菜粕",
-      "price": 2232.0,
-      "change_pct": -0.2681,
-      "basis": -0.06874999999999998,
-      "basis_desc": "平水",
-      "inventory": [
-        "decrease",
-        -6.22
-      ],
-      "inventory_desc": "去库-6.2%",
-      "supply_desc": "—",
-      "policy_desc": "—",
-      "funds_desc": "多头集中",
-      "member_net": -12.1,
+      "member_net": -10.3,
       "total": 2,
       "bias": "偏多"
     },
     {
       "name": "沪铜",
-      "price": 109240.0,
-      "change_pct": 0.03663,
-      "basis": -0.016112775099868637,
+      "price": 108410.0,
+      "change_pct": -0.56865,
+      "basis": -0.02028671896131995,
       "basis_desc": "平水",
       "inventory": [
         "decrease",
-        -13.52
+        -10.09
       ],
-      "inventory_desc": "去库-13.5%",
+      "inventory_desc": "去库-10.1%",
       "supply_desc": "减产",
       "policy_desc": "—",
-      "funds_desc": "空头集中 增仓",
-      "member_net": 10.5,
+      "funds_desc": "空头集中 减仓",
+      "member_net": 14.5,
+      "total": 1,
+      "bias": "中性"
+    },
+    {
+      "name": "沪锌",
+      "price": 25915.0,
+      "change_pct": 0.1159,
+      "basis": 0.0024009603841537164,
+      "basis_desc": "平水",
+      "inventory": [
+        "decrease",
+        -1.2
+      ],
+      "inventory_desc": "去库-1.2%",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "均衡",
+      "member_net": 0.1,
       "total": 1,
       "bias": "中性"
     },
     {
       "name": "沪锡",
-      "price": 383310.0,
-      "change_pct": -0.8176599999999999,
-      "basis": -0.005869335129414011,
+      "price": 369110.0,
+      "change_pct": -3.6467600000000004,
+      "basis": -0.019069767441860508,
       "basis_desc": "平水",
       "inventory": [
-        "increase",
-        3.12
+        "stable",
+        0.0
       ],
-      "inventory_desc": "累库3.1%",
+      "inventory_desc": "稳定",
       "supply_desc": "减产",
       "policy_desc": "—",
-      "funds_desc": "多头集中 增仓",
-      "member_net": -3.5,
+      "funds_desc": "均衡 增仓",
+      "member_net": 1.7,
       "total": 1,
       "bias": "中性"
     },
     {
-      "name": "沪铅",
-      "price": 16110.0,
-      "change_pct": -1.25651,
-      "basis": -0.006486074017550525,
+      "name": "不锈钢",
+      "price": 13425.0,
+      "change_pct": 0.18657,
+      "basis": -0.040573021342954374,
       "basis_desc": "平水",
-      "inventory": null,
-      "inventory_desc": "—",
+      "inventory": [
+        "decrease",
+        -0.52
+      ],
+      "inventory_desc": "去库-0.5%",
       "supply_desc": "—",
-      "policy_desc": "—",
-      "funds_desc": "多头集中 减仓",
-      "member_net": -11.8,
+      "policy_desc": "反倾销",
+      "funds_desc": "空头集中 减仓",
+      "member_net": 2.6,
       "total": 1,
       "bias": "中性"
     },
     {
       "name": "豆粕",
-      "price": 3194.0,
-      "change_pct": -0.46744,
-      "basis": -0.020158827122785605,
+      "price": 3152.0,
+      "change_pct": -0.91166,
+      "basis": -0.0267857142857143,
       "basis_desc": "平水",
       "inventory": [
         "stable",
@@ -1279,15 +1210,30 @@
       "supply_desc": "—",
       "policy_desc": "—",
       "funds_desc": "多头集中",
-      "member_net": -17.6,
+      "member_net": -15.7,
+      "total": 1,
+      "bias": "中性"
+    },
+    {
+      "name": "棕榈油",
+      "price": 9175.0,
+      "change_pct": -0.14149,
+      "basis": 0.013377926421404673,
+      "basis_desc": "平水",
+      "inventory": null,
+      "inventory_desc": "—",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "多头集中",
+      "member_net": -2.6,
       "total": 1,
       "bias": "中性"
     },
     {
       "name": "豆油",
-      "price": 9018.0,
-      "change_pct": 0.59119,
-      "basis": -0.004861878453038648,
+      "price": 8916.0,
+      "change_pct": -0.53548,
+      "basis": -0.005919142282778678,
       "basis_desc": "平水",
       "inventory": [
         "stable",
@@ -1296,130 +1242,73 @@
       "inventory_desc": "稳定",
       "supply_desc": "—",
       "policy_desc": "—",
-      "funds_desc": "多头集中 增仓",
-      "member_net": -26.4,
+      "funds_desc": "多头集中 减仓",
+      "member_net": -24.3,
       "total": 1,
       "bias": "中性"
     },
     {
-      "name": "玉米",
-      "price": 2225.0,
-      "change_pct": 0.27039,
-      "basis": 0.022862635618983607,
-      "basis_desc": "平水",
-      "inventory": [
-        "stable",
-        0.0
-      ],
-      "inventory_desc": "稳定",
-      "supply_desc": "—",
-      "policy_desc": "—",
-      "funds_desc": "多头集中",
-      "member_net": -5.3,
-      "total": 1,
-      "bias": "中性"
-    },
-    {
-      "name": "PVC",
-      "price": 5277.0,
-      "change_pct": 1.24712,
-      "basis": 0.012884615384615383,
+      "name": "聚丙烯",
+      "price": 10330.0,
+      "change_pct": 0.301,
+      "basis": -0.09339207048458154,
       "basis_desc": "平水",
       "inventory": [
         "decrease",
-        -0.88
+        -1.4
       ],
-      "inventory_desc": "去库-0.9%",
-      "supply_desc": "检修/停产",
-      "policy_desc": "—",
-      "funds_desc": "空头集中 增仓",
-      "member_net": 11.5,
-      "total": 1,
-      "bias": "中性"
-    },
-    {
-      "name": "苯乙烯",
-      "price": 10424.0,
-      "change_pct": 0.56922,
-      "basis": -0.07941952506596306,
-      "basis_desc": "平水",
-      "inventory": [
-        "decrease",
-        -22.56
-      ],
-      "inventory_desc": "去库-22.6%",
+      "inventory_desc": "去库-1.4%",
       "supply_desc": "—",
       "policy_desc": "—",
-      "funds_desc": "均衡 增仓",
-      "member_net": 1.2,
+      "funds_desc": "均衡",
+      "member_net": -2.0,
       "total": 1,
       "bias": "中性"
     },
     {
       "name": "甲醇",
-      "price": 3453.0,
-      "change_pct": 1.05356,
-      "basis": -0.134,
+      "price": 3429.0,
+      "change_pct": -0.05829,
+      "basis": -0.1366771810094275,
       "basis_desc": "贴水0.1%",
       "inventory": [
         "decrease",
-        -0.71
+        -1.21
       ],
-      "inventory_desc": "去库-0.7%",
+      "inventory_desc": "去库-1.2%",
       "supply_desc": "—",
       "policy_desc": "—",
       "funds_desc": "多头集中",
-      "member_net": -4.8,
+      "member_net": -8.4,
       "total": 1,
       "bias": "中性"
     },
     {
       "name": "菜油",
-      "price": 10279.0,
-      "change_pct": 0.6265299999999999,
-      "basis": -0.042670401493930865,
+      "price": 10247.0,
+      "change_pct": -0.08775000000000001,
+      "basis": -0.04958139534883721,
       "basis_desc": "平水",
-      "inventory": [
-        "stable",
-        0.0
-      ],
-      "inventory_desc": "稳定",
+      "inventory": null,
+      "inventory_desc": "—",
       "supply_desc": "—",
       "policy_desc": "—",
       "funds_desc": "多头集中",
-      "member_net": -28.7,
-      "total": 1,
-      "bias": "中性"
-    },
-    {
-      "name": "烧碱",
-      "price": 1442.0,
-      "change_pct": -2.30352,
-      "basis": 1.4013266998341627,
-      "basis_desc": "升水1.4%",
-      "inventory": [
-        "decrease",
-        -5.35
-      ],
-      "inventory_desc": "去库-5.3%",
-      "supply_desc": "—",
-      "policy_desc": "—",
-      "funds_desc": "空头集中 增仓",
-      "member_net": 18.8,
+      "member_net": -30.6,
       "total": 1,
       "bias": "中性"
     },
     {
       "name": "碳酸锂",
-      "price": 93300.0,
-      "change_pct": -4.64023,
-      "basis": -0.04795918367346941,
+      "price": 88360.0,
+      "change_pct": -8.39726,
+      "basis": -0.0498924731182796,
       "basis_desc": "平水",
       "inventory": [
         "decrease",
-        -7.51
+        -4.1
       ],
-      "inventory_desc": "去库-7.5%",
+      "inventory_desc": "去库-4.1%",
       "supply_desc": "—",
       "policy_desc": "—",
       "funds_desc": "增仓",
@@ -1429,411 +1318,279 @@
     },
     {
       "name": "沪铝",
-      "price": 23355.0,
-      "change_pct": -0.9752000000000001,
-      "basis": -0.014925510541845322,
+      "price": 23375.0,
+      "change_pct": 0.06421,
+      "basis": -0.019421016697606763,
       "basis_desc": "平水",
       "inventory": [
         "decrease",
-        -2.43
+        -2.74
       ],
-      "inventory_desc": "去库-2.4%",
+      "inventory_desc": "去库-2.7%",
       "supply_desc": "—",
       "policy_desc": "—",
       "funds_desc": "空头集中",
-      "member_net": 11.4,
+      "member_net": 15.7,
       "total": 0,
       "bias": "中性"
     },
     {
-      "name": "不锈钢",
-      "price": 13370.0,
-      "change_pct": -0.29828,
-      "basis": -0.03842505049521472,
+      "name": "热卷",
+      "price": 3177.0,
+      "change_pct": -0.46991999999999995,
+      "basis": -0.007462686567164201,
       "basis_desc": "平水",
       "inventory": [
-        "stable",
-        -0.42
+        "decrease",
+        -2.01
       ],
-      "inventory_desc": "稳定",
+      "inventory_desc": "去库-2.0%",
       "supply_desc": "—",
-      "policy_desc": "反倾销",
-      "funds_desc": "空头集中 减仓",
-      "member_net": 2.7,
+      "policy_desc": "—",
+      "funds_desc": "空头集中",
+      "member_net": 9.0,
       "total": 0,
       "bias": "中性"
     },
     {
       "name": "沥青",
-      "price": 5140.0,
-      "change_pct": 3.94338,
-      "basis": -0.19329608938547482,
+      "price": 5107.0,
+      "change_pct": 0.01958,
+      "basis": -0.18630573248407645,
       "basis_desc": "贴水0.2%",
       "inventory": null,
       "inventory_desc": "—",
       "supply_desc": "—",
       "policy_desc": "—",
       "funds_desc": "多头集中 增仓",
-      "member_net": -11.9,
+      "member_net": -5.6,
       "total": 0,
       "bias": "中性"
     },
     {
       "name": "橡胶",
-      "price": 19325.0,
-      "change_pct": -1.22668,
-      "basis": 0.017945383615084465,
+      "price": 19165.0,
+      "change_pct": -0.54489,
+      "basis": 0.020239680426098472,
       "basis_desc": "平水",
       "inventory": [
         "decrease",
-        -0.91
+        -0.53
       ],
-      "inventory_desc": "去库-0.9%",
+      "inventory_desc": "去库-0.5%",
       "supply_desc": "—",
       "policy_desc": "—",
-      "funds_desc": "空头集中",
-      "member_net": 4.7,
+      "funds_desc": "空头集中 增仓",
+      "member_net": 8.5,
       "total": 0,
       "bias": "中性"
     },
     {
-      "name": "纸浆",
-      "price": 4522.0,
-      "change_pct": -0.44033,
-      "basis": -0.04800000000000004,
+      "name": "塑料",
+      "price": 9401.0,
+      "change_pct": 0.52395,
+      "basis": -0.08653658536585362,
       "basis_desc": "平水",
       "inventory": [
-        "decrease",
-        -0.66
+        "stable",
+        0.0
       ],
-      "inventory_desc": "去库-0.7%",
+      "inventory_desc": "稳定",
       "supply_desc": "—",
+      "policy_desc": "反倾销",
+      "funds_desc": "空头集中",
+      "member_net": 5.1,
+      "total": 0,
+      "bias": "中性"
+    },
+    {
+      "name": "PVC",
+      "price": 5262.0,
+      "change_pct": -0.13285,
+      "basis": 0.01125954198473278,
+      "basis_desc": "平水",
+      "inventory": [
+        "stable",
+        -0.02
+      ],
+      "inventory_desc": "稳定",
+      "supply_desc": "检修/停产",
       "policy_desc": "—",
       "funds_desc": "空头集中 增仓",
-      "member_net": 20.4,
+      "member_net": 12.8,
       "total": 0,
       "bias": "中性"
     },
     {
       "name": "乙二醇",
-      "price": 5224.0,
-      "change_pct": 1.63424,
-      "basis": -0.08820861953258985,
+      "price": 5238.0,
+      "change_pct": 0.05731,
+      "basis": -0.09636835525553611,
       "basis_desc": "平水",
       "inventory": [
         "decrease",
-        -0.86
+        -2.48
       ],
-      "inventory_desc": "去库-0.9%",
+      "inventory_desc": "去库-2.5%",
       "supply_desc": "—",
       "policy_desc": "—",
+      "funds_desc": "空头集中 减仓",
+      "member_net": 8.0,
+      "total": 0,
+      "bias": "中性"
+    },
+    {
+      "name": "纯碱",
+      "price": 979.0,
+      "change_pct": 0.41025999999999996,
+      "basis": -0.07735849056603772,
+      "basis_desc": "平水",
+      "inventory": [
+        "stable",
+        0.0
+      ],
+      "inventory_desc": "稳定",
+      "supply_desc": "减产",
+      "policy_desc": "—",
       "funds_desc": "空头集中 增仓",
-      "member_net": 3.0,
+      "member_net": 20.9,
+      "total": 0,
+      "bias": "中性"
+    },
+    {
+      "name": "棉花",
+      "price": 15190.0,
+      "change_pct": 0.13183999999999998,
+      "basis": -0.09795191451469276,
+      "basis_desc": "平水",
+      "inventory": [
+        "decrease",
+        -0.63
+      ],
+      "inventory_desc": "去库-0.6%",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "空头集中",
+      "member_net": 2.8,
       "total": 0,
       "bias": "中性"
     },
     {
       "name": "白糖",
-      "price": 5278.0,
-      "change_pct": 0.0,
-      "basis": 0.012404739389219488,
+      "price": 5257.0,
+      "change_pct": -0.18986,
+      "basis": 0.00836056691803888,
       "basis_desc": "平水",
       "inventory": [
         "decrease",
-        -0.51
+        -0.81
       ],
-      "inventory_desc": "去库-0.5%",
+      "inventory_desc": "去库-0.8%",
       "supply_desc": "—",
       "policy_desc": "—",
       "funds_desc": "空头集中",
-      "member_net": 16.6,
+      "member_net": 17.5,
       "total": 0,
       "bias": "中性"
     },
     {
-      "name": "短纤",
-      "price": 8608.0,
-      "change_pct": 2.3056799999999997,
-      "basis": -0.06113813095925036,
+      "name": "菜粕",
+      "price": 2234.0,
+      "change_pct": 0.13447,
+      "basis": -0.0708333333333333,
       "basis_desc": "平水",
       "inventory": [
-        "decrease",
-        -20.26
+        "stable",
+        0.0
       ],
-      "inventory_desc": "去库-20.3%",
-      "supply_desc": "—",
+      "inventory_desc": "稳定",
+      "supply_desc": "供过于求",
       "policy_desc": "—",
-      "funds_desc": "空头集中 减仓",
-      "member_net": 5.2,
+      "funds_desc": "多头集中 减仓",
+      "member_net": -13.0,
       "total": 0,
-      "bias": "中性"
-    },
-    {
-      "name": "沪金",
-      "price": 868.08,
-      "change_pct": -0.22757,
-      "basis": 0.0016975968034367295,
-      "basis_desc": "平水",
-      "inventory": [
-        "stable",
-        0.0
-      ],
-      "inventory_desc": "稳定",
-      "supply_desc": "—",
-      "policy_desc": "—",
-      "funds_desc": "空头集中",
-      "member_net": 13.2,
-      "total": -1,
-      "bias": "中性"
-    },
-    {
-      "name": "沪银",
-      "price": 12898.0,
-      "change_pct": -1.53447,
-      "basis": -0.0047939709332524005,
-      "basis_desc": "平水",
-      "inventory": [
-        "stable",
-        -0.27
-      ],
-      "inventory_desc": "稳定",
-      "supply_desc": "—",
-      "policy_desc": "—",
-      "funds_desc": "空头集中 减仓",
-      "member_net": 7.7,
-      "total": -1,
-      "bias": "中性"
-    },
-    {
-      "name": "螺纹钢",
-      "price": 3058.0,
-      "change_pct": 0.55903,
-      "basis": -0.025148165945859335,
-      "basis_desc": "平水",
-      "inventory": [
-        "stable",
-        0.0
-      ],
-      "inventory_desc": "稳定",
-      "supply_desc": "—",
-      "policy_desc": "—",
-      "funds_desc": "空头集中",
-      "member_net": 10.5,
-      "total": -1,
-      "bias": "中性"
-    },
-    {
-      "name": "热卷",
-      "price": 3189.0,
-      "change_pct": 0.5359400000000001,
-      "basis": -0.0034504391468005435,
-      "basis_desc": "平水",
-      "inventory": [
-        "stable",
-        -0.13
-      ],
-      "inventory_desc": "稳定",
-      "supply_desc": "—",
-      "policy_desc": "—",
-      "funds_desc": "空头集中",
-      "member_net": 8.5,
-      "total": -1,
-      "bias": "中性"
-    },
-    {
-      "name": "燃油",
-      "price": 5559.0,
-      "change_pct": 4.78794,
-      "basis": -0.31255961844197133,
-      "basis_desc": "贴水0.3%",
-      "inventory": [
-        "stable",
-        0.0
-      ],
-      "inventory_desc": "稳定",
-      "supply_desc": "—",
-      "policy_desc": "—",
-      "funds_desc": "均衡",
-      "member_net": 1.3,
-      "total": -1,
-      "bias": "中性"
-    },
-    {
-      "name": "氧化铝",
-      "price": 2583.0,
-      "change_pct": -0.46242999999999995,
-      "basis": null,
-      "basis_desc": "平水",
-      "inventory": [
-        "decrease",
-        -0.73
-      ],
-      "inventory_desc": "去库-0.7%",
-      "supply_desc": "增产/新增产能",
-      "policy_desc": "—",
-      "funds_desc": "空头集中 减仓",
-      "member_net": 12.2,
-      "total": -1,
-      "bias": "中性"
-    },
-    {
-      "name": "铁矿石",
-      "price": 677.5,
-      "change_pct": 1.7267299999999999,
-      "basis": 0.026832100727339325,
-      "basis_desc": "平水",
-      "inventory": [
-        "stable",
-        0.0
-      ],
-      "inventory_desc": "稳定",
-      "supply_desc": "—",
-      "policy_desc": "—",
-      "funds_desc": "空头集中",
-      "member_net": 13.4,
-      "total": -1,
-      "bias": "中性"
-    },
-    {
-      "name": "豆一",
-      "price": 5373.0,
-      "change_pct": -0.35236999999999996,
-      "basis": 0.0631163708086786,
-      "basis_desc": "平水",
-      "inventory": [
-        "stable",
-        0.37
-      ],
-      "inventory_desc": "稳定",
-      "supply_desc": "—",
-      "policy_desc": "—",
-      "funds_desc": "空头集中",
-      "member_net": 7.7,
-      "total": -1,
-      "bias": "中性"
-    },
-    {
-      "name": "LPG",
-      "price": 7672.0,
-      "change_pct": 1.0537400000000001,
-      "basis": -0.021385253750399014,
-      "basis_desc": "平水",
-      "inventory": [
-        "stable",
-        -0.11
-      ],
-      "inventory_desc": "稳定",
-      "supply_desc": "—",
-      "policy_desc": "—",
-      "funds_desc": "空头集中 减仓",
-      "member_net": 5.3,
-      "total": -1,
-      "bias": "中性"
-    },
-    {
-      "name": "纯碱",
-      "price": 971.0,
-      "change_pct": -1.22075,
-      "basis": -0.07765938403851413,
-      "basis_desc": "平水",
-      "inventory": [
-        "increase",
-        7.24
-      ],
-      "inventory_desc": "累库7.2%",
-      "supply_desc": "减产",
-      "policy_desc": "—",
-      "funds_desc": "空头集中 减仓",
-      "member_net": 19.2,
-      "total": -1,
-      "bias": "中性"
-    },
-    {
-      "name": "尿素",
-      "price": 1694.0,
-      "change_pct": 0.53412,
-      "basis": -0.023631123919308328,
-      "basis_desc": "平水",
-      "inventory": null,
-      "inventory_desc": "—",
-      "supply_desc": "—",
-      "policy_desc": "—",
-      "funds_desc": "空头集中",
-      "member_net": 18.4,
-      "total": -1,
-      "bias": "中性"
-    },
-    {
-      "name": "棉花",
-      "price": 15165.0,
-      "change_pct": -0.62254,
-      "basis": -0.09906189155702405,
-      "basis_desc": "平水",
-      "inventory": [
-        "stable",
-        -0.39
-      ],
-      "inventory_desc": "稳定",
-      "supply_desc": "—",
-      "policy_desc": "—",
-      "funds_desc": "空头集中",
-      "member_net": 4.1,
-      "total": -1,
-      "bias": "中性"
-    },
-    {
-      "name": "锰硅",
-      "price": 5904.0,
-      "change_pct": 0.75085,
-      "basis": 0.033975481611208336,
-      "basis_desc": "平水",
-      "inventory": null,
-      "inventory_desc": "—",
-      "supply_desc": "增产",
-      "policy_desc": "—",
-      "funds_desc": "均衡",
-      "member_net": -1.3,
-      "total": -1,
-      "bias": "中性"
-    },
-    {
-      "name": "苹果",
-      "price": 5582.0,
-      "change_pct": 1.86131,
-      "basis": null,
-      "basis_desc": "平水",
-      "inventory": null,
-      "inventory_desc": "—",
-      "supply_desc": "—",
-      "policy_desc": "—",
-      "funds_desc": "空头集中",
-      "member_net": 8.8,
-      "total": -1,
       "bias": "中性"
     },
     {
       "name": "花生",
-      "price": 7840.0,
-      "change_pct": 0.25575,
+      "price": 7862.0,
+      "change_pct": 0.7432099999999999,
       "basis": null,
       "basis_desc": "平水",
       "inventory": null,
       "inventory_desc": "—",
       "supply_desc": "—",
       "policy_desc": "—",
+      "funds_desc": "均衡 减仓",
+      "member_net": -1.1,
+      "total": 0,
+      "bias": "中性"
+    },
+    {
+      "name": "烧碱",
+      "price": 1505.0,
+      "change_pct": 2.80055,
+      "basis": 1.4333333333333331,
+      "basis_desc": "升水1.4%",
+      "inventory": [
+        "stable",
+        0.0
+      ],
+      "inventory_desc": "稳定",
+      "supply_desc": "—",
+      "policy_desc": "—",
       "funds_desc": "空头集中 减仓",
-      "member_net": 17.0,
+      "member_net": 5.4,
+      "total": 0,
+      "bias": "中性"
+    },
+    {
+      "name": "沪镍",
+      "price": 117240.0,
+      "change_pct": -0.77021,
+      "basis": -0.01673605328892591,
+      "basis_desc": "平水",
+      "inventory": [
+        "decrease",
+        -1.02
+      ],
+      "inventory_desc": "去库-1.0%",
+      "supply_desc": "减产/高库存",
+      "policy_desc": "—",
+      "funds_desc": "空头集中 减仓",
+      "member_net": 15.6,
       "total": -1,
       "bias": "中性"
     },
     {
-      "name": "红枣",
-      "price": 6270.0,
-      "change_pct": 1.45631,
-      "basis": null,
+      "name": "沪铅",
+      "price": 16150.0,
+      "change_pct": 0.06196,
+      "basis": -0.0035521235521235317,
       "basis_desc": "平水",
-      "inventory": null,
-      "inventory_desc": "—",
+      "inventory": [
+        "stable",
+        0.0
+      ],
+      "inventory_desc": "稳定",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "空头集中 减仓",
+      "member_net": 3.0,
+      "total": -1,
+      "bias": "中性"
+    },
+    {
+      "name": "沪金",
+      "price": 860.7,
+      "change_pct": -1.01663,
+      "basis": -0.00017292860354389816,
+      "basis_desc": "平水",
+      "inventory": [
+        "stable",
+        0.0
+      ],
+      "inventory_desc": "稳定",
       "supply_desc": "—",
       "policy_desc": "—",
       "funds_desc": "空头集中",
@@ -1842,47 +1599,83 @@
       "bias": "中性"
     },
     {
-      "name": "沪镍",
-      "price": 117810.0,
-      "change_pct": -0.0509,
-      "basis": -0.013231438131162232,
+      "name": "螺纹钢",
+      "price": 3037.0,
+      "change_pct": -0.75163,
+      "basis": -0.02628644256810575,
       "basis_desc": "平水",
       "inventory": [
         "stable",
-        -0.36
+        0.0
       ],
       "inventory_desc": "稳定",
-      "supply_desc": "减产/高库存",
-      "policy_desc": "—",
-      "funds_desc": "空头集中 减仓",
-      "member_net": 11.8,
-      "total": -2,
-      "bias": "偏空"
-    },
-    {
-      "name": "焦炭",
-      "price": 1936.5,
-      "change_pct": 0.36279,
-      "basis": -0.09505882352941175,
-      "basis_desc": "平水",
-      "inventory": [
-        "increase",
-        11.05
-      ],
-      "inventory_desc": "累库11.1%",
       "supply_desc": "—",
       "policy_desc": "—",
       "funds_desc": "空头集中 减仓",
-      "member_net": 7.6,
-      "total": -2,
-      "bias": "偏空"
+      "member_net": 5.6,
+      "total": -1,
+      "bias": "中性"
     },
     {
-      "name": "焦煤",
-      "price": 1443.5,
-      "change_pct": 1.44062,
-      "basis": -0.36250699496362615,
-      "basis_desc": "贴水0.4%",
+      "name": "纸浆",
+      "price": 4608.0,
+      "change_pct": 1.6321100000000002,
+      "basis": -0.020425531914893602,
+      "basis_desc": "平水",
+      "inventory": [
+        "stable",
+        0.01
+      ],
+      "inventory_desc": "稳定",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "空头集中",
+      "member_net": 15.5,
+      "total": -1,
+      "bias": "中性"
+    },
+    {
+      "name": "铁矿石",
+      "price": 673.5,
+      "change_pct": -0.95588,
+      "basis": 0.02556390977443601,
+      "basis_desc": "平水",
+      "inventory": [
+        "stable",
+        0.0
+      ],
+      "inventory_desc": "稳定",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "空头集中 减仓",
+      "member_net": 4.9,
+      "total": -1,
+      "bias": "中性"
+    },
+    {
+      "name": "豆一",
+      "price": 5292.0,
+      "change_pct": -0.7315699999999999,
+      "basis": 0.04260355029585794,
+      "basis_desc": "平水",
+      "inventory": [
+        "increase",
+        0.67
+      ],
+      "inventory_desc": "累库0.7%",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "均衡",
+      "member_net": -1.6,
+      "total": -1,
+      "bias": "中性"
+    },
+    {
+      "name": "玉米",
+      "price": 2216.0,
+      "change_pct": -0.31489,
+      "basis": 0.018723353370525553,
+      "basis_desc": "平水",
       "inventory": [
         "stable",
         0.0
@@ -1891,48 +1684,267 @@
       "supply_desc": "—",
       "policy_desc": "—",
       "funds_desc": "空头集中",
-      "member_net": 10.2,
-      "total": -2,
-      "bias": "偏空"
+      "member_net": 8.1,
+      "total": -1,
+      "bias": "中性"
     },
     {
-      "name": "生猪",
-      "price": 9840.0,
-      "change_pct": 0.35696,
-      "basis": 0.03797468354430378,
+      "name": "焦炭",
+      "price": 1905.0,
+      "change_pct": -1.39752,
+      "basis": -0.09882352941176475,
       "basis_desc": "平水",
       "inventory": [
         "stable",
         0.0
       ],
       "inventory_desc": "稳定",
-      "supply_desc": "累库",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "空头集中",
+      "member_net": 8.4,
+      "total": -1,
+      "bias": "中性"
+    },
+    {
+      "name": "LPG",
+      "price": 7615.0,
+      "change_pct": 0.03941,
+      "basis": -0.027592768791626976,
+      "basis_desc": "平水",
+      "inventory": [
+        "stable",
+        0.0
+      ],
+      "inventory_desc": "稳定",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "空头集中",
+      "member_net": 4.7,
+      "total": -1,
+      "bias": "中性"
+    },
+    {
+      "name": "玻璃",
+      "price": 865.0,
+      "change_pct": 1.52582,
+      "basis": -0.10355648535564854,
+      "basis_desc": "贴水0.1%",
+      "inventory": [
+        "decrease",
+        -23.83
+      ],
+      "inventory_desc": "去库-23.8%",
+      "supply_desc": "—",
       "policy_desc": "—",
       "funds_desc": "空头集中 减仓",
-      "member_net": 15.7,
+      "member_net": 3.9,
+      "total": -1,
+      "bias": "中性"
+    },
+    {
+      "name": "尿素",
+      "price": 1716.0,
+      "change_pct": 1.17925,
+      "basis": -0.01379310344827589,
+      "basis_desc": "平水",
+      "inventory": null,
+      "inventory_desc": "—",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "空头集中",
+      "member_net": 14.9,
+      "total": -1,
+      "bias": "中性"
+    },
+    {
+      "name": "锰硅",
+      "price": 5902.0,
+      "change_pct": -0.20290999999999998,
+      "basis": 0.033625218914185684,
+      "basis_desc": "平水",
+      "inventory": null,
+      "inventory_desc": "—",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "空头集中 减仓",
+      "member_net": 3.0,
+      "total": -1,
+      "bias": "中性"
+    },
+    {
+      "name": "硅铁",
+      "price": 5836.0,
+      "change_pct": -1.01764,
+      "basis": 0.04534235141128384,
+      "basis_desc": "平水",
+      "inventory": null,
+      "inventory_desc": "—",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "空头集中",
+      "member_net": 11.3,
+      "total": -1,
+      "bias": "中性"
+    },
+    {
+      "name": "苹果",
+      "price": 5527.0,
+      "change_pct": -0.57564,
+      "basis": null,
+      "basis_desc": "平水",
+      "inventory": null,
+      "inventory_desc": "—",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "空头集中 减仓",
+      "member_net": 11.8,
+      "total": -1,
+      "bias": "中性"
+    },
+    {
+      "name": "短纤",
+      "price": 8436.0,
+      "change_pct": -1.4486,
+      "basis": -0.06352988673714333,
+      "basis_desc": "平水",
+      "inventory": [
+        "stable",
+        0.0
+      ],
+      "inventory_desc": "稳定",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "空头集中 减仓",
+      "member_net": 6.8,
+      "total": -1,
+      "bias": "中性"
+    },
+    {
+      "name": "红枣",
+      "price": 6095.0,
+      "change_pct": -2.63578,
+      "basis": null,
+      "basis_desc": "平水",
+      "inventory": null,
+      "inventory_desc": "—",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "空头集中 增仓",
+      "member_net": 17.9,
+      "total": -1,
+      "bias": "中性"
+    },
+    {
+      "name": "沪银",
+      "price": 12388.0,
+      "change_pct": -4.1028,
+      "basis": -0.01450577254681329,
+      "basis_desc": "平水",
+      "inventory": [
+        "increase",
+        0.54
+      ],
+      "inventory_desc": "累库0.5%",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "空头集中 增仓",
+      "member_net": 5.8,
       "total": -2,
       "bias": "偏空"
     },
     {
-      "name": "硅铁",
-      "price": 5888.0,
-      "change_pct": 1.27279,
-      "basis": 0.05465657387074008,
-      "basis_desc": "平水",
-      "inventory": null,
-      "inventory_desc": "—",
-      "supply_desc": "增产",
+      "name": "燃油",
+      "price": 5362.0,
+      "change_pct": -2.06393,
+      "basis": -0.31200000000000006,
+      "basis_desc": "贴水0.3%",
+      "inventory": [
+        "stable",
+        0.0
+      ],
+      "inventory_desc": "稳定",
+      "supply_desc": "—",
       "policy_desc": "—",
       "funds_desc": "空头集中 减仓",
-      "member_net": 9.4,
+      "member_net": 5.4,
       "total": -2,
+      "bias": "偏空"
+    },
+    {
+      "name": "焦煤",
+      "price": 1416.5,
+      "change_pct": -1.6660899999999998,
+      "basis": -0.3609401231113598,
+      "basis_desc": "贴水0.4%",
+      "inventory": null,
+      "inventory_desc": "—",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "空头集中",
+      "member_net": 7.0,
+      "total": -2,
+      "bias": "偏空"
+    },
+    {
+      "name": "苯乙烯",
+      "price": 10235.0,
+      "change_pct": -0.17556,
+      "basis": -0.11116974494283205,
+      "basis_desc": "贴水0.1%",
+      "inventory": [
+        "stable",
+        0.0
+      ],
+      "inventory_desc": "稳定",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "空头集中",
+      "member_net": 9.0,
+      "total": -2,
+      "bias": "偏空"
+    },
+    {
+      "name": "生猪",
+      "price": 9550.0,
+      "change_pct": -3.38897,
+      "basis": 0.015957446808510634,
+      "basis_desc": "平水",
+      "inventory": [
+        "stable",
+        0.0
+      ],
+      "inventory_desc": "稳定",
+      "supply_desc": "供过于求",
+      "policy_desc": "—",
+      "funds_desc": "空头集中",
+      "member_net": 18.1,
+      "total": -2,
+      "bias": "偏空"
+    },
+    {
+      "name": "氧化铝",
+      "price": 2595.0,
+      "change_pct": 0.0,
+      "basis": null,
+      "basis_desc": "平水",
+      "inventory": [
+        "increase",
+        4.14
+      ],
+      "inventory_desc": "累库4.1%",
+      "supply_desc": "增产/新增产能",
+      "policy_desc": "—",
+      "funds_desc": "空头集中 减仓",
+      "member_net": 13.2,
+      "total": -3,
       "bias": "偏空"
     },
     {
       "name": "鸡蛋",
-      "price": 3341.0,
-      "change_pct": 2.0776,
-      "basis": -0.19493975903614458,
+      "price": 3377.0,
+      "change_pct": 2.20944,
+      "basis": -0.1862650602409639,
       "basis_desc": "贴水0.2%",
       "inventory": null,
       "inventory_desc": "—",
@@ -1941,24 +1953,6 @@
       "funds_desc": "空头集中 减仓",
       "member_net": 15.9,
       "total": -3,
-      "bias": "偏空"
-    },
-    {
-      "name": "玻璃",
-      "price": 845.0,
-      "change_pct": -0.35377,
-      "basis": -0.10774058577405854,
-      "basis_desc": "贴水0.1%",
-      "inventory": [
-        "stable",
-        0.0
-      ],
-      "inventory_desc": "稳定",
-      "supply_desc": "复产",
-      "policy_desc": "反倾销/复产",
-      "funds_desc": "空头集中 减仓",
-      "member_net": 5.2,
-      "total": -4,
       "bias": "偏空"
     }
   ],
