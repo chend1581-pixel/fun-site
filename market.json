@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T22:45:48.981309+08:00",
+  "updated": "2026-11-01T08:31:12.558484+08:00",
   "btc": {
     "updated": "2026-10-31T13:24:26.567735+08:00",
     "symbol": "BTCUSDT",
@@ -1161,6 +1161,24 @@
       "bias": "中性"
     },
     {
+      "name": "沪镍",
+      "price": 115380.0,
+      "change_pct": -1.71224,
+      "basis": -0.022873791630733553,
+      "basis_desc": "平水",
+      "inventory": [
+        "decrease",
+        -0.58
+      ],
+      "inventory_desc": "去库-0.6%",
+      "supply_desc": "减产",
+      "policy_desc": "—",
+      "funds_desc": "空头集中",
+      "member_net": 9.4,
+      "total": 1,
+      "bias": "中性"
+    },
+    {
       "name": "沪锡",
       "price": 362880.0,
       "change_pct": -1.96672,
@@ -1280,24 +1298,6 @@
       "policy_desc": "—",
       "funds_desc": "空头集中 减仓",
       "member_net": 23.5,
-      "total": 1,
-      "bias": "中性"
-    },
-    {
-      "name": "菜油",
-      "price": 10317.0,
-      "change_pct": 0.2137,
-      "basis": -0.047004608294930916,
-      "basis_desc": "平水",
-      "inventory": [
-        "stable",
-        0.0
-      ],
-      "inventory_desc": "稳定",
-      "supply_desc": "—",
-      "policy_desc": "—",
-      "funds_desc": "多头集中 增仓",
-      "member_net": -28.7,
       "total": 1,
       "bias": "中性"
     },
@@ -1512,6 +1512,24 @@
       "bias": "中性"
     },
     {
+      "name": "菜油",
+      "price": 10317.0,
+      "change_pct": 0.2137,
+      "basis": -0.047004608294930916,
+      "basis_desc": "平水",
+      "inventory": [
+        "stable",
+        0.0
+      ],
+      "inventory_desc": "稳定",
+      "supply_desc": "供过于求",
+      "policy_desc": "—",
+      "funds_desc": "多头集中 增仓",
+      "member_net": -28.7,
+      "total": 0,
+      "bias": "中性"
+    },
+    {
       "name": "短纤",
       "price": 8712.0,
       "change_pct": 2.20554,
@@ -1545,24 +1563,6 @@
       "funds_desc": "空头集中 减仓",
       "member_net": 14.5,
       "total": 0,
-      "bias": "中性"
-    },
-    {
-      "name": "沪镍",
-      "price": 115380.0,
-      "change_pct": -1.71224,
-      "basis": -0.022873791630733553,
-      "basis_desc": "平水",
-      "inventory": [
-        "decrease",
-        -0.58
-      ],
-      "inventory_desc": "去库-0.6%",
-      "supply_desc": "减产/高库存",
-      "policy_desc": "—",
-      "funds_desc": "空头集中",
-      "member_net": 9.4,
-      "total": -1,
       "bias": "中性"
     },
     {
