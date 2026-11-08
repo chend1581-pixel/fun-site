@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T22:45:52.928745+08:00",
+  "updated": "2026-11-08T08:31:18.671076+08:00",
   "btc": {
     "updated": "2026-10-31T13:24:26.567735+08:00",
     "symbol": "BTCUSDT",
@@ -1161,6 +1161,24 @@
       "bias": "中性"
     },
     {
+      "name": "沪镍",
+      "price": 123360.0,
+      "change_pct": 0.39063,
+      "basis": -0.011622574463094226,
+      "basis_desc": "平水",
+      "inventory": [
+        "stable",
+        -0.24
+      ],
+      "inventory_desc": "稳定",
+      "supply_desc": "减产",
+      "policy_desc": "环保",
+      "funds_desc": "空头集中 减仓",
+      "member_net": 9.2,
+      "total": 1,
+      "bias": "中性"
+    },
+    {
       "name": "沪锡",
       "price": 349830.0,
       "change_pct": 1.01643,
@@ -1332,24 +1350,6 @@
       "bias": "中性"
     },
     {
-      "name": "沪镍",
-      "price": 123360.0,
-      "change_pct": 0.39063,
-      "basis": -0.011622574463094226,
-      "basis_desc": "平水",
-      "inventory": [
-        "stable",
-        -0.24
-      ],
-      "inventory_desc": "稳定",
-      "supply_desc": "减产",
-      "policy_desc": "—",
-      "funds_desc": "空头集中 减仓",
-      "member_net": 9.2,
-      "total": 0,
-      "bias": "中性"
-    },
-    {
       "name": "沪银",
       "price": 12523.0,
       "change_pct": -0.41352000000000005,
@@ -1430,24 +1430,6 @@
       "policy_desc": "—",
       "funds_desc": "多头集中",
       "member_net": -4.9,
-      "total": 0,
-      "bias": "中性"
-    },
-    {
-      "name": "玉米",
-      "price": 2230.0,
-      "change_pct": 0.13471,
-      "basis": 0.01689497716894972,
-      "basis_desc": "平水",
-      "inventory": [
-        "stable",
-        0.0
-      ],
-      "inventory_desc": "稳定",
-      "supply_desc": "去库/去库存",
-      "policy_desc": "—",
-      "funds_desc": "空头集中",
-      "member_net": 8.7,
       "total": 0,
       "bias": "中性"
     },
@@ -1628,6 +1610,24 @@
       "policy_desc": "—",
       "funds_desc": "空头集中",
       "member_net": 31.7,
+      "total": -1,
+      "bias": "中性"
+    },
+    {
+      "name": "玉米",
+      "price": 2230.0,
+      "change_pct": 0.13471,
+      "basis": 0.01689497716894972,
+      "basis_desc": "平水",
+      "inventory": [
+        "stable",
+        0.0
+      ],
+      "inventory_desc": "稳定",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "空头集中",
+      "member_net": 8.7,
       "total": -1,
       "bias": "中性"
     },
