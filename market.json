@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T22:45:52.940889+08:00",
+  "updated": "2026-11-09T08:31:14.443133+08:00",
   "btc": {
     "updated": "2026-10-31T13:24:26.567735+08:00",
     "symbol": "BTCUSDT",
@@ -1470,6 +1470,24 @@
       "bias": "中性"
     },
     {
+      "name": "聚丙烯",
+      "price": 9518.0,
+      "change_pct": 0.23168,
+      "basis": -0.14419642857142856,
+      "basis_desc": "贴水0.1%",
+      "inventory": [
+        "increase",
+        2.26
+      ],
+      "inventory_desc": "累库2.3%",
+      "supply_desc": "—",
+      "policy_desc": "环保",
+      "funds_desc": "多头集中 减仓",
+      "member_net": -5.5,
+      "total": 0,
+      "bias": "中性"
+    },
+    {
       "name": "玻璃",
       "price": 915.0,
       "change_pct": 2.57848,
@@ -1646,24 +1664,6 @@
       "policy_desc": "—",
       "funds_desc": "空头集中 减仓",
       "member_net": 8.9,
-      "total": -1,
-      "bias": "中性"
-    },
-    {
-      "name": "聚丙烯",
-      "price": 9518.0,
-      "change_pct": 0.23168,
-      "basis": -0.14419642857142856,
-      "basis_desc": "贴水0.1%",
-      "inventory": [
-        "increase",
-        2.26
-      ],
-      "inventory_desc": "累库2.3%",
-      "supply_desc": "—",
-      "policy_desc": "—",
-      "funds_desc": "多头集中 减仓",
-      "member_net": -5.5,
       "total": -1,
       "bias": "中性"
     },
