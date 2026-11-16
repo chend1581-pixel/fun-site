@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T22:45:56.339439+08:00",
+  "updated": "2026-11-16T08:31:21.112009+08:00",
   "btc": {
     "updated": "2026-10-31T13:24:26.567735+08:00",
     "symbol": "BTCUSDT",
@@ -1125,6 +1125,24 @@
       "bias": "偏多"
     },
     {
+      "name": "沪铅",
+      "price": 15950.0,
+      "change_pct": 1.36638,
+      "basis": -0.019314641744548333,
+      "basis_desc": "平水",
+      "inventory": [
+        "decrease",
+        -1.83
+      ],
+      "inventory_desc": "去库-1.8%",
+      "supply_desc": "—",
+      "policy_desc": "—",
+      "funds_desc": "多头集中",
+      "member_net": -4.3,
+      "total": 2,
+      "bias": "偏多"
+    },
+    {
       "name": "菜粕",
       "price": 2282.0,
       "change_pct": -0.043800000000000006,
@@ -1157,24 +1175,6 @@
       "policy_desc": "—",
       "funds_desc": "均衡 增仓",
       "member_net": -1.2,
-      "total": 1,
-      "bias": "中性"
-    },
-    {
-      "name": "沪铅",
-      "price": 15950.0,
-      "change_pct": 1.36638,
-      "basis": -0.019314641744548333,
-      "basis_desc": "平水",
-      "inventory": [
-        "decrease",
-        -1.83
-      ],
-      "inventory_desc": "去库-1.8%",
-      "supply_desc": "需求疲弱/高库存",
-      "policy_desc": "—",
-      "funds_desc": "多头集中",
-      "member_net": -4.3,
       "total": 1,
       "bias": "中性"
     },
