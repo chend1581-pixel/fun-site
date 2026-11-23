@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T22:45:58.098781+08:00",
+  "updated": "2026-11-23T08:31:25.229926+08:00",
   "btc": {
     "updated": "2026-10-31T13:24:26.567735+08:00",
     "symbol": "BTCUSDT",
@@ -1512,6 +1512,24 @@
       "bias": "中性"
     },
     {
+      "name": "沪铜",
+      "price": 92420.0,
+      "change_pct": -1.00686,
+      "basis": -0.09070037425945954,
+      "basis_desc": "平水",
+      "inventory": [
+        "decrease",
+        -6.89
+      ],
+      "inventory_desc": "去库-6.9%",
+      "supply_desc": "—",
+      "policy_desc": "加息",
+      "funds_desc": "空头集中",
+      "member_net": 5.1,
+      "total": -1,
+      "bias": "中性"
+    },
+    {
       "name": "沪锌",
       "price": 23900.0,
       "change_pct": -0.6237,
@@ -1782,24 +1800,6 @@
       "bias": "中性"
     },
     {
-      "name": "沪铜",
-      "price": 92420.0,
-      "change_pct": -1.00686,
-      "basis": -0.09070037425945954,
-      "basis_desc": "平水",
-      "inventory": [
-        "decrease",
-        -6.89
-      ],
-      "inventory_desc": "去库-6.9%",
-      "supply_desc": "需求疲弱",
-      "policy_desc": "加息",
-      "funds_desc": "空头集中",
-      "member_net": 5.1,
-      "total": -2,
-      "bias": "偏空"
-    },
-    {
       "name": "燃油",
       "price": 3658.0,
       "change_pct": -4.5656099999999995,
@@ -1949,7 +1949,7 @@
       ],
       "inventory_desc": "稳定",
       "supply_desc": "—",
-      "policy_desc": "逆回购/加息",
+      "policy_desc": "加息",
       "funds_desc": "空头集中",
       "member_net": 4.0,
       "total": -3,
